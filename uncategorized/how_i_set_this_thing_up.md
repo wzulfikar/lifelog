@@ -12,7 +12,7 @@ First step was logging in to my GitBook account, clicked that __New Book__ butto
 
 Here, I can directly use GitBook web editor and start writing. But, what I wanted is to put files of my book in GitHub then trigger the push from GitHub to GitBook when changes happen.
 
-My approach was, :
+My approach was :
 - Create new GitHub repository (`wzulfikar/lifelog`)
 - Link my GitHub repository to this GitBook (`Settings > GitHub`)
 - Click __Add Webhook__ button
