@@ -1,5 +1,7 @@
 # How I set this thing up
 
+t
+
 I use OSX, 10.9.5 and have both Github Desktop and GitBook Editor installed. 
 
 ![GitBook & GitHub Desktop](../images/gitbook_github.png)
