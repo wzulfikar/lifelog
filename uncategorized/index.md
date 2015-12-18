@@ -1,3 +1,3 @@
 # Uncategorized
 
-Here are things that I wrote. use pull request instead of sync
+Here are things I wrote but yet didn't/couldn't decide where to put. Ya know what i mean 😁
