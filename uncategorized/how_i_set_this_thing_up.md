@@ -21,7 +21,7 @@ In GitBook Editor, there was 2 tabs: **LOCAL LIBRARY** and **GITBOOK.COM**. Clic
 
 ![clone this book](../images/clone-this-book.png)
 
-After cloning the book -- *yes, I clicked that **Clone as a new book** button*, I opened it in GitBook Editor: **Local Library** tab. 
+After cloning the book *— yes, I clicked that **Clone as a new book** button*, I opened it in GitBook Editor: **Local Library** tab. 
 
 *The files are in my machine now.*
 
@@ -35,6 +35,6 @@ Now, whenever I click that **Sync** button from GitBook Editor, it will push to 
 
 # The “Gotchas”
 
-- If any file inside GitBook directory was edited without GitBook Editor, the changes is not reflected.
+- If you push the repository without GitBook Editor *—using GitHub Desktop for example*, don't forget to **pull** the change before *syncing* it using GitBook Editor.
 
 Honestly, I couldn't easily wrap my mind on how this GitBook work. A bit frustrated, but finally managed to make this up and running.
