@@ -25,6 +25,8 @@ After cloning the book -- *yes, I clicked that **Clone as a new book** button*, 
 
 *The files are in my machine now.*
 
-As I wanted to make GitHub repository as the origin, I open GitBook Editor **Help** (`command + shift + ?`) and searched for **Repository Setting**.
+As I wanted to make GitHub repository as the origin, I open GitBook Editor **Help** (`command + shift + ?`) and searched for **Repository Setting**. There, I told GitBook Editor where to push.
+
+![repository settings](../images/repository_settings.png)
 
 Honestly, I couldn't easily wrap my mind on how this GitBook work. A bit frustrated, but finally managed to make this up and running.
