@@ -33,8 +33,8 @@ Now, whenever I click that **Sync** button from GitBook Editor, it will push to 
 
 ![gitbook-sync](../images/gitbook-sync.png)
 
-# The “Gotchas”
+# The “Gotcha”
 
-- If you push the repository without GitBook Editor *—using GitHub Desktop for example*, don't forget to **pull** the change before *syncing* it using GitBook Editor.
+- If you push the repository without GitBook Editor *—using GitHub Desktop for example*, don't forget to **pull** the change GitBook Editor (`Book > Pull`) before *syncing* it.
 
 Honestly, I couldn't easily wrap my mind on how this GitBook work. A bit frustrated, but finally managed to make this up and running.
