@@ -16,3 +16,5 @@ My approach was, :
 - Create new GitHub repository (`wzulfikar/lifelog`)
 - Link my GitHub repository to this GitBook (`Settings > GitHub`)
 - Click __Add Webhook__ button
+
+
