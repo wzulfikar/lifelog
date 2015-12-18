@@ -1,3 +1,3 @@
 # Uncategorized
 
-Here are things that I wrote sdf
+Here are things that I wrote
