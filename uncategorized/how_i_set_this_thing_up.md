@@ -1,6 +1,6 @@
 # How I set this thing up
 
-*Saturday, 19 December 2015*
+*Saturday, 19 December 2015.*
 
 I use OSX, 10.9.5 and have both Github Desktop and GitBook Editor installed. 
 
