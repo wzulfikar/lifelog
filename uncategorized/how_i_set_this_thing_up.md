@@ -15,7 +15,7 @@ My approach was:
 - Link my GitHub repository to this GitBook (`Settings > GitHub`)
 - Click __Add Webhook__ button
 
->Clicking __Add Webhook__ button will create new entry in your GitHub repository setting `Webhooks & services`.
+>Clicking __Add Webhook__ button will create new entry in your GitHub repository `Setting > Webhooks & services`.
 
 In GitBook Editor, there was 2 tabs: **LOCAL LIBRARY** and **GITBOOK.COM**. Clicked **Life Log** in **GITBOOK.COM** tab then this dialog came:
 
