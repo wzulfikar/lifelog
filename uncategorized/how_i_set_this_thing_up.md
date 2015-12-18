@@ -33,4 +33,8 @@ Now, whenever I click that **Sync** button from GitBook Editor, it will push to 
 
 ![gitbook-sync](../images/gitbook-sync.png)
 
+# The “Gotchas”
+
+
+
 Honestly, I couldn't easily wrap my mind on how this GitBook work. A bit frustrated, but finally managed to make this up and running.
