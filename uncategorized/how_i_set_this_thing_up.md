@@ -31,4 +31,6 @@ As I wanted to make GitHub repository as the origin, I open GitBook Editor **Hel
 
 Now, whenever I click that **Sync** button from GitBook Editor, it will push to `https://github.com/wzulfikar/lifelog.git`. From there, since we added the webhook, GitHub will push the update to GitBook.
 
+
+
 Honestly, I couldn't easily wrap my mind on how this GitBook work. A bit frustrated, but finally managed to make this up and running.
