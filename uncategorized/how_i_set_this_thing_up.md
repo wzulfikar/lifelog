@@ -19,7 +19,7 @@ My approach was:
 
 In GitBook Editor, there was 2 tabs: **LOCAL LIBRARY** and **GITBOOK.COM**. Clicked **Life Log** in **GITBOOK.COM** tab then this dialog came:
 
-![
+![clone this book](../images/clone-this-book.png)
 
 
 Honestly, I couldn't easily wrap my mind on how this GitBook work. A bit frustrated, but finally managed to make this up and running.
