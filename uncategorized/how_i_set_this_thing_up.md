@@ -11,3 +11,8 @@ Honestly, I couldn't easily wrap my mind on how this GitBook work. A bit frustra
 First step was logging in to my GitBook account, clicked that __New Book__ button and then filled up necessary information for my GitBook (title, etc). Pretty easy.
 
 Here, I can directly use GitBook web editor and start writing. But, what I wanted is to put files of my book in GitHub then trigger the push from GitHub to GitBook when changes happen.
+
+My approach was, :
+- Create new GitHub repository (`wzulfikar/lifelog`)
+- Link my GitHub repository to this GitBook (`Settings > GitHub`)
+- Go to `Webhooks & services` in my `wzulfikar/lifelog` repository
