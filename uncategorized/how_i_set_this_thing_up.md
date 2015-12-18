@@ -8,3 +8,5 @@ Honestly, I couldn't easily wrap my mind on how this GitBook work. A bit frustra
 
 >To do this, you must have signed up with GitBook and Github.
 
+First step was logging in to my GitBook account, clicked that __New Book__ button and then filled up necessary information for my GitBook (title, etc). Pretty easy.
+
