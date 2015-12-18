@@ -17,4 +17,5 @@ My approach was:
 - Link my GitHub repository to this GitBook (`Settings > GitHub`)
 - Click __Add Webhook__ button
 
+>Clicking __Add Webhook__ button will create new entry in your GitHub repository setting `Webhooks & services`.
 
