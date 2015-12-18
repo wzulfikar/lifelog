@@ -17,7 +17,7 @@ My approach was:
 
 >Clicking __Add Webhook__ button will create new entry in your GitHub repository setting `Webhooks & services`.
 
-In GitBook Editor, there was 2 tabs: **LOCAL LIBRARY** and **GITBOOK.COM**
+In GitBook Editor, there was 2 tabs: **LOCAL LIBRARY** and **GITBOOK.COM**. Clicked **Life Log** in **GITBOOK.COM** tab
 
 
 Honestly, I couldn't easily wrap my mind on how this GitBook work. A bit frustrated, but finally managed to make this up and running.
