@@ -21,5 +21,6 @@ In GitBook Editor, there was 2 tabs: **LOCAL LIBRARY** and **GITBOOK.COM**. Clic
 
 ![clone this book](../images/clone-this-book.png)
 
+After cloning the book -- *yes, I clicked that **Clone as a new book** button*, I opened it in GitBook Editor: **Local Library** tab.
 
 Honestly, I couldn't easily wrap my mind on how this GitBook work. A bit frustrated, but finally managed to make this up and running.
