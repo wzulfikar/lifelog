@@ -29,8 +29,8 @@ As I wanted to make GitHub repository as the origin, I open GitBook Editor **Hel
 
 ![repository settings](../images/repository_settings.png)
 
-Now, whenever I click that **Sync** button from GitBook Editor, it will push to `https://github.com/wzulfikar/lifelog.git`. From there, since we added the webhook, GitHub will push the update to GitBook.
+Now, whenever I click that **Sync** button from GitBook Editor, it will push to `https://github.com/wzulfikar/lifelog.git`. From there, since we added the webhook, GitHub will push the update to GitBook. So, the flow is: `Local Machine -> GitHub -> GitBook`.
 
-
+![gitbook-sync](../images/gitbook-sync.png)
 
 Honestly, I couldn't easily wrap my mind on how this GitBook work. A bit frustrated, but finally managed to make this up and running.
