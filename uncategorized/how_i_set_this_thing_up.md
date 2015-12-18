@@ -4,8 +4,6 @@ I use OSX, 10.9.5 and have both Github Desktop and GitBook Editor installed.
 
 ![Local Image](../images/gitbook_github.png)
 
-Honestly, I couldn't easily wrap my mind on how this GitBook work. A bit frustrated, but finally managed to make this up and running.
-
 >To do this, you must have signed up with GitBook and Github.
 
 First step was logging in to my GitBook account, clicked that __New Book__ button and then filled up necessary information for my GitBook (title, etc). Pretty easy.
@@ -19,3 +17,8 @@ My approach was:
 
 >Clicking __Add Webhook__ button will create new entry in your GitHub repository setting `Webhooks & services`.
 
+Since I will use GitBook Editor, 
+
+
+
+Honestly, I couldn't easily wrap my mind on how this GitBook work. A bit frustrated, but finally managed to make this up and running.
