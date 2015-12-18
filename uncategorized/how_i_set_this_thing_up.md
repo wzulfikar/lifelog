@@ -15,4 +15,4 @@ Here, I can directly use GitBook web editor and start writing. But, what I wante
 My approach was, :
 - Create new GitHub repository (`wzulfikar/lifelog`)
 - Link my GitHub repository to this GitBook (`Settings > GitHub`)
-- Go to `Webhooks & services` in my `wzulfikar/lifelog` repository
+- Click __Add Webhook__ button
