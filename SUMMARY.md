@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Tech Stuffs](tech/README.md)
-   * [Telegram Bot](programming/telegram_bot.md)
+   * [Telegram Bot](tech/telegram_bot.md)
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
 * [Programming](programming/README.md)
    * [Let's code to interface. But why?](programming/why-code-to-interface-php.md)
