@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Programming](php/README.md)
+* [Programming](programming/README.md)
    * [Let's code to interface. But why?](php/why-code-to-interface-php.md)
 * [Tech](tech/README.md)
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
