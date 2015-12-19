@@ -5,3 +5,23 @@ http://pastebin.ca/2088573
 
 loosely coupling code
 http://stackoverflow.com/questions/383947/what-does-it-mean-to-program-to-an-interface
+
+class Horse {
+
+}
+
+class Human {
+
+}
+
+class Table {
+
+}
+
+interface CanDie{
+    function die();
+}
+
+function die()
+
+Basically, interface is a contract. 
