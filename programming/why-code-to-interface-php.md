@@ -18,14 +18,22 @@ class Table {
 
 }
 
-interface CanDie{
-    function die();
+interface CanEat{
+    function eat();
 }
 
-function die()
+
+$horse = new Horse();
+
+$human = new Human();
+
+function eat(){
+
+}
 
 Horse, human and table are concrete classes here.
 
 
 Basically, interface is a contract. Abstract class.
 
+Using abstract class == easily swappable.
