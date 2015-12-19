@@ -25,3 +25,6 @@ Using `getMe` command will return information about your bot. Something like thi
 {"ok":true,"result":{"id":"bot_id","first_name":"bot_first_name","username":"bot_username"}}
 ```
 
+To test whether the bot can receive message, try sending a message to `@your_bot_name` from your telegram account then visit this url:
+
+[https://api.telegram.org/bot{your_bot_token}/getUpdates]()
