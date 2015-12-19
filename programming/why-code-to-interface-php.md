@@ -27,7 +27,8 @@ $horse = new Horse();
 
 $human = new Human();
 
-// since we know that Horse and Human 
+// since we know that Horse and Human implemented CanEat interface,
+// they obviously have thus methods defined inside CanEat interface. 
 
 function eat(CanEat $canEat){
     
