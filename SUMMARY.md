@@ -5,6 +5,7 @@
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
 * [Programming](programming/README.md)
    * [Let's code to interface. But why?](programming/why-code-to-interface-php.md)
+       * Telegram Bot
 * [Personal](personal/README.md)
    * [That Taxi Driver](personal/that-taxi-driver.md)
 * [Uncategorized](uncategorized/README.md)
