@@ -8,4 +8,4 @@ Another messaging platform [Telegram](https://telegram.org) that offer programma
 
 >You can find list of available command here: [https://core.telegram.org/bots#commands]().
 
-### *What I did to set up my first bot*
+### What I did to set up my first bot..
