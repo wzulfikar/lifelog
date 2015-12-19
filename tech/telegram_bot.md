@@ -4,9 +4,9 @@
 
 Another messaging platform [Telegram](https://telegram.org) that offer programmable bot. The bot uses HTTP API, and its endpoint is:
 
-[https://api.telegram.org/bot{your_bot_token}/{commandName}]()
+>[https://api.telegram.org/bot{your_bot_token}/{commandName}]()
 
->You can find list of available command here: [https://core.telegram.org/bots#commands]().
+*You can find list of available command here: [https://core.telegram.org/bots#commands]()*
 
 ### What I did to set up my first bot..
 First thing to do is to talk to [BotFather](https://telegram.me/botfather) using your Telegram account.
