@@ -14,3 +14,9 @@ First thing to do is to talk to [BotFather](https://telegram.me/botfather) using
 ![BotFather](../images/botfather.png)
 
 Send him a message “`/newbot`” and then he'll guide you from there. To display things you can do with [BotFather](https://telegram.me/botfather), send him “`/help`”.
+
+Once the new bot is created, you can test it by visiting this url:
+
+[https://api.telegram.org/bot{your_bot_token}/getMe]()
+
+[https://github.com/irazasyed/telegram-bot-sdk]()
