@@ -2,10 +2,9 @@
 
 * [Introduction](README.md)
 * [Tech Stuffs](tech/README.md)
-   * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
-* [Telegram Bot](programming/telegram_bot.md)
-* [Programming](programming/README.md)
    * [Telegram Bot](programming/telegram_bot.md)
+   * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
+* [Programming](programming/README.md)
    * [Let's code to interface. But why?](programming/why-code-to-interface-php.md)
 * [Personal](personal/README.md)
    * [That Taxi Driver](personal/that-taxi-driver.md)
