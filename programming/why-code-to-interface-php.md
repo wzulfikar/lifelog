@@ -6,6 +6,7 @@ http://pastebin.ca/2088573
 loosely coupling code
 http://stackoverflow.com/questions/383947/what-does-it-mean-to-program-to-an-interface
 
+```php
 class Horse implements CanEat{
 
 }
@@ -33,6 +34,7 @@ $human = new Human();
 function eat(CanEat $canEat){
     
 }
+```
 
 Horse, human and table are concrete classes here.
 
