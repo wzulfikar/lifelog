@@ -31,6 +31,6 @@ It will display things sent to your bot in JSON format. To dig deeper, you can v
 
 >[https://api.telegram.org/bots]()
 
-By the way, there's this Telegram Bot SDK for PHP here: [https://irazasyed.github.io/telegram-bot-sdk]()
+By the way, in case you're into PHP, someone made SDK here: [https://irazasyed.github.io/telegram-bot-sdk]()
 
 Happy coding 😁 !
