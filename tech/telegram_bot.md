@@ -19,4 +19,8 @@ Once the new bot is created, you can test it by visiting this url:
 
 [https://api.telegram.org/bot{your_bot_token}/getMe]()
 
-[https://github.com/irazasyed/telegram-bot-sdk]()
+the `getMe` command will return information about your bot. Something like this:
+
+```json
+{"ok":true,"result":{"id":bot_id,"first_name":"bot_first_name","username":"bot_username"}}
+```
