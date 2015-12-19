@@ -11,4 +11,4 @@ Another messaging platform [Telegram](https://telegram.org) that offer programma
 ### What I did to set up my first bot..
 First thing to do is to talk to [BotFather](https://telegram.me/botfather) using your Telegram account.
 
-![../images/botfather.png]()
+![BotFather](../images/botfather.png)
