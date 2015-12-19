@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [PHP](php/README.md)
-   * [Let's code to interface. But why?](php/why-code-to-interface-php)
+   * [Let's code to interface. But why?](php/why-code-to-interface-php.md)
 * [Personal](personal/README.md)
    * [That Taxi Driver](personal/that-taxi-driver.md)
 * [Uncategorized](uncategorized/README.md)
