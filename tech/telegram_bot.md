@@ -7,11 +7,10 @@ Another messaging platform [Telegram](https://telegram.org) that offer programma
 *You can find list of available command here: [https://core.telegram.org/bots#commands]()*
 
 ### What I did to set up my first bot..
-First thing to do is to talk to [BotFather](https://telegram.me/botfather) using your Telegram account.
+Talk to [BotFather](https://telegram.me/botfather) using your Telegram account, send him a message “`/newbot`” and then he'll guide you from there. To display things you can do with [BotFather](https://telegram.me/botfather), send him “`/help`”.
+
 
 ![BotFather](../images/botfather.png)
-
-Send him a message “`/newbot`” and then he'll guide you from there. To display things you can do with [BotFather](https://telegram.me/botfather), send him “`/help`”.
 
 Once the new bot is created, you can test it by visiting this url:
 
