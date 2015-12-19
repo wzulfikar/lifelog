@@ -1,7 +1,5 @@
 # Telegram Bot
 
-*Official Documentation: [https://api.telegram.org/bots]()*.
-
 Another messaging platform [Telegram](https://telegram.org) that offer programmable bot. The bot uses HTTP API, and its endpoint is:
 
 >[https://api.telegram.org/bot{your_bot_token}/{commandName}]()
@@ -29,4 +27,4 @@ To test whether the bot can receive message, try sending a message to `@your_bot
 
 [https://api.telegram.org/bot{your_bot_token}/getUpdates]()
 
-It will display things sent to your bot in JSON format.
+It will display things sent to your bot in JSON format. To dig deeper, you can visit official documentation for Telegram bot: [https://api.telegram.org/bots]().
