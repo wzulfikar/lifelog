@@ -28,3 +28,4 @@ Horse, human and table are concrete classes here.
 
 
 Basically, interface is a contract. Abstract class.
+
