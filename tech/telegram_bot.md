@@ -30,3 +30,5 @@ To test whether the bot can receive message, try sending a message to `@your_bot
 It will display things sent to your bot in JSON format. To dig deeper, you can visit official documentation for Telegram bot here: 
 
 >[https://api.telegram.org/bots]()
+
+Happy coding 😁 !
