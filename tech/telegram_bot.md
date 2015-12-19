@@ -11,6 +11,7 @@ Talk to [BotFather](https://telegram.me/botfather) using your Telegram account, 
 
 
 ![BotFather](../images/botfather.png)
+![BotFather Help](../images/botfather-help.png)
 
 Once the new bot is created, you can test it by visiting this url:
 
