@@ -1,5 +1,7 @@
 # Using Cent to Represent Currency
 
+Double, float, they shouldn't be used for anything that requires accuracy.
+
 ```php
 function denominate($int){
     return number($int/100, 2);
