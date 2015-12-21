@@ -14,6 +14,8 @@ images:
 - ![GitHub Desktop](../images/github-desktop-about.png)
 - ![Atlassian SourceTree](../images/sourcetree-about.png)
 - ![GitHub Desktop Tutorial](../images/github-desktop-tutorial.png)
+- ![GitHub Desktop Sidebar](../images/github-desktop-sidebar.png)
+- ![SourceTree Sidebar](../images/sourcetree-sidebar.png)
 
 
 
