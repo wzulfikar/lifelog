@@ -10,7 +10,7 @@ Outline:
 GitHub Desktop:
 - Has built-in tutorial
 
-Website:
+Sites:
 - https://desktop.github.com
 - https://www.sourcetreeapp.com
 
