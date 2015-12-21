@@ -24,5 +24,11 @@ private function translateCommandExitCode($class, $exitCode)
 ## Usage
 Assuming I'm in `UserController` and already set `translateCommandExitCode` method:
 ```php
+$exitCode = Artisan::call('user:login',
+                          [
+                            'username'=>'testuser',
+                            'password'=>'pass'
+                          ]
+                         );
 $this->translateCommandExitCode('UserLogin',$exitCode) == 'FAILED'
 ```
