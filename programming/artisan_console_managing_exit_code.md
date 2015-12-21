@@ -26,7 +26,7 @@ Assuming I'm in `UserController` and it has above `translateCommandExitCode` met
 ```php
 $exitCode = Artisan::call('user:login',
                           [
-                            'username'=>'testuser',
+                            'userId'=>'1',
                             'password'=>'pass'
                           ]
                          );
