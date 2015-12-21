@@ -51,5 +51,3 @@ Artisan::call('customer:deposit',
 - Reusable component: just call artisan console, via terminal or inside your code
 - Hookable event: I can tell Laravel to perform other task when the event is triggered
 - Can use advantage of `Artisan::queue`
-
-The advantage from having artisan console is, 
