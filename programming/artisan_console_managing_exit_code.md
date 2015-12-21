@@ -50,7 +50,9 @@ public function __construct()
 public function handle(){
 $userId = $this->argument('userId');
 $user = User::find($userId);
+
 if(!$user) return $this
+
 };
 ```
 
