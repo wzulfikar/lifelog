@@ -27,3 +27,5 @@ Artisan::call('user:login', ['user'=>...,'pass'=>...]);
 ```
 
 >After creating artisan console, don't forget to create new entry for it in `app/Console/Kernel.php`
+
+Following above steps, for each feature I develop I'll have at least an artisan console and an event. 
