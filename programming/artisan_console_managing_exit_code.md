@@ -48,7 +48,7 @@ public function __construct()
     parent::__construct();
 }
 public function handle(){
-    // get userId from argument
+    // get userId from argument & find the user
     $userId = $this->argument('userId');
 	$user = User::find($userId);
     
