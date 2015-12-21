@@ -14,5 +14,5 @@
 * [Uncategorized](uncategorized/README.md)
    * [How I set this thing up](uncategorized/how_i_set_this_thing_up.md)
 * [Learning Process](learning_process/README.md)
-* Draft
+* [Draft](draft/README.md)
 
