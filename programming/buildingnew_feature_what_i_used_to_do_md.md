@@ -26,7 +26,7 @@ For example, when building user login feature, i'll:
     `$this->expectsEvents($event_class);`
     - call artisan console
 - Put neccessary code for login there, including the trigger for event `UserLoginSucceed`
-- When I want to login a user from UserController, I'll:  
+- When I want to login a user from UserController, I'll call artisan console:  
     
 ```php
 // in UserController.php
