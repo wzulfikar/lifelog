@@ -30,5 +30,7 @@ $exitCode = Artisan::call('user:login',
                             'password'=>'pass'
                           ]
                          );
-$this->translateCommandExitCode('UserLogin',$exitCode) == 'FAILED'
+if($this->translateCommandExitCode('UserLogin',$exitCode) == 'FAILED'){
+    // do code when exit code is failed
+}
 ```
