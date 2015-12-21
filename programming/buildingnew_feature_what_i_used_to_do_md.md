@@ -10,3 +10,6 @@ When using Laravel, I used to do this when I reach the *start coding* part:
 - Create artisan console  
     `artisan make:console UserLogin --command 'user:login'`
 - Develop code for the new feature there
+- When need to execute new feature, call artisan console
+    `Artisan::call('commandName',$argument)`
+- 
