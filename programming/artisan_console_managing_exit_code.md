@@ -54,13 +54,5 @@ public function handle(){
 
 And in `UserController`, I'll do:
 ```php
-$exitCode = Artisan::call('user:login',
-                          [
-                            'userId'=>'1',
-                            'password'=>'pass'
-                          ]
-                         );
-if($this->translateCommandExitCode('UserLogin',$exitCode) == 'FAILED'){
-    // do code when exit code is FAILED
-}
+
 ```
