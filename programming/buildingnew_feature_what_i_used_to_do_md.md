@@ -22,8 +22,8 @@ For example, when building user login feature, i'll:
 `php artisan make:console UserLogin --command user:login`
 - Create test file  
 `php artisan make:test UserLoginTest`
-    - assert that above event is triggered using  
-    `$this->expectsEvents($event_class);`
+    - assert that the event is triggered  
+    `$this->expectsEvents(UserLoginSucceed::class);`
     - call artisan console
 - Put neccessary code for login there, including the trigger for event `UserLoginSucceed`
 - When I want to login a user from UserController, I'll call artisan console:  
