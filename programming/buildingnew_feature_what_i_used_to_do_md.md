@@ -7,8 +7,7 @@
 
 When using Laravel, I used to do this when I reach the *start coding* part:
 - Create event that will be triggered if the new feature is executed properly
-- Create artisan console  
-    `artisan make:console UserLogin --command 'user:login'`
+- Create artisan console to execute the new feature
 - Develop code for the new feature there
 - When need to execute new feature, call artisan console
     `Artisan::call('commandName',$argument)`
