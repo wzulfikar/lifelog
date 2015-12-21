@@ -18,3 +18,7 @@ For example, when building user login feature, i'll:
 
 - Create artisan console  
 `php artisan make:console UserLogin --command user:login`
+- Put neccessary code for login there
+- 
+
+>After creating artisan console, don't forget to create new entry for it in `app/Console/Kernel.php`
