@@ -35,7 +35,9 @@ Artisan::call('user:login', ['user'=>...,'pass'=>...]);
 
 >After creating artisan console, don't forget to create new entry for it in `app/Console/Kernel.php`
 
-Following above steps, for each feature I develop I'll have at least an artisan console and an event. This way, it will be easier for me to test. Using Laravel, my test will look like this:
+Following above steps, for each feature I develop I'll have at least an artisan console and an event. This way, I can get some advantages:
+
+- Easier for me to test. Using Laravel, my test will look like this:
 
 ```php
 // tell the test that we want UserLoginSucceed to be triggered
@@ -46,3 +48,5 @@ Artisan::call('customer:deposit',
               compact('username_or_email','amount')
               );
 ```
+
+The advantage from having artisan console is, 
