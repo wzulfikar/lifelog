@@ -22,6 +22,7 @@ private function translateCommandExitCode($class, $exitCode)
 ```
 
 ## Usage
+
 When we want to check whether an exit code returned is 'FAILED', use:
 
 `$this->translateCommandExitCode('UserLogin',$exitCode) == 'FAILED'`
