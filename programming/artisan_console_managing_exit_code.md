@@ -38,8 +38,16 @@ if($this->translateCommandExitCode('UserLogin',$exitCode) == 'FAILED'){
 By the way, this is my `UserLogin` console:
 
 ```php
-public function handle(){
+public static $EXIT_CODE = [
+    'FAILED'=>-1,
+    'USER_NOT_FOUND'=>0,
+    'SUCCESS'=>1
+];
 
+public function handle(){
+$userId = $this->argument('userId');
+$user = User::find($userId);
+if(!$user) return $this
 };
 ```
 
