@@ -13,3 +13,8 @@ When using Laravel, I used to do this when I reach the *start coding* part:
 - When need to execute new feature, call artisan console
     `Artisan::call('commandName',$argument)`
 - When I feel that the code is mature enough, I'll move that code to the respective service provider or repository.
+
+For example, when building user login feature, i'll:
+
+- Create artisan console  
+`php artisan make:console UserLogin --command user:login`
