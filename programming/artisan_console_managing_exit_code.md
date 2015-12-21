@@ -50,7 +50,8 @@ public function __construct()
 public function handle(){
     $userId = $this->argument('userId');
 	$user = User::find($userId);
-
+    
+    // return earlier if no user found
 	if(!$user) return self::$EXIT_CODE['USER_NOT_FOUND'];
     
 	auth()->loginUsingId($user->id);
