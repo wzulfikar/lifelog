@@ -6,7 +6,7 @@
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
 * [Programming](programming/README.md)
    * [From Source Tree to GitHub Desktop](programming/from_source_tree_to_github_desktop.md)
-   * [Building New Feature : What I used to do.](programming/building_new_feature_what_i_used_to_do.md)
+   * [Building New Feature : What I used to do.](programming/buildingnew_feature_what_i_used_to_do_md.md)
    * [Using Cent to Represent Currency](programming/using_cent_to_represent_currency.md)
    * [Let's code to interface. But why?](programming/why-code-to-interface-php.md)
 * [Personal](personal/README.md)
