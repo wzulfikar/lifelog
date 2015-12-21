@@ -67,8 +67,8 @@ public function UserLogin(){
 }
 public function translateCommandExitCode($class, $exitCode)
 {	
-	// retrieve fcqn (fully classified class name)
-	$fcqn = '\\App\\Console\\Commands\\' . $class;
-    return array_search($exitCode, $fcqn::$EXIT_CODE );
+	    // retrieve fcqn (fully classified class name)
+	    $fcqn = '\\App\\Console\\Commands\\' . $class;
+        return array_search($exitCode, $fcqn::$EXIT_CODE );
 }
 ```
