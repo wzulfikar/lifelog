@@ -6,7 +6,7 @@
 - Start coding, commit often 😜
 
 When using Laravel, I used to do this when I reach the *start coding* part:
-
+- Create event that will be triggered if the new feature is executed properly
 - Create artisan console  
     `artisan make:console UserLogin --command 'user:login'`
 - Develop code for the new feature there
@@ -15,7 +15,8 @@ When using Laravel, I used to do this when I reach the *start coding* part:
 - When I feel that the code is mature enough, I'll move that code to the respective service provider or repository.
 
 For example, when building user login feature, i'll:
-
+- Create event to determine succesful user login:  
+    `artisan make:event UserLoginSucceed`
 - Create artisan console  
 `php artisan make:console UserLogin --command user:login`
 - Put neccessary code for login there
