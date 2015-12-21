@@ -48,5 +48,7 @@ Artisan::call('customer:deposit',
               compact('username_or_email','amount')
               );
 ```
+- Reusable code: just call artisan console
+- Hookable event: I can tell Laravel to perform other task when the event is triggered
 
 The advantage from having artisan console is, 
