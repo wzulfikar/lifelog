@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Tech Stuffs](tech/README.md)
+   * [How I set this thing up](uncategorized/how_i_set_this_thing_up.md)
    * [Telegram Bot](tech/telegram_bot.md)
-* [How I set this thing up](uncategorized/how_i_set_this_thing_up.md)
 * [Programming](programming/README.md)
    * [Artisan console: managing exit code](programming/artisan_console_managing_exit_code.md)
    * [Building New Feature : What I used to do.](programming/buildingnew_feature_what_i_used_to_do_md.md)
@@ -11,7 +11,6 @@
 * [Personal](personal/README.md)
 * [Learning Process](learning_process/README.md)
 * [Uncategorized](uncategorized/README.md)
-   * [How I set this thing up](uncategorized/how_i_set_this_thing_up.md)
 * [Draft](draft/README.md)
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
    * [Using Cent to Represent Currency](programming/using_cent_to_represent_currency.md)
