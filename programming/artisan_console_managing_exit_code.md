@@ -52,7 +52,7 @@ public function handle(){
 };
 ```
 
-And in `UserController` and it has above `translateCommandExitCode` method, I'll do:
+And in `UserController`, I'll do:
 ```php
 $exitCode = Artisan::call('user:login',
                           [
