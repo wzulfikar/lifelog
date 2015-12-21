@@ -8,7 +8,7 @@
 When using Laravel, I used to do this when I reach the *start coding* part:
 - Create event that will be triggered if the new feature is executed properly
 - Create artisan console to execute the new feature
-- Develop code for the new feature there
+- Develop code for new feature there
 - When need to execute new feature, call artisan console
     `Artisan::call('commandName',$argument)`
 - When I feel that the code is mature enough, I'll move that code to the respective service provider or repository.
