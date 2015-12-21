@@ -5,7 +5,7 @@
 - Create test file for the feature, e.g: [PHPSpec](http://phpspec.net), [PHPUnit](https://phpunit.de), [Behat](http://behat.org), etc
 - Start coding, commit often 😜
 
-When using Laravel, I used to do this when I reach the *start coding* part:
+When using Laravel, I used to do this when I do the *start coding* part:
 - Create event that will be triggered if the new feature is executed properly
 - Create artisan console to execute the new feature
 - Develop code for new feature there
