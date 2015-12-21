@@ -57,6 +57,7 @@ public function handle(){
     // login the user
 	auth()->loginUsingId($user->id);
     
+    // fire event
 	event(new UserLoginSucceed);
 	return self::$EXIT_CODE['SUCCESS'];
 };
