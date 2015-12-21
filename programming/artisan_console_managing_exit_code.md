@@ -48,15 +48,14 @@ public function __construct()
     parent::__construct();
 }
 public function handle(){
+    $userId = $this->argument('userId');
+	$user = User::find($userId);
 
-$userId = $this->argument('userId');
-$user = User::find($userId);
+	if(!$user) return self::$EXIT_CODE['USER_NOT_FOUND'];
 
-if(!$user) return self::$EXIT_CODE['USER_NOT_FOUND'];
+	auth()->loginUsingId($user->id);
 
-auth()->loginUsingId($user->id);
-
-event(new UserLoginSucceed);
-return self::$EXIT_CODE['SUCCESS'];
+	event(new UserLoginSucceed);
+	return self::$EXIT_CODE['SUCCESS'];
 };
 ```
