@@ -11,8 +11,8 @@
 * [Personal](personal/README.md)
    * [That Taxi Driver](personal/that-taxi-driver.md)
 * [Uncategorized](uncategorized/README.md)
-   * [From Source Tree to GitHub Desktop](programming/from_source_tree_to_github_desktop.md)
    * [How I set this thing up](uncategorized/how_i_set_this_thing_up.md)
 * [Learning Process](learning_process/README.md)
+* [From Source Tree to GitHub Desktop](programming/from_source_tree_to_github_desktop.md)
 * [Draft](draft/README.md)
 
