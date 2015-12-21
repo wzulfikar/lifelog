@@ -8,6 +8,7 @@
 Personally, when using Laravel this is what I used to do:
 - Create event that will be triggered if the new feature is executed properly
 - Create artisan console to execute the new feature
+- Create test file
 - Develop code for new feature there
 - When need to execute new feature, call artisan console
     `Artisan::call('commandName',$argument)`
