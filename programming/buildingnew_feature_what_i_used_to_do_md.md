@@ -19,7 +19,7 @@ For example, when building user login feature, i'll:
     `artisan make:event UserLoginSucceed`
 - Create the console  
 `php artisan make:console UserLogin --command user:login`
-- Put neccessary code for login there
+- Put neccessary code for login there, including the trigger for event UserLoginSucceed
 - When I want to login a user from UserController, I'll:  
     
 ```php
