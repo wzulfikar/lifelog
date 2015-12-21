@@ -34,4 +34,7 @@ Following above steps, for each feature I develop I'll have at least an artisan 
 // 
 
 $this->expectsEvents(UserLoginSucceed::class);
+Artisan::call('customer:deposit',
+              compact('username_or_email','amount')
+              );
 ```
