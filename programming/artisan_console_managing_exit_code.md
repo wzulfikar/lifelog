@@ -34,3 +34,4 @@ if($this->translateCommandExitCode('UserLogin',$exitCode) == 'FAILED'){
     // do code when exit code is FAILED
 }
 ```
+
