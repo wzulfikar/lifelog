@@ -35,7 +35,7 @@ if($this->translateCommandExitCode('UserLogin',$exitCode) == 'FAILED'){
 }
 ```
 
-By the way, this is my `UserLogin` console:
+Assuming that below is my `UserLogin` console:
 
 ```php
 public static $EXIT_CODE = [
