@@ -2,6 +2,8 @@
 
 Double, float, they shouldn't be used for anything that requires accuracy.
 
+>There are some numbers which cannot be represented accurately using float point representation. Consider, for example, pi. How would you represent a number which has infinite digits, within a finite storage?   http://stackoverflow.com/a/960078
+
 ```php
 function denominate($int){
     return number($int/100, 2);
