@@ -31,8 +31,7 @@ Artisan::call('user:login', ['user'=>...,'pass'=>...]);
 Following above steps, for each feature I develop I'll have at least an artisan console and an event. This way, it will be easier for me to test. Using Laravel, my test will look like this:
 
 ```php
-// 
-
+// expect UserLoginSucceed
 $this->expectsEvents(UserLoginSucceed::class);
 Artisan::call('customer:deposit',
               compact('username_or_email','amount')
