@@ -54,6 +54,7 @@ public function handle(){
     // return earlier if no user found
 	if(!$user) return self::$EXIT_CODE['USER_NOT_FOUND'];
     
+    // login the user
 	auth()->loginUsingId($user->id);
     
 	event(new UserLoginSucceed);
