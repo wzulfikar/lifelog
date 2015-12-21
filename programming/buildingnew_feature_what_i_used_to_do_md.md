@@ -12,4 +12,4 @@ When using Laravel, I used to do this when I reach the *start coding* part:
 - Develop code for the new feature there
 - When need to execute new feature, call artisan console
     `Artisan::call('commandName',$argument)`
-- 
+- When I feel that the code is mature enough, I'll move that code to the respective service provider or repository
