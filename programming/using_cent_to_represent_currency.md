@@ -6,7 +6,7 @@ Double, float, they shouldn't be used for anything that requires accuracy.
 
 ```php
 function denominate($int){
-    return number($int/100, 2);
+    return number_format($int/100, 2);
 }
 ```
 
