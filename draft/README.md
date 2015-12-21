@@ -2,5 +2,6 @@
 
 Floating ideas, ice box, things that I wanted to write.
 
-- bro syak story with syafi
-- bro syak story of that mosque manager
+- bro syak story with syafi (personal)
+- bro syak story of that mosque manager (personal)
+- using alinof timer (tech stuff)
