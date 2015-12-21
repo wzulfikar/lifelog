@@ -10,8 +10,9 @@ Personally, when using Laravel this is what I used to do:
 - Create artisan console to execute the new feature
 - Create test file
 - Start coding for new feature
-- When need to execute new feature, call artisan console
+    - When need to execute new feature, call artisan console
     `Artisan::call('commandName',$argument)`
+    - Trigger above event inside artisan console
 - When I feel that the code is mature enough, I'll move that code to the respective service provider or repository.
 
 For example, when building user login feature, i'll:
