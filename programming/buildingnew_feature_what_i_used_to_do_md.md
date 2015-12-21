@@ -17,7 +17,7 @@ When using Laravel, I used to do this when I reach the *start coding* part:
 For example, when building user login feature, i'll:
 - Create event to determine succesful user login:  
     `artisan make:event UserLoginSucceed`
-- Create artisan console  
+- Create the console  
 `php artisan make:console UserLogin --command user:login`
 - Put neccessary code for login there
 - When I want to login a user from UserController, I'll:  
