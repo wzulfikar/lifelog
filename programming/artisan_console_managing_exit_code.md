@@ -20,3 +20,7 @@ private function translateCommandExitCode($class, $exitCode)
     return array_search($exitCode, $fcqn::$EXIT_CODE );
 }
 ```
+
+When we want to check whether an exit code returned is 'FAILED', use:
+
+`$this->translateCommandExitCode('UserLogin',$exitCode) == 'FAILED'`
