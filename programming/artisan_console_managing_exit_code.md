@@ -43,7 +43,10 @@ public static $EXIT_CODE = [
     'USER_NOT_FOUND'=>0,
     'SUCCESS'=>1
 ];
-
+public function __construct()
+{
+    parent::__construct();
+}
 public function handle(){
 $userId = $this->argument('userId');
 $user = User::find($userId);
