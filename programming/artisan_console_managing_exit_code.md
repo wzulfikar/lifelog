@@ -22,7 +22,7 @@ private function translateCommandExitCode($class, $exitCode)
 ```
 
 ## Usage
-Assuming I'm in `UserController` and already set `translateCommandExitCode` method:
+Assuming I'm in `UserController` and it has above `translateCommandExitCode` method:
 ```php
 $exitCode = Artisan::call('user:login',
                           [
