@@ -54,5 +54,21 @@ public function handle(){
 
 And in `UserController`, I'll do:
 ```php
-
+public function UserLogin(){
+		$exitCode = Artisan::call('user:login',
+		                          [
+		                            'userId'=>'1',
+		                            'password'=>'pass'
+		                          ]
+		                         );
+		if($this->translateCommandExitCode('UserLogin',$exitCode) == 'FAILED'){
+		    // do code when exit code is FAILED
+		}
+}
+public function translateCommandExitCode($class, $exitCode)
+{	
+	// retrieve fcqn (fully classified class name)
+	$fcqn = '\\App\\Console\\Commands\\' . $class;
+    return array_search($exitCode, $fcqn::$EXIT_CODE );
+}
 ```
