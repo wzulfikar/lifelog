@@ -7,4 +7,4 @@
 
 When using Laravel, I used to do this when I reach the *start coding* part:
 
-- Create 
+- Create artisan console
