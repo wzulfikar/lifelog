@@ -5,6 +5,6 @@
 - Use task runner ([gulpfile](http://gulpjs.com), [grunt](http://gruntjs.com), etc) for [tdd](https://en.wikipedia.org/wiki/Test-driven_development)
 - Start coding, commit often 😜
 
-When using Laravel, I used to do this in when I start coding:
+When using Laravel, I used to do this when I reach the *start coding* part:
 
 - Create 
