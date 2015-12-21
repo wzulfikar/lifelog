@@ -48,10 +48,13 @@ public function __construct()
     parent::__construct();
 }
 public function handle(){
+
 $userId = $this->argument('userId');
 $user = User::find($userId);
 
-if(!$user) return $this
+if(!$user) return self::$EXIT_CODE['USER_NOT_FOUND'];
+
+
 
 };
 ```
