@@ -26,7 +26,7 @@ Other forms of communication:
 - Small Group Communication  
     A group of from three to fifteen people meet to interact with a common purpose and mutually influence one another
 - Intrapersonal Communication  
-    Communication with yourself. Thinking perhaps the bes example of this
+    Communication with yourself. Thinking perhaps the best example of this
 
 
 Elements of the Communication Process
