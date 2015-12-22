@@ -6,3 +6,4 @@ It is good platform, easy to use but I just don't feel comfortable with it. It r
 
 Next, I moved to [tumblr](http://tumblr.com). Out of the box, it has some cool features. Scheduled post, private post, custom domain, etc. But I still get the problem I had with Wordpress: internet connection. However, [tumblr](http://tumblr.com) has mobile apps which is nice.
 
+Started to feel the pain, 
