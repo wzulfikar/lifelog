@@ -18,6 +18,7 @@ Be **other-oriented**, not **self-oriented**.
 Communication: process of acting on information.
 
 ---
+Other forms of communication:
 - Mass Comunication
 - Public Communication
 - Small Group Communication
