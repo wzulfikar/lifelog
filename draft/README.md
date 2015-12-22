@@ -23,3 +23,5 @@ https://www.npmjs.com/package/gulp-casperjs
 http://macr.ae/article/gulp-casperjs.html
 
 http://code-epicenter.com/web-scraping-with-casperjs-handling-pagination/
+
+http://code-epicenter.com/how-to-login-to-twitter-using-casperjs-and-phantomjs-and-extract-tweets/
