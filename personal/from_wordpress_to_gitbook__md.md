@@ -25,3 +25,5 @@ I used [GitBook](https://www.gitbook.com) before, to write documentation of a pr
 - Keep your writings around you
 - Desktop App
 - Version Control
+- Custom Domain
+- Free hosting 😁
