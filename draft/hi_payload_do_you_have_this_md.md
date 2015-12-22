@@ -15,7 +15,7 @@ function validatePayload($payload, $keys)
 ```
 
 ### Usage
-Let say we want to validate whether a `$_POST` contains `username` & `password`, we can do this:
+Say, we want to validate whether a `$_POST` contains `username` & `password`. Let's do:
 
 ```php
 validatePayload($_POST, ['username','password']);
