@@ -19,10 +19,14 @@ Communication: process of acting on information.
 
 ---
 Other forms of communication:
-- Mass Communication
-- Public Communication
-- Small Group Communication
-- Intrapersonal Communication
+- Mass Communication  
+    One person to many people at once, same message
+- Public Communication  
+    Speaker addresses an audience in person
+- Small Group Communication  
+    A group of from three to fifteen people meet to interact with a common purpose and mutually influence one another
+- Intrapersonal Communication  
+    Communication with yourself. Thinking perhaps the bes example of this
 
 
 Elements of the Communication Process
