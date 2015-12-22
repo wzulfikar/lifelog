@@ -53,4 +53,4 @@ Artisan::call('customer:deposit',
 - Can use advantage of `Artisan::queue`
 ---
 Related article:
-- Artisan console: managing exit code
+- [Artisan console: managing exit code]()
