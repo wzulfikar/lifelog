@@ -12,7 +12,7 @@
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
-   * How to Manage Word Barriers
+   * [How to Manage Word Barriers](learning_process/how_to_manage_word_barriers.md)
 * [Uncategorized](uncategorized/README.md)
 * [Draft](draft/README.md)
    * [Interpersonal Communication](draft/interpersonal_communication.md)
