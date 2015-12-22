@@ -23,7 +23,7 @@ I used [GitBook](https://www.gitbook.com) before, to write documentation of a pr
 
 ####1. Keep writing, regardless of internet connection
 working draft
-####2. Keep your writings around you
+####2. Keep your writings around you 💼
 working draft
 ####3. Version Control
 working draft
