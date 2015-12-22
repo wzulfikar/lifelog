@@ -37,8 +37,8 @@ Elements of the Communication Process
 - Noise
 - Feedback
 
->**Linguistic Determinism**: Theory that describes how user of language determines or influences thoughts and perceptions
+>**Linguistic Determinism**: Theory that describes how user of language determines or influences thoughts and perceptions.
 
->**Linguistic Relativity**: Theory that each language includes some unique features that are not found in other languages
+>**Linguistic Relativity**: Theory that each language includes some unique features that are not found in other languages.
 
->**Sapir-Whorf Hypothesis**: Based on the principles of linguistic determinism & linguistic relativity, the hypothesis that language shapes our thoughts and culture, and our culture and thoughts affect the language we use to describe our world
+>**Sapir-Whorf Hypothesis**: Based on the principles of linguistic determinism & linguistic relativity, the hypothesis that language shapes our thoughts and culture, and our culture and thoughts affect the language we use to describe our world.
