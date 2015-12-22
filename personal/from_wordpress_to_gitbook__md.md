@@ -33,7 +33,6 @@ at [https://www.gitbook.com]()
 Your writing (book) will be here:
 [https://www.gitbook.com/book/{username}/{book_name}]()
 
-/book/wzulfikar
 
 ####5. Custom Domain
 working draft
