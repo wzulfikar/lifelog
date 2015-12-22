@@ -1,3 +1,3 @@
-# Let's be Assertive
+# How to Be Assertive
 
 *– working draft*
