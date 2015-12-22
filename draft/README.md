@@ -8,3 +8,5 @@ Floating ideas, ice box, things that I wanted to write.
 - use casperjs to login
     - http://stackoverflow.com/questions/13376189/how-to-login-into-a-website-with-casperjs
     - http://code-epicenter.com/how-to-login-to-facebook-using-casperjs/
+
+https://ghostinspector.com/blog/making-casperjs-tests-more-reliable/
