@@ -10,3 +10,5 @@ Floating ideas, ice box, things that I wanted to write.
     - http://code-epicenter.com/how-to-login-to-facebook-using-casperjs/
 
 https://ghostinspector.com/blog/making-casperjs-tests-more-reliable/
+
+https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
