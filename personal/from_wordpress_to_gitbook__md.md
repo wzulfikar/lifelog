@@ -19,10 +19,11 @@ Started to feel the pain with my [tumblr](http://tumblr.com) setup, I tried to f
 
 I used [GitBook](https://www.gitbook.com) before, to write documentation of a project I was working on. I wasn't really interested with it, but after digging more to its documentation and features, I feel really comfortable with it.
 
-[GitBook](https://www.gitbook.com) has thus things I always wanted.
+[GitBook](https://www.gitbook.com) has the things I always wanted.
 
-- Keep writing, regardless of internet connection
-- Keep your writings around you
+####Keep writing, regardless of internet connection
+
+Keep your writings around you
 - Desktop App
 - Version Control
 - Custom Domain
