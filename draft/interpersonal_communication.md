@@ -37,4 +37,6 @@ Elements of the Communication Process
 - Noise
 - Feedback
 
->**Linguistic determinism**: Theory that describes how user of language determines or influences thoughts and perceptions
+>**Linguistic Determinism**: Theory that describes how user of language determines or influences thoughts and perceptions
+
+>**Linguistic Relativity**: Theory that each language includes some unique features that are not found in other languages
