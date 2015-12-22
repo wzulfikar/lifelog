@@ -19,7 +19,7 @@ Communication: process of acting on information.
 
 ---
 Other forms of communication:
-- Mass Comunication
+- Mass Communication
 - Public Communication
 - Small Group Communication
 - Intrapersonal Communication
