@@ -14,3 +14,4 @@ Some interesting questions:
 >**other-oriented** : To be aware of the thoughts, needs, experiences, personality, emotions, motives, desires, culture, and goals of your communication partners ***while still*** maintaining your own integrity.
 
 Be **other-oriented**, not **self-oriented**.
+
