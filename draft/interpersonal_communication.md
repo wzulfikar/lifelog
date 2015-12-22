@@ -15,4 +15,5 @@ Some interesting questions:
 
 Be **other-oriented**, not **self-oriented**.
 
-Communication: process of acting on information
+Communication: process of acting on information.
+
