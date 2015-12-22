@@ -36,3 +36,5 @@ Elements of the Communication Process
 - Receiver
 - Noise
 - Feedback
+
+>**Linguistic determinism**: Theory that describes how user of language determines or influences thoughts and perceptions
