@@ -17,4 +17,4 @@ When using [tumblr](http://tumblr.com), I write things in markdown and push to m
 
 Started to feel the pain with my [tumblr](http://tumblr.com) setup, I tried to find other alternatives. 
 
-I used [GitBook](https://www.gitbook.com) before, to write documentation of a project I was working on. I wasn't really interested with it, but after digging more to the documentation and features, I feel really comfortable with it.
+I used [GitBook](https://www.gitbook.com) before, to write documentation of a project I was working on. I wasn't really interested with it, but after digging more to its documentation and features, I feel really comfortable with it.
