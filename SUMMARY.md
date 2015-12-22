@@ -17,6 +17,6 @@
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
    * [Using Cent to Represent Currency](programming/using_cent_to_represent_currency.md)
    * [That Taxi Driver](personal/that-taxi-driver.md)
-       * Interpersonal Communication
+       * [Interpersonal Communication](draft/interpersonal_communication.md)
    * [From Source Tree to GitHub Desktop](programming/from_source_tree_to_github_desktop.md)
 
