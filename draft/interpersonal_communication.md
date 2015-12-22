@@ -11,5 +11,6 @@ Some interesting questions:
 - How can we better manage disagreements with others?
 - How can we better understand our relationship with our family, friends and coworkers?
 
+>**other-oriented** : To be aware of the thoughts, needs, experiences, personality, emotions, motives, desires, culture, and goals of your communication partners ***while still*** maintaining your own integrity.
 
-
+Be **other-oriented**, not **self-oriented**.
