@@ -11,6 +11,8 @@ For the first issue, actually I can write somewhere, copy it, and paste it to Wo
 
 The second issue, I can host my own Wordpress site. However, Wordpress store thus posts (and almost anything else) in database which I don't feel good with it. I want to store thus things in say, markdown file.
 
-Next, I moved to [tumblr](http://tumblr.com). Out of the box, it has some cool features. Scheduled post, private post, custom domain, etc. But I still get the problem I had with Wordpress: internet connection. However, [tumblr](http://tumblr.com) has mobile apps which is nice.
+Next, I moved to [tumblr](http://tumblr.com). Out of the box, it has some cool features. Scheduled post, markdown support, private post, custom domain, etc. But I still get the problem I had with Wordpress: internet connection. However, [tumblr](http://tumblr.com) has mobile apps which is nice.
+
+When using [tumblr](http://tumblr.com), I write 
 
 Started to feel the pain, 
