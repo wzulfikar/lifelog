@@ -25,3 +25,10 @@ http://macr.ae/article/gulp-casperjs.html
 http://code-epicenter.com/web-scraping-with-casperjs-handling-pagination/
 
 http://code-epicenter.com/how-to-login-to-twitter-using-casperjs-and-phantomjs-and-extract-tweets/
+
+http://webdriver.io
+
+---
+- create task to run casperjs test
+- add casperjs test to watch
+    - https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js
