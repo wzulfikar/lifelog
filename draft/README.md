@@ -23,3 +23,5 @@ https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js
 https://www.npmjs.com/package/gulp-casperjs
 
 http://macr.ae/article/gulp-casperjs.html
+
+http://code-epicenter.com/web-scraping-with-casperjs-handling-pagination/
