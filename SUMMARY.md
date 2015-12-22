@@ -12,9 +12,9 @@
 * [Learning Process](learning_process/README.md)
 * [Uncategorized](uncategorized/README.md)
 * [Draft](draft/README.md)
+   * [Draft/Hi array, do you have this?](hi_array_do_you_have_this.md)
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
    * [Using Cent to Represent Currency](programming/using_cent_to_represent_currency.md)
    * [That Taxi Driver](personal/that-taxi-driver.md)
    * [From Source Tree to GitHub Desktop](programming/from_source_tree_to_github_desktop.md)
-* [Draft/Hi array, do you have this?](hi_array_do_you_have_this.md)
 
