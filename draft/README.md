@@ -30,5 +30,6 @@ http://webdriver.io
 
 ---
 - create task to run casperjs test
+    - https://www.npmjs.com/package/gulp-casperjs
 - add casperjs test to watch
     - https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js
