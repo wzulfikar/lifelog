@@ -23,3 +23,12 @@ Other forms of communication:
 - Public Communication
 - Small Group Communication
 - Intrapersonal Communication
+
+
+Elements of the Communication Process
+- Source
+- Message
+- Channel
+- Receiver
+- Noise
+- Feedback
