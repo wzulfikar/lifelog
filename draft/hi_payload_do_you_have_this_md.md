@@ -12,7 +12,7 @@ function validatePayload($payload, $keys)
 	$missing			 = array_diff_key($required_keys, $payload )
 
 	if($missing_keys = array_keys($missing))
-		throw new Exception('Missing payload: `'.implode(', ', $missing_keys ));
+		throw new Exception('Missing key in payload: `'.implode(', ', $missing_keys ));
 }
 
 ```
