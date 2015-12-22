@@ -23,4 +23,8 @@ function validatePayload($payload, $keys)
 validatePayload($payload,['user','command']);
 ```
 
-Above code will validate whether the `$payload` has given key `user` & `command`.
+Above code will validate whether the `$payload` has given key `user` & `command`. So, if we want to validate whether a `$_POST` contains `username` & `password`, we can do this:
+
+```php
+validatePayload($_POST, ['username','password']);
+```
