@@ -20,4 +20,4 @@ Say, we want to validate whether a `$_POST` contains `username` & `password`. Le
 ```php
 validatePayload($_POST, ['username','password']);
 ```
-If the `$_POST` contains both `username` & `password`, script will carry on the execution. Otherwise, it will throw exception.
+Using above code, if given `$_POST` (the payload) contains both `username` & `password`, script will carry on the execution. Otherwise, it will throw exception.
