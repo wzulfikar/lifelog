@@ -14,7 +14,7 @@
 * [Learning Process](learning_process/README.md)
    * [Being Assertive](learning_process/being_assertive.md)
    * [How to Manage Word Barriers](learning_process/how_to_manage_word_barriers.md)
-       * [Let's be Assertive!](learning_process/lets_be_assertive.md)
+       * [Let's be Assertive!](learning_process/lets_be_assertive_md.md)
 * [Uncategorized](uncategorized/README.md)
 * [Draft](draft/README.md)
    * [Interpersonal Communication](draft/interpersonal_communication.md)
