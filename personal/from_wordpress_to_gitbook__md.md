@@ -32,4 +32,4 @@ working draft
 ####5. Custom Domain
 working draft
 ####6. Desktop App
-working draft
+![GitBook Editor](../images/gitbook-editor.png)
