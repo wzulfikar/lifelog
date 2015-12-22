@@ -28,6 +28,8 @@ http://code-epicenter.com/how-to-login-to-twitter-using-casperjs-and-phantomjs-a
 
 http://webdriver.io
 
+http://enterprisewebbook.com/ch7_testdriven_js.html
+
 ---
 - create task to run casperjs test
     - https://www.npmjs.com/package/gulp-casperjs
