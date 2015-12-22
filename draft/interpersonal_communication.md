@@ -4,5 +4,10 @@
 
 “Human communication is at the core of our existence.”
 
-suck to the core -> suck to the communication
+Some interesting questions:
+- Why do we like some people and not the others?
+- How can we interpret other people's unspoken messages with greater accuracy?
+- Why do some relationship blossoms and others deteriorate?
+- How can we better manage disagreements with others?
+- How can we better understand our relationship with our family, friends and coworkers?
 
