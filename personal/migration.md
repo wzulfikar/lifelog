@@ -15,4 +15,4 @@ Next, I moved to [tumblr](http://tumblr.com). Out of the box, it has some cool f
 
 When using [tumblr](http://tumblr.com), I write things in markdown and push to my GitHub repository. Then, I'll copy thus markdown to [tumblr](http://tumblr.com). 
 
-Started to feel the pain with my [tumblr](http://tumblr.com) setup, I tried to find other alternatives.
+Started to feel the pain with my [tumblr](http://tumblr.com) setup, I tried to find other alternatives. Turns out that [GitBook](https://www.gitbook.com) is really interesting.
