@@ -22,9 +22,14 @@ I used [GitBook](https://www.gitbook.com) before, to write documentation of a pr
 [GitBook](https://www.gitbook.com) has the things I always wanted.
 
 ####Keep writing, regardless of internet connection
-
-- Keep your writings around you
-- Desktop App
-- Version Control
-- Custom Domain
-- Free hosting 😁
+working draft
+####Keep your writings around you
+working draft
+####Desktop App
+working draft
+####Version Control
+working draft
+####Custom Domain
+working draft
+####Free hosting 😁
+working draft
