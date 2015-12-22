@@ -13,6 +13,6 @@ The second issue, I can host my own Wordpress site. However, Wordpress store thu
 
 Next, I moved to [tumblr](http://tumblr.com). Out of the box, it has some cool features. Scheduled post, markdown support, private post, custom domain, etc. But I still get the problem I had with Wordpress: internet connection. However, [tumblr](http://tumblr.com) has mobile apps which is nice.
 
-When using [tumblr](http://tumblr.com), I write 
+When using [tumblr](http://tumblr.com), I write things in markdown and push to my GitHub repository. Then, I'll copy thus markdown to [tumblr](http://tumblr.com). 
 
 Started to feel the pain, 
