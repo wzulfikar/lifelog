@@ -23,7 +23,7 @@ I used [GitBook](https://www.gitbook.com) before, to write documentation of a pr
 
 ####Keep writing, regardless of internet connection
 
-Keep your writings around you
+- Keep your writings around you
 - Desktop App
 - Version Control
 - Custom Domain
