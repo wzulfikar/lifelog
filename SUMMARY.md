@@ -12,7 +12,7 @@
 * [Learning Process](learning_process/README.md)
 * [Uncategorized](uncategorized/README.md)
 * [Draft](draft/README.md)
-   * [Draft/Hi array, do you have this?](hi_array_do_you_have_this.md)
+   * [Hi payload, do you have this?](hi_payload_do_you_have_this.md)
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
    * [Using Cent to Represent Currency](programming/using_cent_to_represent_currency.md)
    * [That Taxi Driver](personal/that-taxi-driver.md)
