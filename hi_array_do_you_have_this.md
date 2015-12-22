@@ -1,4 +1,4 @@
-# Draft/Hi array, do you have this?
+# Hi `payload`, do you have this?
 
 - check if an array in php has given keys:
 
@@ -22,3 +22,5 @@ function validatePayload($payload, $keys)
 ```php
 validatePayload($payload,['user','command']);
 ```
+
+Above code will validate whether the `$payload` has given key `user` & `command`.
