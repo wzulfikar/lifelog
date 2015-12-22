@@ -21,4 +21,7 @@ I used [GitBook](https://www.gitbook.com) before, to write documentation of a pr
 
 [GitBook](https://www.gitbook.com) has thus things I always wanted.
 
-- Keep writing, regardless of internet connection.
+- Keep writing, regardless of internet connection
+- Keep your writings around you
+- Desktop App
+- Version Control
