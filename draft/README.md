@@ -38,4 +38,5 @@ http://enterprisewebbook.com/ch7_testdriven_js.html
     
 ---
 Sami! Can you generate documentation for this?
-sami: http://fabien.potencier.org/sami-yet-another-php-api-documentation-generator.html
+- http://fabien.potencier.org/sami-yet-another-php-api-documentation-generator.html
+- https://packagist.org/packages/sami/sami
