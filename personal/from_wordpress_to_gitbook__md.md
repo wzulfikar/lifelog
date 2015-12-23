@@ -32,9 +32,12 @@ working draft
 ####4. Free hosting 😁
 at [https://www.gitbook.com]()
 
-My writing (book) will be here:
-[https://www.gitbook.com/book/{my_username}/{my_book_name}]()
+My writing (book) will be here:  
+[gitbook.com/book/{my_username}/{my_book_name}]()
 
+or here (alias):
+
+[{my_username}.gitbooks.io/{my_book_name}]()
 
 ####5. Custom Domain
 working draft
