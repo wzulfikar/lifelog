@@ -9,8 +9,6 @@ Floating ideas, ice box, things that I wanted to write.
     - http://stackoverflow.com/questions/13376189/how-to-login-into-a-website-with-casperjs
     - http://code-epicenter.com/how-to-login-to-facebook-using-casperjs/
 
-sami: http://fabien.potencier.org/sami-yet-another-php-api-documentation-generator.html
-
 https://ghostinspector.com/blog/making-casperjs-tests-more-reliable/
 
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
@@ -37,3 +35,8 @@ http://enterprisewebbook.com/ch7_testdriven_js.html
     - https://www.npmjs.com/package/gulp-casperjs
 - add casperjs test to watch
     - https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js
+    
+---
+Sami! Can you generate documentation for t?
+
+sami: http://fabien.potencier.org/sami-yet-another-php-api-documentation-generator.html
