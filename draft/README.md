@@ -9,6 +9,8 @@ Floating ideas, ice box, things that I wanted to write.
     - http://stackoverflow.com/questions/13376189/how-to-login-into-a-website-with-casperjs
     - http://code-epicenter.com/how-to-login-to-facebook-using-casperjs/
 
+sami: http://fabien.potencier.org/sami-yet-another-php-api-documentation-generator.html
+
 https://ghostinspector.com/blog/making-casperjs-tests-more-reliable/
 
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
