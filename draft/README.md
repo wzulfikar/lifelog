@@ -37,6 +37,5 @@ http://enterprisewebbook.com/ch7_testdriven_js.html
     - https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js
     
 ---
-Sami! Can you generate documentation for t?
-
+Sami! Can you generate documentation for this?
 sami: http://fabien.potencier.org/sami-yet-another-php-api-documentation-generator.html
