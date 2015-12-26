@@ -2,12 +2,10 @@
 
 Similar to composer:
 - Node module : `npm`
+- Linux : `apt-get, yum, etc`
+- PHP : `composer`
 
-```php
-function hello($test, $ha)
-{
-    // syntax highlighter
-}
 ```
 
+Points:
 - tell me about syntax highlighter
