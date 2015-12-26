@@ -10,4 +10,4 @@ function hello($test, $ha)
 }
 ```
 
-- tell me about syntax highlighter.
+- tell me about syntax highlighter
