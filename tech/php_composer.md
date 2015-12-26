@@ -9,3 +9,11 @@ Package manager similar to composer:
 
 Points:
 - tell me about syntax highlighter
+
+
+about package manager:
+
+- ngrebus
+- nggoreng
+
+- nasi goreng mi rebus
