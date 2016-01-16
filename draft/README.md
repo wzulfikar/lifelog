@@ -44,4 +44,4 @@ Sami! Can you generate documentation for this?
 - http://engineeredweb.com/blog/php-documention-a-look-at-sami-phpdocumentor-doxygen/
 
 ---
-Quick note. Laravel uses app key for encryption. See: http://laravel-recipes.com/recipes/106/decrypting-a-value.
+Quick note. Laravel uses app key for encryption. To decrypt an encrypted value, use `Crypt::decrypt($encrypted);`. See: http://laravel-recipes.com/recipes/106/decrypting-a-value.
