@@ -42,3 +42,6 @@ Sami! Can you generate documentation for this?
 - https://packagist.org/packages/sami/sami
 - http://www.sitepoint.com/generating-php-documentation-sami/
 - http://engineeredweb.com/blog/php-documention-a-look-at-sami-phpdocumentor-doxygen/
+
+---
+Quick note. Laravel uses app key for encryption. See: http://laravel-recipes.com/recipes/106/decrypting-a-value.
