@@ -45,3 +45,12 @@ Sami! Can you generate documentation for this?
 
 ---
 Quick note. Laravel uses app key for encryption. To decrypt an encrypted value, use `Crypt::decrypt($encrypted);`. See: http://laravel-recipes.com/recipes/106/decrypting-a-value.
+
+---
+password encrypter http://www.passwordtool.hu
+
+https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-nginx-on-ubuntu-14-04
+
+http://aozora.github.io/bootplus/index.html
+
+http://superuser.com/questions/462141/how-to-chown-chmod-all-files-in-current-directory
