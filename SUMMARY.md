@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Snippets
 * [Tech Stuffs](tech/README.md)
    * [Telegram Bot](tech/telegram_bot.md)
    * [How I set this thing up](uncategorized/how_i_set_this_thing_up.md)
@@ -18,6 +17,7 @@
 * [Learning Process](learning_process/README.md)
    * [How to Be Assertive](learning_process/how_to_be_assertive_md.md)
    * [How to Manage Word Barriers](learning_process/how_to_manage_word_barriers.md)
+* Snippets
 * [Uncategorized](uncategorized/README.md)
 * [Draft](draft/README.md)
    * [Interpersonal Communication](draft/interpersonal_communication.md)
