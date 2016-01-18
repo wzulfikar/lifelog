@@ -5,6 +5,7 @@
    * [Telegram Bot](tech/telegram_bot.md)
    * [How I set this thing up](uncategorized/how_i_set_this_thing_up.md)
    * [PHP Composer](tech/php_composer.md)
+   * Snippets
 * [Programming](programming/README.md)
    * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
    * [Artisan console: managing exit code](programming/artisan_console_managing_exit_code.md)
