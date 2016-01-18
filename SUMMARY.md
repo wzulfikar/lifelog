@@ -10,6 +10,7 @@
    * [Artisan console: managing exit code](programming/artisan_console_managing_exit_code.md)
    * [Building New Feature : What I used to do.](programming/buildingnew_feature_what_i_used_to_do_md.md)
    * [Let's code to interface. But why?](programming/why-code-to-interface-php.md)
+       * PHP Snippets
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
