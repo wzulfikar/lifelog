@@ -8,7 +8,6 @@
    * [Snippets](snippets/README.md)
        * [PHP](snippets/php/README.md)
            * [Trim whatever inside array](snippets/php/trim_whatever_inside_array.md)
-           * [test](snippets/php/test.md)
 * [Programming](programming/README.md)
    * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
    * [Artisan console: managing exit code](programming/artisan_console_managing_exit_code.md)
