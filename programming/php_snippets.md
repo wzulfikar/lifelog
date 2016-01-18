@@ -2,7 +2,7 @@
 
 ```php
 /**
- * trim all strings inside array
+ * trim items inside array
  */
 
 // create array of strings
