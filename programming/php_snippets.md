@@ -1,4 +1,4 @@
-# PHP : Trim whatever inside array
+# Trim whatever inside array
 
 ```php
 /**
