@@ -5,7 +5,7 @@
  * trim all strings inside array
  */
 
-// create array of strings as sample
+// create array of strings
 $untrimmed = [' one  ', 'two ', ' three'];
 
 // trim whatever inside $sample_array using `array_map`
