@@ -6,12 +6,12 @@
  */
 
 // create array of strings as sample
-$sample_array = [' one  ', false, ' three'];
+$untrimmed = [' one  ', 'two ', ' three'];
 
 // trim whatever inside $sample_array using `array_map`
-$trimmed      = array_map('trim', $sample_array);
+$trimmed      = array_map('trim', $untrimmed);
 
 // see the difference
-var_dump($sample_array);
+var_dump($untrimmed);
 var_dump($trimmed);
 ```
