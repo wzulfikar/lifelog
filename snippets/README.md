@@ -1,2 +1,3 @@
 # Snippets
 
+Collection of snippets.
