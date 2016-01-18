@@ -7,7 +7,7 @@
    * [PHP Composer](tech/php_composer.md)
    * [Snippets](snippets/README.md)
        * [PHP](snippets/php/README.md)
-           * [PHP Snippets](programming/php_snippets.md)
+           * [Trim whatever inside array](snippets/php/trim_whatever_inside_array.md)
            * test
 * [Programming](programming/README.md)
    * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
