@@ -1,10 +1,6 @@
 # Trim items inside array
 
 ```php
-/**
- * trim whatever inside array
- */
-
 // create array of strings
 $untrimmed = [' one  ', 'two ', ' three'];
 
