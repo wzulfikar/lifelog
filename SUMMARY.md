@@ -6,8 +6,8 @@
    * [How I set this thing up](uncategorized/how_i_set_this_thing_up.md)
    * [PHP Composer](tech/php_composer.md)
    * [Snippets](snippets/README.md)
-       * [PHP Snippets](programming/php_snippets.md)
        * [PHP](snippets/php/README.md)
+           * [PHP Snippets](programming/php_snippets.md)
            * test
 * [Programming](programming/README.md)
    * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
