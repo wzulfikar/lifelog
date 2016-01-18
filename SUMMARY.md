@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Snippets
 * [Tech Stuffs](tech/README.md)
    * [Telegram Bot](tech/telegram_bot.md)
    * [How I set this thing up](uncategorized/how_i_set_this_thing_up.md)
