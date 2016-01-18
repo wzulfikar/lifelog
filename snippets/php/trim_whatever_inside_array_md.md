@@ -1,6 +1,11 @@
 # Trim items inside array
 
 ```php
+/**
+ * php `array_map` docs:
+ * http://php.net/manual/en/function.array-map.php
+ */
+
 // create array of strings
 $untrimmed = [' one  ', 'two ', ' three'];
 
