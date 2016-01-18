@@ -9,6 +9,7 @@
    * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
    * [Artisan console: managing exit code](programming/artisan_console_managing_exit_code.md)
    * [Building New Feature : What I used to do.](programming/buildingnew_feature_what_i_used_to_do_md.md)
+   * [PHP Snippets](programming/php_snippets.md)
    * [Let's code to interface. But why?](programming/why-code-to-interface-php.md)
        * [PHP Snippets](programming/php_snippets.md)
 * [Personal](personal/README.md)
