@@ -37,13 +37,7 @@ http://enterprisewebbook.com/ch7_testdriven_js.html
     - https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js
     
 ---
-Sami! Can you generate documentation for this?
-- http://fabien.potencier.org/sami-yet-another-php-api-documentation-generator.html
-- https://packagist.org/packages/sami/sami
-- http://www.sitepoint.com/generating-php-documentation-sami/
-- http://engineeredweb.com/blog/php-documention-a-look-at-sami-phpdocumentor-doxygen/
 
----
 Quick note. Laravel uses app key for encryption. To decrypt an encrypted value, use `Crypt::decrypt($encrypted);`. See: http://laravel-recipes.com/recipes/106/decrypting-a-value.
 
 ---
