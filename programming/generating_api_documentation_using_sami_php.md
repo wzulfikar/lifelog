@@ -5,3 +5,6 @@
 - https://packagist.org/packages/sami/sami
 - http://www.sitepoint.com/generating-php-documentation-sami/
 - http://engineeredweb.com/blog/php-documention-a-look-at-sami-phpdocumentor-doxygen/
+
+
+- using elixir extension for gulp to make `gulp apidoc`
