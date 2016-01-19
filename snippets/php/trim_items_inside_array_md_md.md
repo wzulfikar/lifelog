@@ -1,0 +1,2 @@
+# Trim items inside array
+
