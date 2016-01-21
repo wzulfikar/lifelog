@@ -57,3 +57,5 @@ http://serverfault.com/questions/604316/how-to-change-the-ssh-port-for-a-specifi
 http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
 
 sudo chmod -R o+w storage
+
+https://laravel.com/docs/5.2/upgrade
