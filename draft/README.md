@@ -51,3 +51,9 @@ http://superuser.com/questions/462141/how-to-chown-chmod-all-files-in-current-di
 
 ===
 tympanus.net/Development/TooltipStylesInspiration
+
+http://serverfault.com/questions/604316/how-to-change-the-ssh-port-for-a-specific-ip-address
+
+http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
+
+sudo chmod -R o+w storage
