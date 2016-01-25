@@ -62,3 +62,24 @@
 ## Mobile Services
 - Mobile Hub
     - Build, test & monitor the usage of our mobile app
+- Cognito
+    - Save mobile app's user data
+- Device Farm
+    - Helps increase quality of iOS or Android app by testing it on real smartphone or tablets on AWS cloud
+- Mobile Analytics
+    - Manage app usage, app revenue, etc
+- SNS : Simple Notification Service
+    - Setup, operate & send notification form the cloud
+
+## Enterprice Applications
+- WorkSpaces
+    - Cloud-based desktop
+- WorkDocs
+    - Secure enterprise sharing service 
+    - Strong administrative control
+    - Feedback capability
+    - Think of it as DropBox for enterprise
+- WorkMail
+    - Email service
+
+## IoT : Internet of Things
