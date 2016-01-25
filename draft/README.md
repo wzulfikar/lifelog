@@ -59,3 +59,5 @@ http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
 sudo chmod -R o+w storage
 
 https://laravel.com/docs/5.2/upgrade
+
+realfavicongenerator.net
