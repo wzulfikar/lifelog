@@ -61,3 +61,5 @@ sudo chmod -R o+w storage
 https://laravel.com/docs/5.2/upgrade
 
 realfavicongenerator.net
+
+http://stackoverflow.com/questions/29166030/gitignore-does-not-work-for-subfolder-of-ignored-folder
