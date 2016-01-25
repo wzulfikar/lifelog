@@ -45,4 +45,20 @@
     - Can integrate with Lambda, S3, etc
 - SQS : Simple Queue Service
     - Decoupling infrastructure
-- 
+- SWF : Simple Workflow Service
+    - Helps build, scale background job
+    - Don't get confused between SWF & SQS
+
+## Developer Tools
+- Code Commit
+    - Fully managed source control service
+    - Fully secured private git repository
+    - Think of it as AWS version of GitHub
+- Code Deploy
+    - Manage deployment of code to any instance
+- Code Pipeline
+    - Continues delivery service. Build and test code upon changes.
+
+## Mobile Services
+- Mobile Hub
+    - Build, test & monitor the usage of our mobile app
