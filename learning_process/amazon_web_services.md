@@ -14,6 +14,7 @@
 - KMS : Key Management Services
 
 ## Management Tools
-Cloud Formation
+- Cloud Watch
+- Cloud Formation
 
 Cloud Trail = 
