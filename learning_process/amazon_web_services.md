@@ -16,5 +16,9 @@
 ## Management Tools
 - Cloud Watch
 - Cloud Formation
-
-Cloud Trail = 
+- Cloud Trail
+    - Provide ordered access to people doint on our AWS platform
+    - Auditing our AWS platform
+    - Recording changes happened on AWS platform
+- Opswork
+- Config
