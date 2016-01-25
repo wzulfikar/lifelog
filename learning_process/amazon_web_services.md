@@ -21,4 +21,5 @@
     - Auditing our AWS platform
     - Recording changes happened on AWS platform
 - Opswork
+    - Configuration management services. Helps configuring operation using Chef.
 - Config
