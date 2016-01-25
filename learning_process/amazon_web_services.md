@@ -24,4 +24,8 @@
     - Configuration management services. Helps configuring operation using Chef.
 - Config
     - AWS resource inventory, configuration history, configuration change notification, config rules, etc.
+- Service Catalog
+    - Manage catalog of IT services used on AWS
+- Trusted Advisor
+    - Automated service that scan environment and tell where we can save money, increase security, etc.
 - 
