@@ -23,3 +23,5 @@
 - Opswork
     - Configuration management services. Helps configuring operation using Chef.
 - Config
+    - AWS resource inventory, configuration history, configuration change notification, config rules, etc.
+- 
