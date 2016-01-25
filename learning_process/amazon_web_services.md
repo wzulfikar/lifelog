@@ -1,3 +1,13 @@
 # Amazon Web Services
 
-IAM = Identity Access Manager
+
+## Security & Identity
+- IAM : Identity Access Manager  
+    Control users, group, roles, etc. Password protection policy, multi-factor authentication, etc.
+
+
+KMS = Key Management Services
+
+Cloud Formation
+
+Cloud Trail = 
