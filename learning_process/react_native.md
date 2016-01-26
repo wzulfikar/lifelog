@@ -23,4 +23,9 @@ JSX is one of the many supporting technology around react. Think of it as a dial
 
 https://facebook.github.io/react/jsx-compiler.html
 
-difference between justifyContent and align
+difference between justifyContent and alignItems
+
+| flexDirection | justifyContent | alignItems 
+| -- | -- | -- |
+| column (default) | moves stuffs width-wise | moves stuffs height-wise
+| row | moves stuffs height-wise | moves stuffs width-wise
