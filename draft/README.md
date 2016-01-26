@@ -231,3 +231,5 @@ http://pingturtle.com/home/post/cloudflare-email-protection-decoder
 
 
 http://checkgzipcompression.com
+
+http://stackoverflow.com/questions/24585261/nvm-keeps-forgetting-node-in-new-terminal-session
