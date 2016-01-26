@@ -20,3 +20,5 @@ Android Setup:
 The purpose of render method in react class is to always return some code describing how our react component look like.
 
 JSX is one of the many supporting technology around react. Think of it as a dialect of javascript that can be compiled directly into javascript code.
+
+https://facebook.github.io/react/jsx-compiler.html
