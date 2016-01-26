@@ -6,3 +6,6 @@ Requirements:
 - Node.js
 - Watchman
 - XCode 7 or later (for iOS project)
+
+Android Setup: 
+- http://facebook.github.io/react-native/docs/android-setup.html
