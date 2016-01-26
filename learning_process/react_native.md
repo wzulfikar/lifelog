@@ -10,3 +10,8 @@ Requirements:
 Android Setup: 
 - http://facebook.github.io/react-native/docs/android-setup.html
 - http://developer.android.com/tools/devices/emulator.html
+
+
+- Install android-sdk (OSX)
+    - install brew
+    - `brew install android-sdk`
