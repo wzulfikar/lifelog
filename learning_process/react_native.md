@@ -9,3 +9,4 @@ Requirements:
 
 Android Setup: 
 - http://facebook.github.io/react-native/docs/android-setup.html
+- developer.android.com/tools/devices/emulator.html
