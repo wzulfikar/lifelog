@@ -20,6 +20,7 @@
    * [How to Be Assertive](learning_process/how_to_be_assertive_md.md)
    * [How to Manage Word Barriers](learning_process/how_to_manage_word_barriers.md)
    * [Amazon Web Services](learning_process/amazon_web_services.md)
+   * React Native
 * Snippets
 * [Uncategorized](uncategorized/README.md)
 * [Draft](draft/README.md)
