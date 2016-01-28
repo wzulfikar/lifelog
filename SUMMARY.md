@@ -8,7 +8,7 @@
    * [Snippets](snippets/README.md)
        * [PHP](snippets/php/README.md)
            * [Trim items inside array](snippets/php/trim_items_inside_array_md_md.md)
-   * React Related
+   * [React Related](tech/react_related.md)
 * [Programming](programming/README.md)
    * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
    * [Artisan console: managing exit code](programming/artisan_console_managing_exit_code.md)
