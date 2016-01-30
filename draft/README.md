@@ -236,3 +236,4 @@ http://stackoverflow.com/questions/24585261/nvm-keeps-forgetting-node-in-new-ter
 
 http://benmccormick.org/2015/01/22/is-bower-useful/
 
+- Nginx with pretty domain: http://zaiste.net/2013/03/serving_apps_locally_with_nginx_and_pretty_domains/
