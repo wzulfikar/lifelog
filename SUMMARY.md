@@ -20,7 +20,7 @@
 * [Learning Process](learning_process/README.md)
    * [How to Be Assertive](learning_process/how_to_be_assertive_md.md)
    * [How to Manage Word Barriers](learning_process/how_to_manage_word_barriers.md)
-   * [Amazon Web Services](learning_process/amazon_web_services.md)
+   * [Amazon Web Services (AWS)](learning_process/amazon_web_services.md)
    * [React Native](learning_process/react_native.md)
    * [React JS](learning_process/react_js.md)
    * [Scrum](learning_process/scrum.md)
