@@ -104,3 +104,5 @@ Or, if you want to skip step 2:
   ReactDom.render(<HelloWorld/>, document.body);
 </script>
 ```
+
+https://github.com/talyssonoc/react-laravel
