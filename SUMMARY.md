@@ -18,7 +18,7 @@
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
-   * Redux
+   * [Redux](learning_process/redux.md)
    * [How to Be Assertive](learning_process/how_to_be_assertive_md.md)
    * [How to Manage Word Barriers](learning_process/how_to_manage_word_barriers.md)
    * [Amazon Web Services](learning_process/amazon_web_services.md)
