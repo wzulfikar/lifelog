@@ -1,5 +1,4 @@
-# Amazon Web Services
-
+# Amazon Web Services (AWS)
 
 ## Security & Identity
 - IAM : Identity Access Manager
