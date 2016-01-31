@@ -122,7 +122,7 @@ export default () => {
 }
 
 // class syntax
-export default class NameOfComponen
+export default class NameOfComponent
 {
   // `render` method is required in every react class
   render()
