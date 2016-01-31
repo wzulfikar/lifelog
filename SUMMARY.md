@@ -23,8 +23,8 @@
    * [Amazon Web Services](learning_process/amazon_web_services.md)
    * [React Native](learning_process/react_native.md)
    * [React JS](learning_process/react_js.md)
-       * Redux
    * [Scrum](learning_process/scrum.md)
+* Redux
 * Snippets
 * [Uncategorized](uncategorized/README.md)
 * [Draft](draft/README.md)
