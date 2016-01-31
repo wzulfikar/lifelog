@@ -116,12 +116,12 @@ Even though `React` is not called in script, `import React from 'react'` stateme
 Code styles:
 
 ```javascript
-// non-class syntax
+// non class-based syntax
 export default () => {
 	return <input/>
 }
 
-// class syntax
+// class-based syntax
 export default class NameOfComponent
 {
   // `render` method is required in every react class
