@@ -112,3 +112,22 @@ https://christianalfoni.github.io/react-webpack-cookbook/Structuring-configurati
 http://ricostacruz.com/cheatsheets/react.html
 
 Even though `React` is not called in script, `import React from 'react'` statement is still required as long as we have jsx inside. Because, behind the scene, thus HTML codes inside jsx will be translated into `React.createElement({...})`.
+
+Code styles:
+
+```javascript
+// non-class syntax
+export default () => {
+	return <input/>
+}
+
+// class syntax
+export default class NameOfComponen
+{
+  // `render` method is required in every react class
+  render()
+  {
+    return <input/>
+  }
+}
+```
