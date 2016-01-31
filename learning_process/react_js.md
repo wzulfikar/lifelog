@@ -132,5 +132,7 @@ export default class NameOfComponent
 }
 ```
 
+>JavaScript classes are introduced in ECMAScript 6 and are syntactical sugar over JavaScript's existing prototype-based inheritance
+
 Read more about javascript classses here :
 https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes
