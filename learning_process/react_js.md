@@ -139,3 +139,4 @@ export default class NameOfComponent extends Component
 Read more about javascript classses here :
 https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes
 
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.ugymz7aro
