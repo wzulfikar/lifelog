@@ -29,4 +29,5 @@ use `-S` or `--save` switch in `npm install` to save the dependency installed in
 
 Saying `import X from 'Y'` will give you whatever object in file Y was exported as the default.
 
+Read mozilla documentation about javascript export:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export
