@@ -239,3 +239,5 @@ http://benmccormick.org/2015/01/22/is-bower-useful/
 - Nginx with pretty domain: http://zaiste.net/2013/03/serving_apps_locally_with_nginx_and_pretty_domains/
 
 http://blog.namangoel.com/a-javascript-developers-take-on-swift
+
+http://www.mrspeaker.net/2014/06/04/selling-swift/
