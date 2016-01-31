@@ -110,3 +110,5 @@ https://github.com/talyssonoc/react-laravel
 https://christianalfoni.github.io/react-webpack-cookbook/Structuring-configuration.html
 
 http://ricostacruz.com/cheatsheets/react.html
+
+Even thought `React` is not called in script, `import React from 'react';` statement is still required since thus HTML codes inside jsx will be translated to `React.createElement`.
