@@ -108,3 +108,5 @@ Or, if you want to skip step 2:
 https://github.com/talyssonoc/react-laravel
 
 https://christianalfoni.github.io/react-webpack-cookbook/Structuring-configuration.html
+
+http://ricostacruz.com/cheatsheets/react.html
