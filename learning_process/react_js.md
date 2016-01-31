@@ -136,3 +136,4 @@ export default class NameOfComponent
 
 Read more about javascript classses here :
 https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes
+
