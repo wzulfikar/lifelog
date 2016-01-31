@@ -18,13 +18,13 @@
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
+   * Redux
    * [How to Be Assertive](learning_process/how_to_be_assertive_md.md)
    * [How to Manage Word Barriers](learning_process/how_to_manage_word_barriers.md)
    * [Amazon Web Services](learning_process/amazon_web_services.md)
    * [React Native](learning_process/react_native.md)
    * [React JS](learning_process/react_js.md)
    * [Scrum](learning_process/scrum.md)
-* Redux
 * Snippets
 * [Uncategorized](uncategorized/README.md)
 * [Draft](draft/README.md)
