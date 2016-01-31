@@ -243,3 +243,5 @@ http://blog.namangoel.com/a-javascript-developers-take-on-swift
 http://www.mrspeaker.net/2014/06/04/selling-swift/
 
 http://0.30000000000000004.com
+
+Code is the tool. The program is the product.
