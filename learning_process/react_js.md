@@ -116,7 +116,7 @@ Even though `React` is not called in script, `import React from 'react'` stateme
 Code styles:
 
 ```javascript
-// non class-based syntax (functional comp
+// non class-based syntax (functional component)
 export default () => {
 	return <input/>
 }
