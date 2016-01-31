@@ -23,3 +23,4 @@ Using javascript module: don't forget to import the component before using it.
 
 - Differentiate between component class & instance  
 When not wrapped in jsx tag, it's just a class & not instantiated. When wrapped in jsx, it's becoming an instance. Just the same as calling `React.createElement`.
+
