@@ -122,7 +122,9 @@ export default () => {
 }
 
 // class-based syntax
-export default class NameOfComponent
+import React, {Component} from 'react'
+
+export default class NameOfComponent extends Component
 {
   // `render` method is required in every react class
   render()
