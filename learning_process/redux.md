@@ -26,3 +26,5 @@ When not wrapped in jsx tag, it's just a class & not instantiated. When wrapped 
 
 
 use `-S` or `--save` switch in `npm install` to save the dependency installed in `package.json`
+
+Saying `import X from 'Y'` will give you whatever object in file Y was exported as the default.
