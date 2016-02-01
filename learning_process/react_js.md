@@ -25,6 +25,9 @@
 - When the data changes, React re-renders the entire component. Re-rendering on every change makes things simple: every place data is displayed is guaranteed to be up-to-date
 - React describe your UI at any point in time, just like a server-rendered app
 
+- Pete Hunt leaves FB:
+https://www.facebook.com/429297/posts/10101869605197995
+
 >*What about spaghetti code?*  
 Just don't write spaghetti code. Only put display logic in yourcomponents.
 
