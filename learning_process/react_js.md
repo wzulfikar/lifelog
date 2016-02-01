@@ -26,7 +26,8 @@
 - React describe your UI at any point in time, just like a server-rendered app
 - Re-render on every change, that seems expensive. Yes, we can't do that re-render things in real browser DOM. That's why we built *Virtual DOM* (and event system)
 - React is fast because it uses JavaScript (which is already fast by nature) and computes minimal DOM operations (because DOM is slow)
-- React has life-cycle hook, look a little bit like Objective-C or Cocoa API
+- React has life-cycle hooks, look a little bit like Objective-C or Cocoa API: `componentDidMount`, `componentWillUnmount`
+
 
 - Pete Hunt leaves FB:
 https://www.facebook.com/429297/posts/10101869605197995
