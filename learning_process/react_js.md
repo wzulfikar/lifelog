@@ -24,7 +24,7 @@
 - React: the accessibility of templates and the power of JavaScript
 - When the data changes, React re-renders the entire component. Re-rendering on every change makes things simple: every place data is displayed is guaranteed to be up-to-date
 - React describe your UI at any point in time, just like a server-rendered app
-- Re-render on every change, that seems expensive. So we built virtual dom
+- Re-render on every change, that seems expensive. That's why we built *Virtual Dom*
 
 
 - Pete Hunt leaves FB:
