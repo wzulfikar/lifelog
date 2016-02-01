@@ -13,10 +13,11 @@
 
 ## Pete Hunt: React - Rethinking Best Practices 
 *JSConf.asia 2013*
-- Templates encourage a poor separation of concerns
+- Templates encourage a poor separation of concerns. And so are Angular-style directives
+- Templates separate technology, not concerns. And they do it by being deliberately underpowered
 - "View-Model" tightly couples template to display logic
 - Display logic & markup are highly cohesive: they both show the UI
-- 
+
 
 - React's Design
  - Re-render the whole app on every update
