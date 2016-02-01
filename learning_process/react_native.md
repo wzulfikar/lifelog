@@ -20,6 +20,8 @@ React Native allow native level performance while making it possible to develop 
 
 http://facebook.github.io/react/docs/why-react.html
 
+https://signalvnoise.com/posts/3124-give-it-five-minutes
+
 The purpose of render method in react class is to always return some code describing how our react component look like.
 
 JSX is one of the many supporting technology around react. Think of it as a dialect of javascript that can be compiled directly into javascript code.
