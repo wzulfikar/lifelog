@@ -247,3 +247,6 @@ http://0.30000000000000004.com
 https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.ugymz7aro
 - Code is the tool. The program is the product.
 - Yes, some code is art in and of itself, but if it doesn’t stand alone published on paper, your code doesn’t fall into that category.
+
+
+http://www.inmotionhosting.com/support/website/ssh/speed-up-grep-searches-with-lc-all
