@@ -256,3 +256,5 @@ https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.
 http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/
 
 https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+
+https://www.youtube.com/watch?v=VkTCL6Nqm6Y&feature=youtu.be
