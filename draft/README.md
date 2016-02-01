@@ -251,3 +251,6 @@ https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.
 **HipHop Fatal error: unexpected St13runtime_error: locale::facet::_S_create_c_locale name not valid**
 - http://www.inmotionhosting.com/support/website/ssh/speed-up-grep-searches-with-lc-all
 - https://github.com/facebook/hhvm/issues/1052
+
+
+http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/
