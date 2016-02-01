@@ -143,3 +143,5 @@ https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes
 In React, application data flows unidirectionally via the state and props objects, as opposed to the two-way binding of libraries like Angular. This means that, in a multi component heirachy, a common parent component should manage the state and pass it down the chain via props.
 
 https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.ugymz7aro
+
+http://www.funnyant.com/reactjs-what-is-it/
