@@ -22,7 +22,7 @@
 - Components are reusable, composable & unit testable
 - JSX is an ***optional*** preprocessor to let you use HTML-like syntax: it's easy for designers to contribute code
 - React: the accessibility of templates and the power of JavaScript
-- 
+- When the data changes, React re-renders the entire component
 
 >*What about spaghetti code?*  
 Just don't write spaghetti code. Only put display logic in yourcomponents.
