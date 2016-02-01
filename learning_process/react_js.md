@@ -19,7 +19,7 @@
 - 
 
 - React's Design
- - Re-render the whole app on 
+ - Re-render the whole app on every update
 
 Example:
 
