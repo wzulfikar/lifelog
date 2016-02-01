@@ -10,6 +10,9 @@
 - JSX needs to be compiled into javascript before running
 - XML-like syntax extension to ECMAScript without any defined semantics. It's NOT intended to be implemented by engines or browsers. [https://facebook.github.io/jsx/]()
 
+- Templates encourage a poor separation of concerns
+- "View-Model" tightly couples template to display log
+
 Example:
 
 ```js
