@@ -17,7 +17,7 @@
 - Templates separate technology, not concerns. And they do it by being deliberately underpowered
 - "View-Model" tightly couples template to display logic
 - Display logic & markup are highly cohesive: they both show the UI
-- The framework cannot know how to separate your concerns for you: it should only provide powerful, expressiev tools for the user to do it cor
+- The framework cannot know how to separate your concerns for you: it should only provide powerful, expressive tools for the user to do it correctly
 
 - React's Design
  - Re-render the whole app on every update
