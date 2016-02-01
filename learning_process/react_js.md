@@ -21,6 +21,8 @@
 - Use components to separate your concerns. With the *full-power* of JavaScript, not a crippled templating language. *And that's how React works*
 - Components are reusable, composable & unit testable
 - JSX is an ***optional*** preprocessor to let you use HTML-like syntax: it's easy for designers to contribute code
+- React: the accessibility of templates and the power of JavaScript
+- 
 
 >*What about spaghetti code?*  
 Just don't write spaghetti code. Only put display logic in yourcomponents.
