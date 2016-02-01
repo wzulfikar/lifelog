@@ -139,6 +139,8 @@ export default class NameOfComponent extends Component
 Read more about javascript classses here :
 https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes
 
+https://christianalfoni.github.io/react-webpack-cookbook/Structuring-configuration.html
+
 ## Unidirectional Data Flow
 In React, application data flows unidirectionally via the state and props objects, as opposed to the two-way binding of libraries like Angular. This means that, in a multi component heirachy, a common parent component should manage the state and pass it down the chain via props.
 
