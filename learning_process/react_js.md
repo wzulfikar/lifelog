@@ -19,6 +19,8 @@
 - Display logic & markup are highly cohesive: they both show the UI
 - The framework cannot know how to separate your concerns for you: it should only provide powerful, expressive tools for the user to do it correctly
 - Use components to separate your concerns. With the *full-power* of JavaScript, not a crippled templating language. *And that's how React works*
+- Components are reusable, composable & unit testable
+- 
 
 - React's Design
  - Re-render the whole app on every update
