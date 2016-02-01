@@ -111,6 +111,8 @@ https://christianalfoni.github.io/react-webpack-cookbook/Structuring-configurati
 
 http://ricostacruz.com/cheatsheets/react.html
 
+http://www.christianalfoni.com/articles/2015_04_19_The-ultimate-webpack-setup
+
 Even though `React` is not called in script, `import React from 'react'` statement is still required as long as we have jsx inside. Because, behind the scene, thus HTML codes inside jsx will be translated into `React.createElement({...})`.
 
 Code styles:
@@ -138,8 +140,6 @@ export default class NameOfComponent extends Component
 
 Read more about javascript classses here :
 https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes
-
-https://christianalfoni.github.io/react-webpack-cookbook/Structuring-configuration.html
 
 ## Unidirectional Data Flow
 In React, application data flows unidirectionally via the state and props objects, as opposed to the two-way binding of libraries like Angular. This means that, in a multi component heirachy, a common parent component should manage the state and pass it down the chain via props.
