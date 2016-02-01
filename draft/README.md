@@ -259,3 +259,5 @@ https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 
 - OSCON 2014: How Instagram.com Works; Pete Hunt  
 https://www.youtube.com/watch?v=VkTCL6Nqm6Y&feature=youtu.be
+
+- https://www.youtube.com/watch?v=TaWKUpahFZM
