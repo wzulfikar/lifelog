@@ -23,6 +23,7 @@
 - JSX is an ***optional*** preprocessor to let you use HTML-like syntax: it's easy for designers to contribute code
 - React: the accessibility of templates and the power of JavaScript
 - When the data changes, React re-renders the entire component
+- React describe your UI at any point in time, just like a server-rendered app
 
 >*What about spaghetti code?*  
 Just don't write spaghetti code. Only put display logic in yourcomponents.
