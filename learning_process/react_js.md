@@ -25,7 +25,7 @@
 - When the data changes, React re-renders the entire component. Re-rendering on every change makes things simple: every place data is displayed is guaranteed to be up-to-date
 - React describe your UI at any point in time, just like a server-rendered app
 - Re-render on every change, that seems expensive. Yes, we can't do that re-render things in real browser DOM. That's why we built *Virtual DOM* (and event system)
-
+- React is fast because it use JavaScript (which is already fast by nature) and computes minimal DOM operations (because DOM is 
 
 - Pete Hunt leaves FB:
 https://www.facebook.com/429297/posts/10101869605197995
