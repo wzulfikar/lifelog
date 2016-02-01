@@ -16,6 +16,8 @@ Android Setup:
     - install brew
     - `brew install android-sdk`
 
+React Native allow native level performance while making it possible to develop apps in a tight realtime preview loop using JavaScript.
+
 
 The purpose of render method in react class is to always return some code describing how our react component look like.
 
