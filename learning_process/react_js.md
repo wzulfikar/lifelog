@@ -20,7 +20,9 @@
 - The framework cannot know how to separate your concerns for you: it should only provide powerful, expressive tools for the user to do it correctly
 - Use components to separate your concerns. With the *full-power* of JavaScript, not a crippled templating language. *And that's how React works*
 - Components are reusable, composable & unit testable
-- 
+
+>*What about spaghetti code?*  
+Just don't write spaghetti code. Only put display logic in yourcomponents.
 
 - React's Design
  - Re-render the whole app on every update
