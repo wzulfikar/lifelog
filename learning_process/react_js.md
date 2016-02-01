@@ -10,10 +10,16 @@
 - JSX needs to be compiled into javascript before running
 - XML-like syntax extension to ECMAScript without any defined semantics. It's NOT intended to be implemented by engines or browsers. [https://facebook.github.io/jsx/]()
 
+
 ## Pete Hunt: React - Rethinking Best Practices 
 *JSConf.asia 2013*
 - Templates encourage a poor separation of concerns
 - "View-Model" tightly couples template to display logic
+- Display logic & markup are highly cohesive: they both show the UI
+- 
+
+- React's Design
+ - Re-render the whole app on 
 
 Example:
 
