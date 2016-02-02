@@ -261,3 +261,5 @@ https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 https://www.youtube.com/watch?v=VkTCL6Nqm6Y&feature=youtu.be
 
 - webpack: https://www.youtube.com/watch?v=TaWKUpahFZM
+
+Testing with Casper 
