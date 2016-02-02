@@ -265,3 +265,4 @@ https://www.youtube.com/watch?v=VkTCL6Nqm6Y&feature=youtu.be
 Testing with Casper JS:
 - http://docs.casperjs.org/en/latest/testing.html#testing
 - https://www.lullabot.com/articles/testing-the-front-end-with-casperjs
+- http://www.helpscout.net/blog/functional-testing-casperjs/
