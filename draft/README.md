@@ -266,3 +266,9 @@ Testing with Casper JS:
 - http://docs.casperjs.org/en/latest/testing.html#testing
 - https://www.lullabot.com/articles/testing-the-front-end-with-casperjs
 - http://www.helpscout.net/blog/functional-testing-casperjs/
+
+Installing Casper JS using git:
+- http://docs.casperjs.org/en/latest/installation.html
+
+Other method of installation (Casper JS):
+- http://docs.casperjs.org/en/latest/installation.html#installing-from-git
