@@ -275,4 +275,4 @@ Other method of installation (Casper JS):
 
 - Casper JS installation:
  - Install phantom js: download phantomjs from its website and symlink to your path
- - Ins
+ - Install casper js using git : http://docs.casperjs.org/en/latest/installation.html#installing-from-git
