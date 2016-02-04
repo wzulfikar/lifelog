@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Tech Stuffs](tech/README.md)
+   * [How I Set This Thing](tech/tech/how_i_set_this_thing_up.md) 
    * [Telegram Bot](tech/telegram_bot.md)
    * [How I set this thing up](uncategorized/how_i_set_this_thing_up.md)
    * [PHP Composer](tech/php_composer.md)
@@ -16,6 +17,7 @@
    * [Let's code to interface. But why?](programming/why-code-to-interface-php.md)
    * [Generating API Documentation Using Sami (PHP)](programming/generating_api_documentation_using_sami_php.md)
    * [Random Stuff Related to Programming](programming/random_stuff_related_to_programming.md)
+   * [PHP: Trim Strings in Array](programming/trim_strings_in_array.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
@@ -27,8 +29,6 @@
    * [Scrum](learning_process/scrum.md)
    * [Redux](learning_process/redux.md)
    * [Learn How to Learn](learning_process/learn_how_to_learn.md)
-* Snippets
-* [Uncategorized](uncategorized/README.md)
 * [Draft](draft/README.md)
    * [Interpersonal Communication](draft/interpersonal_communication.md)
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
