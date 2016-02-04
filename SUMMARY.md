@@ -4,7 +4,7 @@
 * [Tech Stuffs](tech/README.md)
    * [How I Set This Thing](tech/tech/how_i_set_this_thing_up.md)
    * [Telegram Bot](tech/telegram_bot.md)
-   * [How I set this thing up](uncategorized/how_i_set_this_thing_up.md)
+   * [How I set this thing up](tech/how_i_set_this_thing_up.md)
    * [PHP Composer](tech/php_composer.md)
    * [React Related](tech/react_related.md)
 * [Programming](programming/README.md)
