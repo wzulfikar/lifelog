@@ -1,3 +1,0 @@
-# Snippets
-
-Collection of snippets.
