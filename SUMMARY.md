@@ -26,7 +26,7 @@
    * [React JS](learning_process/react_js.md)
    * [Scrum](learning_process/scrum.md)
    * [Redux](learning_process/redux.md)
-   * Learn How to Learn
+   * [Learn How to Learn](learning_process/learn_how_to_learn.md)
 * Snippets
 * [Uncategorized](uncategorized/README.md)
 * [Draft](draft/README.md)
