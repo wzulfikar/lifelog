@@ -278,3 +278,5 @@ Other method of installation (Casper JS):
  - Install casper js using git : http://docs.casperjs.org/en/latest/installation.html#installing-from-git
  
 http://glenmaddern.com/articles/css-modules
+
+http://laravel.io/forum/05-08-2014-failed-to-open-stream-permission-denied
