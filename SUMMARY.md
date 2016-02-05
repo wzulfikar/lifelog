@@ -26,7 +26,7 @@
    * [Scrum](learning_process/scrum.md)
    * [Redux](learning_process/redux.md)
    * [Learn How to Learn](learning_process/learn_how_to_learn.md)
-   * Agile Scrum
+   * [Agile Scrum](learning_process/agile_scrum.md)
 * [Draft](draft/README.md)
    * [Interpersonal Communication](draft/interpersonal_communication.md)
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
