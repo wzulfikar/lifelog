@@ -292,4 +292,5 @@ http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-node
 - [Sails JS](http://sailsjs.org)
 - [Hapi JS](http://hapijs.com)
 - [Mullet](http://mullet.io)
-- [Aqua (HaBoilerplate)](http://jedireza.github.io/aqua/)
+- [Aqua (Hapi Boilerplate)](http://jedireza.github.io/aqua/)
+- [Hapi + Socket.io](https://github.com/dwyl/hapi-socketio-redis-chat-example)
