@@ -294,3 +294,5 @@ http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-node
 - [Mullet](http://mullet.io)
 - [Aqua (Hapi Boilerplate)](http://jedireza.github.io/aqua/)
 - [Hapi + Socket.io](https://github.com/dwyl/hapi-socketio-redis-chat-example)
+- [Kraken](http://krakenjs.com)
+- [Loopback
