@@ -286,3 +286,8 @@ http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-node
 ## Nodemon
 - https://github.com/remy/nodemon
 - http://nodemon.io
+
+## NodeJS Framework
+- [Express JS](http://expressjs.com)
+- [Sails JS](http://sailsjs.org)
+- [Hapi JS](http://hapijs.com)
