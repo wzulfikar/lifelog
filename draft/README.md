@@ -288,6 +288,7 @@ http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-node
 - http://nodemon.io
 
 ## NodeJS Framework
+List :  
 - [Express JS](http://expressjs.com)
 - [Sails JS](http://sailsjs.org)
 - [Hapi JS](http://hapijs.com)
@@ -295,4 +296,4 @@ http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-node
 - [Aqua (Hapi Boilerplate)](http://jedireza.github.io/aqua/)
 - [Hapi + Socket.io](https://github.com/dwyl/hapi-socketio-redis-chat-example)
 - [Kraken](http://krakenjs.com)
-- [Loopback
+- [Loopback](http://loopback.io)
