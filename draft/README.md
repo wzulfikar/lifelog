@@ -292,3 +292,4 @@ http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-node
 - [Sails JS](http://sailsjs.org)
 - [Hapi JS](http://hapijs.com)
 - [Mullet](http://mullet.io)
+- [Aqua](http://jedireza.github.io/aqua/)
