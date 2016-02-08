@@ -297,3 +297,4 @@ List :
 - [Hapi + Socket.io](https://github.com/dwyl/hapi-socketio-redis-chat-example)
 - [Kraken](http://krakenjs.com)
 - [Loopback](http://loopback.io)
+- [Meteor JS[(https://www.meteor.com)
