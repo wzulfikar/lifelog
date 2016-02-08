@@ -299,4 +299,5 @@ List :
 - [Loopback](http://loopback.io)
 - [Meteor JS](https://www.meteor.com)
 
-## Meteor 
+## Meteor JS
+- https://blog.tableflip.io/large-meteor-projects-best-practices/
