@@ -303,3 +303,5 @@ List :
 - https://blog.tableflip.io/large-meteor-projects-best-practices/
 
 >`id` attributes should be unique. Browsers won't enforce this, but it is a widely agreed upon best practice. 
+
+- Using hex for color (freecodecamp) : http://www.freecodecamp.com/challenges/use-hex-code-to-color-elements-red#
