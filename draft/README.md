@@ -301,3 +301,5 @@ List :
 
 ## Meteor JS
 - https://blog.tableflip.io/large-meteor-projects-best-practices/
+
+>`id` attributes should be unique. Browsers won't enforce this, but it is a widely agreed upon best practice. 
