@@ -27,6 +27,7 @@
    * [Redux](learning_process/redux.md)
    * [Learn How to Learn](learning_process/learn_how_to_learn.md)
    * [Agile Scrum](learning_process/agile_scrum.md)
+   * Meteor JS
 * [Draft](draft/README.md)
    * [Interpersonal Communication](draft/interpersonal_communication.md)
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
