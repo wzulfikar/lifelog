@@ -8,4 +8,4 @@ After installing NPM, you can install `how-to-npm` globally using `npm install -
 >Gradle: Build tool for Android Studio
 
 ## How to Node
-Type `npm install -g learnyounode` to install `learnyounode` module globally.
+Type `npm install -g learnyounode` to install `learnyounode` module globally. See : https://github.com/workshopper/learnyounode.
