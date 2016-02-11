@@ -29,7 +29,7 @@
    * [Learn How to Learn](learning_process/learn_how_to_learn.md)
    * [Agile Scrum](learning_process/agile_scrum.md)
    * [Meteor JS](learning_process/meteor_js.md)
-   * NodeJS
+   * [NodeJS](learning_process/nodejs.md)
 * [Draft](draft/README.md)
    * [Interpersonal Communication](draft/interpersonal_communication.md)
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
