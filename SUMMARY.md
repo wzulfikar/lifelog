@@ -7,6 +7,7 @@
    * [How I set this thing up](tech/how_i_set_this_thing_up.md)
    * [PHP Composer](tech/php_composer.md)
    * [React Related](tech/react_related.md)
+   * Node Package Manager (NPM)
 * [Programming](programming/README.md)
    * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
    * [Artisan console: managing exit code](programming/artisan_console_managing_exit_code.md)
