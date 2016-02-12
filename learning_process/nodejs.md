@@ -12,3 +12,5 @@
      // fs.readFileSync(process.argv[2], 'utf8').split('\n').length - 1  
 
 `git clone https://github.com/FreeCodeCamp/fcc-expressworks.git && chmod 744 fcc-expressworks/setup.sh && fcc-expressworks/setup.sh && source ~/.profile` -> `expresswork`
+
+`npm install learnyoumongo -g`
