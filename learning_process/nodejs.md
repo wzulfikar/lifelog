@@ -22,3 +22,11 @@ https://github.com/evanlucas/learnyoumongo
 
 https://github.com/johnstonbl01/clementinejs-fcc.git
 
+
+Open your .env file and paste this into it, then save it: 
+GITHUB_KEY=
+GITHUB_SECRET=
+MONGO_URI=mongodb://localhost:27017/clementinejs
+PORT=8080
+APP_URL=http://localhost:8080/
+
