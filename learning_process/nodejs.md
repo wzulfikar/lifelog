@@ -17,4 +17,4 @@
 
 >Whenever you run a command that includes mongod on c9.io, be sure to also use the --nojournal flag, like this: mongod --nojournal.
 
-https://github.com/evanlucas/learnyoumongo.
+https://github.com/evanlucas/learnyoumongo
