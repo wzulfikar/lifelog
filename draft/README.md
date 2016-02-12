@@ -285,6 +285,8 @@ http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-node
 
 https://en.wikipedia.org/wiki/User_story
 
+> In computer science, data is anything that is meaningful to the computer. JavaScript provides seven different data types which are undefined, null, Boolean, string, symbol, number, and object.
+
 ## Nodemon
 - https://github.com/remy/nodemon
 - http://nodemon.io
