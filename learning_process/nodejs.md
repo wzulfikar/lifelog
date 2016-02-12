@@ -14,3 +14,7 @@
 `git clone https://github.com/FreeCodeCamp/fcc-expressworks.git && chmod 744 fcc-expressworks/setup.sh && fcc-expressworks/setup.sh && source ~/.profile` -> `expresswork`
 
 `npm install learnyoumongo -g`
+
+>Whenever you run a command that includes mongod on c9.io, be sure to also use the --nojournal flag, like this: mongod --nojournal.
+
+https://github.com/evanlucas/learnyoumongo.
