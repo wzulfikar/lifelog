@@ -283,6 +283,8 @@ http://laravel.io/forum/05-08-2014-failed-to-open-stream-permission-denied
 
 http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/
 
+https://en.wikipedia.org/wiki/User_story
+
 ## Nodemon
 - https://github.com/remy/nodemon
 - http://nodemon.io
