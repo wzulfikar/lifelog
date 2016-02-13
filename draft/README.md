@@ -297,6 +297,10 @@ var singleVal = 0;
 singleVal = array.reduce((a, b)=> a + b);
 ```
 
+Sort array
+```javacscript
+[1, 12, 21, 2].sort((a,b)=>b-a);
+```
 ## Nodemon
 - https://github.com/remy/nodemon
 - http://nodemon.io
