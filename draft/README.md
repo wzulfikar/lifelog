@@ -304,6 +304,14 @@ Sort array
 
 http://gunnariauvinen.com/difference-between-concat-and-push-in-javascript/
 
+```javascript
+function factorialize(num) {
+  return num == 1 || num === 0 ? 1 : num * (factorialize(num-1));
+}
+
+factorialize(5);
+
+
 ## Nodemon
 - https://github.com/remy/nodemon
 - http://nodemon.io
