@@ -321,8 +321,11 @@ if (navigator.geolocation) {
 }
 ```
 
+JS apply function
+http://stackoverflow.com/a/1379560
 
 
+http://choosealicense.com
 ## Nodemon
 - https://github.com/remy/nodemon
 - http://nodemon.io
