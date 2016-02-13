@@ -301,6 +301,9 @@ Sort array
 ```javacscript
 [1, 12, 21, 2].sort((a,b)=>b-a);
 ```
+
+http://gunnariauvinen.com/difference-between-concat-and-push-in-javascript/
+
 ## Nodemon
 - https://github.com/remy/nodemon
 - http://nodemon.io
