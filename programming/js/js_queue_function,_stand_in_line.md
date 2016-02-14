@@ -1,6 +1,8 @@
 # JS: Queue Function, "Stand in line!"
 *From www.freecodecamp.com/challenges/stand-in-line*
 
+Queue is data structure in js.
+
 ```js
 function queue(arr, item) {
   // Your code here
