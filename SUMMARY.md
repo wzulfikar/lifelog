@@ -22,6 +22,7 @@
    * [JS: Palindrome Checker](programming/js_palindrome_checker.md)
    * [JS: Title Case](programming/js_title_case.md)
    * [JS: End of String Checker](programming/js_end_of_string_checker.md)
+   * JS: Find Largest in Collection
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
