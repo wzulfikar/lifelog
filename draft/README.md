@@ -12,19 +12,6 @@ Floating ideas, ice box, things that I wanted to write.
 https://ghostinspector.com/blog/making-casperjs-tests-more-reliable/
 
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
-```
-function diff(arr1, arr2) {
-  return arr1.filter(function(val){
-      return arr2.indexOf(val) < 0;
-    }).concat(
-    arr2.filter(function(val){
-      return arr1.indexOf(val) < 0;
-    })
-  );
-}
-
-diff([1, 2, 3, 5], [1, 2, 3, 4, 5]);
-```
 
 ```
 function findLongestWord(str) {
