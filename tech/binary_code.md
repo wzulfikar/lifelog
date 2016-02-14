@@ -5,3 +5,7 @@
 --
 
 >everything can be expressed through binary code!
+
+--
+
+>If it's a 0, we disregard it.
