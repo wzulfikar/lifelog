@@ -17,7 +17,7 @@
    * [Generating API Documentation Using Sami (PHP)](programming/generating_api_documentation_using_sami_php.md)
    * [Random Stuff Related to Programming](programming/random_stuff_related_to_programming.md)
    * [PHP: Trim Strings in Array](programming/trim_strings_in_array.md)
-   * JS: Symmetric Difference of 2 Arrays
+   * [JS: Symmetric Difference of 2 Arrays](programming/js_symmetric_difference_of_2_arrays.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
