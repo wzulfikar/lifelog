@@ -13,7 +13,7 @@
    * [Binary Code](tech/binary_code.md)
 * [Programming](programming/README.md)
    * [JavaScript (JS)](programming/js/README.md)
-       * JavaScript Lingo
+       * [JavaScript Lingo](programming/js/javascript_lingo.md)
        * [JS: Global Variable](programming/js/js_global_variable.md)
        * [JS: Writing Function](programming/js/js_writing_function.md)
        * [JS: Symmetric Difference of 2 Arrays](programming/js/js_symmetric_difference_of_2_arrays.md)
