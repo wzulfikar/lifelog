@@ -3,7 +3,7 @@
 http://www.mooreslaw.org
 https://en.wikipedia.org/wiki/Moore%27s_law
 
-
+>A chip is full of these little things called transistors, which are switches that can either be a 1 or a 0
 
 We discuss what constitutes a chip and why technology gets cheaper every year.
 
