@@ -4,4 +4,4 @@
 
 --
 
->no matter how big and fast your computer is, if the algorithm is ***exponentially*** inefficient, it's realistically unusable.
+>no matter how big and fast your computer is, if the algorithm is ***exponentially inefficient***, it's realistically unusable.
