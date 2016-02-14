@@ -48,3 +48,6 @@ bigocheatsheet.com/
 Princeton Coursera course is NOT for the faint of heart. With examples and practice in Java, this course will cover iterating over data specifically with Java, sorting, and searching algorithms.
 
 coursera.org/course/algs4partI
+
+Q: All algorithms can be broken down to complete in a static amount of time if you do it effectively.
+A: Not all algorithms can be simplified to that extent, but you should always try to find the simplest way to solve your problem.
