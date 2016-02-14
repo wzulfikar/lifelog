@@ -14,3 +14,7 @@ Time complexity is talked about in relation to an algorithm, a collection of one
 --
 
 >no matter how big and fast your computer is, if the algorithm is ***exponentially inefficient***, it's realistically unusable.
+
+Time complexity is classified by the nature of the function T(n). O represents the function, and (n) represents the number of elements to be acted on.
+
+Worst-case time complexity, the longest it could possibly take with any valid input, is the most common way to express time complexity.
