@@ -20,6 +20,7 @@
    * [JS: Symmetric Difference of 2 Arrays](programming/js_symmetric_difference_of_2_arrays.md)
    * [JS: Find Longest Word in Sentence](programming/js_find_longest_word_in_sentence.md)
    * [JS: Palindrome Checker](programming/js_palindrome_checker.md)
+   * JS: Title Case
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
