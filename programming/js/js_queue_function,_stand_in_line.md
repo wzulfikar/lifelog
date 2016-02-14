@@ -4,7 +4,7 @@
 ```js
 function queue(arr, item) {
   // Your code here
-  return arr.push(item) && arr.shift();  // Change this line
+  return arr.push(item) && arr.shift();
 }
 
 // Test Setup
