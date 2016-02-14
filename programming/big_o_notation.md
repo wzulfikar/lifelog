@@ -34,3 +34,6 @@ O(N log N) - sorting a deck of playing cards (using merge sort)
 O(N^2) - checking if you have everything on your shopping list in your cart
 
 O(infinity) - tossing a coin until it lands on heads
+
+>As a rule of thumb, anything with N^2 or any other exponent is NOT a good algorithm for a site with multiple users.
+
