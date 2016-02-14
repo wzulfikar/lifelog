@@ -21,6 +21,7 @@
    * [JS: Find Longest Word in Sentence](programming/js_find_longest_word_in_sentence.md)
    * [JS: Palindrome Checker](programming/js_palindrome_checker.md)
    * [JS: Title Case](programming/js_title_case.md)
+   * JS: End of String Checker
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
