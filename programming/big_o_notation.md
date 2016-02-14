@@ -9,7 +9,6 @@ When you're writing code, you should be aware of how long it's going to take to 
 Time complexity is talked about in relation to an algorithm, a collection of one or more functions.
 
 
-
 >Big O Notation specifically helps you identify when an algorithm wouldn't 'scale' well, or work well with varying amounts of users, information, or other inputs.
 
 --
