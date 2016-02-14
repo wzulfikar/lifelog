@@ -118,6 +118,16 @@ function where(arr, num) {
 where([40, 60], 50);
 ```
 
+```
+function palindrome(str) {
+  // Good luck!
+  var onlyWord = str.toLowerCase().replace(/(\W|_)+/g,'');
+  return onlyWord == onlyWord.split('').reverse().join('');
+}
+
+palindrome("0_0 (: /-\ :) 0-0");
+
+```
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
 
 https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js
