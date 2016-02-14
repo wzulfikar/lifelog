@@ -10,6 +10,7 @@
    * [Node Package Manager (NPM)](tech/node_package_manager_npm.md)
    * [Basic Parts of Computer](tech/basic_parts_of_computer.md)
    * [Chips and Moore's Law](tech/moores_law.md)
+   * Binary Code
 * [Programming](programming/README.md)
    * [JavaScript (JS)](programming/js/README.md)
        * [JS: Symmetric Difference of 2 Arrays](programming/js/js_symmetric_difference_of_2_arrays.md)
