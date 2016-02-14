@@ -33,6 +33,7 @@
    * [Random Stuff Related to Programming](programming/random_stuff_related_to_programming.md)
    * [Big O Notation](programming/big_o_notation.md)
    * [Chrome Developer Tools](programming/chrome_developer_tools.md)
+   * JS: Strict Equality
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
