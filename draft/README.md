@@ -26,6 +26,17 @@ function diff(arr1, arr2) {
 diff([1, 2, 3, 5], [1, 2, 3, 4, 5]);
 ```
 
+```
+function findLongestWord(str) {
+  var lengths = str.split(' ').map(function(val){
+    return val.length;
+  });
+  return Math.max.apply(null, lengths);
+}
+
+findLongestWord("The quick brown fox jumped over the lazy dog");
+```
+
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
 
 https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js
