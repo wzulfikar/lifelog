@@ -80,7 +80,20 @@ function repeat(str, num) {
 }
 
 repeat("abc", 3);
-``
+```
+
+```
+function slasher(arr, howMany) {
+  // it doesn't always pay to be first
+  while(howMany){
+    arr.shift();
+    howMany--;
+  }
+  return arr;
+}
+
+slasher([1, 2, 3], 2);
+```
 
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
 
