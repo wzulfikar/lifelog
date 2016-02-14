@@ -18,6 +18,7 @@
    * [Random Stuff Related to Programming](programming/random_stuff_related_to_programming.md)
    * [PHP: Trim Strings in Array](programming/trim_strings_in_array.md)
    * [JS: Symmetric Difference of 2 Arrays](programming/js_symmetric_difference_of_2_arrays.md)
+   * JS: Find Longest Word in Sentence
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
