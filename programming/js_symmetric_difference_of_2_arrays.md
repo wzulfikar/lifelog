@@ -1,6 +1,6 @@
 # JS: Symmetric Difference of 2 Arrays
 
-```
+```javascript
 function diff(arr1, arr2) {
   return arr1.filter(function(val){
       return arr2.indexOf(val) < 0;
