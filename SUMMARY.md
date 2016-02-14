@@ -22,7 +22,7 @@
        * [JS: Title Case](programming/js/js_title_case.md)
        * [JS: End of String Checker](programming/js/js_end_of_string_checker.md)
        * [JS: Find Largest in Collection](programming/js/js_find_largest_in_collection.md)
-       * JS: Strict Equality
+       * [JS: Strict Equality](programming/js/js_strict_equality.md)
        * [JS: Queue Function, "Stand in line!"](programming/js/js_queue_function,_stand_in_line.md)
    * [PHP](programming/php/README.md)
        * [Let's code to interface. But why?](programming/php/why-code-to-interface-php.md)
