@@ -106,6 +106,18 @@ function bouncer(arr) {
 bouncer([7, "ate", "", false, 9]);
 ```
 
+```
+//www.freecodecamp.com/challenges/where-do-i-belong
+function where(arr, num) {
+  // Find my place in this sorted array.
+  return arr.concat(num).sort(function(a,b){
+    return a - b;
+  }).indexOf(num);
+}
+
+where([40, 60], 50);
+```
+
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
 
 https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js
