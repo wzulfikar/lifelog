@@ -30,7 +30,7 @@
    * [Building New Feature : What I used to do.](programming/buildingnew_feature_what_i_used_to_do_md.md)
    * [Random Stuff Related to Programming](programming/random_stuff_related_to_programming.md)
    * [Big O Notation](programming/big_o_notation.md)
-   * Chrome Developer Tools
+   * [Chrome Developer Tools](programming/chrome_developer_tools.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
