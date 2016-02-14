@@ -13,6 +13,7 @@
    * [Binary Code](tech/binary_code.md)
 * [Programming](programming/README.md)
    * [JavaScript (JS)](programming/js/README.md)
+       * JavaScript Lingo
        * [JS: Global Variable](programming/js/js_global_variable.md)
        * [JS: Writing Function](programming/js/js_writing_function.md)
        * [JS: Symmetric Difference of 2 Arrays](programming/js/js_symmetric_difference_of_2_arrays.md)
@@ -21,7 +22,6 @@
        * [JS: Title Case](programming/js/js_title_case.md)
        * [JS: End of String Checker](programming/js/js_end_of_string_checker.md)
        * [JS: Find Largest in Collection](programming/js/js_find_largest_in_collection.md)
-       * JavaScript Lingo
    * [PHP](programming/php/README.md)
        * [Let's code to interface. But why?](programming/php/why-code-to-interface-php.md)
        * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
