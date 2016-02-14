@@ -18,3 +18,19 @@ Time complexity is talked about in relation to an algorithm, a collection of one
 Time complexity is classified by the nature of the function T(n). O represents the function, and (n) represents the number of elements to be acted on.
 
 Worst-case time complexity, the longest it could possibly take with any valid input, is the most common way to express time complexity.
+
+When you discuss Big-O notation, that is generally referring to the worst case scenario.
+
+For example, if we have to search two lists for common entries, we will calculate as if both entries would be at the very end of each list, just to be safe that we don't underestimate how long it could take.
+
+O(1) - determining if a number is odd or even. O(1) is a static amount of time, the same no matter how much information is there or how many users there are.
+
+O(log N) - finding a word in the dictionary (using binary search). Binary search is an example of a type of 'divide and conquor' algorithm.
+
+O(N) - reading a book
+
+O(N log N) - sorting a deck of playing cards (using merge sort)
+
+O(N^2) - checking if you have everything on your shopping list in your cart
+
+O(infinity) - tossing a coin until it lands on heads
