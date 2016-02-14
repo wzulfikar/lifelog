@@ -9,3 +9,6 @@
 --
 
 >If it's a 0, we disregard it.
+
+## Data Size
+- Bit, Nibble, Byte
