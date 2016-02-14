@@ -95,6 +95,17 @@ function slasher(arr, howMany) {
 slasher([1, 2, 3], 2);
 ```
 
+```
+function bouncer(arr) {
+  // Don't show a false ID to this bouncer.
+  return arr.filter(function(val, key){
+    return val || false;
+  });
+}
+
+bouncer([7, "ate", "", false, 9]);
+```
+
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
 
 https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js
