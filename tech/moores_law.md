@@ -21,6 +21,6 @@ All of these transistors fit onto a chip, and that's how it stores information.
 
 What makes these chips larger/faster is the amount of transistors on a single chip.
 
-Moore's Law is the observation that the amount of transistors fit on each chip has doubled every two years since 1965.
+>Moore's Law is the observation that the amount of transistors fit on each chip has doubled every two years since 1965.
 
 This is important because it's making technology more affordable and accessible.
