@@ -1,6 +1,6 @@
 # Big O Notation
 
-
+*From http://www.freecodecamp.com/videos/big-o-notation-a-few-examples*
 
 Time complexity is a way of discussing how long specific algorithms take. This is useful in streamlining software so it works as fast as possible.
 
