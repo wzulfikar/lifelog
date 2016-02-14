@@ -1,0 +1,2 @@
+# JS: Global Variable
+
