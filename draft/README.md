@@ -58,6 +58,16 @@ function largestOfFour(arr) {
 largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);
 ```
 
+```
+function end(str, target) {
+  // "Never give up and good luck will find you."
+  // -- Falcor
+  return str.slice(-target.length) == target;
+}
+
+end("Bastian", "n");
+```
+
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
 
 https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js
