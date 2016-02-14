@@ -68,6 +68,20 @@ function end(str, target) {
 end("Bastian", "n");
 ```
 
+```
+function repeat(str, num) {
+  // repeat after me
+  var repeat = '';
+  while(num > 0){
+    repeat += str;
+    num--;
+  }
+  return repeat;
+}
+
+repeat("abc", 3);
+``
+
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
 
 https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js
