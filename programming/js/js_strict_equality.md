@@ -1,0 +1,2 @@
+# JS: Strict Equality
+
