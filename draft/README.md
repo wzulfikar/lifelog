@@ -37,6 +37,16 @@ function findLongestWord(str) {
 findLongestWord("The quick brown fox jumped over the lazy dog");
 ```
 
+```
+function titleCase(str) {
+  return str.toLowerCase().split(' ').map(function(val){
+    return val[0].toUpperCase() + val.slice(1);
+  }).join(' ');
+}
+
+titleCase("I'm a little tea pot");
+``
+
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
 
 https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js
