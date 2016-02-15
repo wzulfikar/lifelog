@@ -11,8 +11,6 @@ var testObj = {
   19: "Unitas"
 };
 
-// Only change code below this line;
-
-var playerNumber = 16;       // Change this Line
+var playerNumber = 16;
 var player = testObj[playerNumber];   // Change this Line
 ```
