@@ -6,5 +6,6 @@ function flatten(arr){
     return a.concat(b);
   }, []);
 }
-// flattened is [0, 1, 2, 3, 4, 5]
+var arr_of_arrays = [[0, 1], [2, 3], [4, 5]];
+console.log(flatten(arr_of_arrays)); // [0, 1, 2, 3, 4, 5]
 ```
