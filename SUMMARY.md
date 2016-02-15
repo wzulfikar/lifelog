@@ -27,7 +27,7 @@
        * [JS: Validate US Telephone Number](programming/js/js_validate_us_telephone_number.md)
        * [JS: Flatten Array of Arrays Using Reduce](programming/js/js_flatten_array_of_arrays_using_reduce.md)
        * [JS: Card Counting Blackjack](programming/js/js_card_counting_blackjack.md)
-       * JS: Object Notation (JSON)
+       * [JS: Object Notation (JSON)](programming/js/js_object_notation_json.md)
    * [PHP](programming/php/README.md)
        * [Let's code to interface. But why?](programming/php/why-code-to-interface-php.md)
        * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
