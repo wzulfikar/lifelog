@@ -55,6 +55,7 @@
    * [Agile Scrum](learning_process/agile_scrum.md)
    * [Meteor JS](learning_process/meteor_js.md)
    * [NodeJS](learning_process/nodejs.md)
+   * Monitoring Employees on Networks: Unethical or Good Business?
 * [Draft](draft/README.md)
    * [Interpersonal Communication](draft/interpersonal_communication.md)
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
