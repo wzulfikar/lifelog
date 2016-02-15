@@ -13,6 +13,7 @@
    * [Binary Code](tech/binary_code.md)
    * [Transaction Processing Systems (TPS)](tech/transaction_processing_systems.md)
    * [Business Intelligence](tech/business_intelligence.md)
+   * Management Information System (MIS)
 * [Programming](programming/README.md)
    * [JavaScript (JS)](programming/js/README.md)
        * [JavaScript Lingo](programming/js/javascript_lingo.md)
