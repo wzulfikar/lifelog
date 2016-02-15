@@ -40,6 +40,7 @@
    * [Chrome Developer Tools](programming/chrome_developer_tools.md)
    * [Sublime Text Keep Crashing on Startup](programming/sublime_text_crashing_on_startup.md)
    * [NodeJS](programming/nodejs.md)
+       * Auto Re-Run with Nodemon
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
