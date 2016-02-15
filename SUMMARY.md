@@ -26,7 +26,7 @@
        * [JS: Queue Function, "Stand in line!"](programming/js/js_queue_function,_stand_in_line.md)
        * [JS: Validate US Telephone Number](programming/js/js_validate_us_telephone_number.md)
        * [JS: Flatten Array of Arrays Using Reduce](programming/js/js_flatten_array_of_arrays_using_reduce.md)
-       * JS: Card Counting Blackjack
+       * [JS: Card Counting Blackjack](programming/js/js_card_counting_blackjack.md)
    * [PHP](programming/php/README.md)
        * [Let's code to interface. But why?](programming/php/why-code-to-interface-php.md)
        * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
