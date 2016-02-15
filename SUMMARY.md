@@ -16,7 +16,7 @@
    * [Management Information System (MIS)](tech/management_information_system_mis.md)
    * [Decision-Support Systems (DSS)](tech/decision-support_systems_dss.md)
    * [Executive-Support Systems (ESS)](tech/executive-support_systems_ess.md)
-   * The Information Systems Department
+   * [The Information Systems Department](tech/the_information_systems_department.md)
 * [Programming](programming/README.md)
    * [JavaScript (JS)](programming/js/README.md)
        * [JavaScript Lingo](programming/js/javascript_lingo.md)
