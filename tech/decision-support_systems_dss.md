@@ -7,3 +7,5 @@ DDS focus on problems that are *unique and rapidly changing*, for which the proc
 DDS try to answer questions such as these:
 - What would be the impact on production schedules if we were to double sales in the month of December?
 - What would happen to our return on investment if a factory schedule were delayed for six months?
+
+Example of small but interesting & powerful DDS: voyage estimating system.
