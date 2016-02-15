@@ -6,3 +6,5 @@ Operational managers need systems that keep track of the elementary activities a
 Transaction Processing Systems (TPS) provide above kind of information.
 
 >A Transaction Processing System is a computerized system that performs and records the daily routine transactions necessary to conduct business, suchs as sales order entry, hotel reservations, payroll, employee record keeping & shipping.
+
+Example: TPS for payroll processing.
