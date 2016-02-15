@@ -25,7 +25,7 @@
        * [JS: Strict Equality](programming/js/js_strict_equality.md)
        * [JS: Queue Function, "Stand in line!"](programming/js/js_queue_function,_stand_in_line.md)
        * [JS: Validate US Telephone Number](programming/js/js_validate_us_telephone_number.md)
-       * JS: Flatten Array of Arrays Using Reduce
+       * [JS: Flatten Array of Arrays Using Reduce](programming/js/js_flatten_array_of_arrays_using_reduce.md)
    * [PHP](programming/php/README.md)
        * [Let's code to interface. But why?](programming/php/why-code-to-interface-php.md)
        * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
