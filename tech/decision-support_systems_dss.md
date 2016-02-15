@@ -10,4 +10,6 @@ DDS try to answer questions such as these:
 
 >Although DDS use internal information from TPS & MIS, they often bring in information from external sources such as current stock prices or product prices of competitors.
 
+DDS employed by *'super-user'* managers and business analysts who want to use sophisticated analytics and models to analyze dat
+
 Example of small but interesting & powerful DDS: voyage estimating system.
