@@ -15,6 +15,6 @@ console.log(test);
   `nodemon path/to/hiNodemon.js`
 
 ## Checking if it works
-Change value of `test` variable inside `hiNodemon.js` to non-string and `nodemon` will output something like:
+Change value of `test` variable inside `hiNodemon.js` to non-string and `nodemon` will automatically re-run the file and output something like:
 
 ![nodemon-assertion-error](../images/nodemon-assertion-error.png)
