@@ -5,5 +5,7 @@ https://github.com/remy/nodemon#nodemon
 Install nodemon globally : `npm install -g nodemon`
 
 ```js
-console.assert(1 == 3);
+var test = 'Hello world!';
+console.assert(typeof test == 'string', 'test should be string');
+console.log(test);
 ```
