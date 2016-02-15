@@ -8,4 +8,6 @@ DDS try to answer questions such as these:
 - What would be the impact on production schedules if we were to double sales in the month of December?
 - What would happen to our return on investment if a factory schedule were delayed for six months?
 
+>Although DDS use internal information from TPS & MIS, they often bring in information from external sources such as current stock prices or product prices of competitors.
+
 Example of small but interesting & powerful DDS: voyage estimating system.
