@@ -35,6 +35,7 @@
        * [JS: Card Counting Blackjack](programming/js/js_card_counting_blackjack.md)
        * [JS: Object Notation (JSON)](programming/js/js_object_notation_json.md)
        * [JS: Sum of Array Using Empty Statement](programming/js/js_sum_of_array_using_empty_statement.md)
+       * JS: Multiply All Number in Array
    * [PHP](programming/php/README.md)
        * [Let's code to interface. But why?](programming/php/why-code-to-interface-php.md)
        * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
