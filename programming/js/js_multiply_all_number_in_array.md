@@ -14,5 +14,7 @@ function multiplyAll(arr) {
 }
 
 // Modify values below to test your code
-multiplyAll([[1,2],[3,4],[5,6,7]]);
+var product = multiplyAll([[1,2],[3,4],[5,6,7]]); // 5040
+
+console.assert(product == 5040);
 ```
