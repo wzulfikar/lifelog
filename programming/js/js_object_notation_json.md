@@ -14,3 +14,5 @@ var testObj = {
 var playerNumber = 16;
 var player = testObj[playerNumber];   // Change this Line
 ```
+
+>Use bracket notation for properties with a space in their name.
