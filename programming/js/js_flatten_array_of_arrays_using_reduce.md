@@ -18,4 +18,6 @@ var merged = [].concat.apply([], arrays);
 ```
 
 In above code, `var merged` is equivalent to:  
-`[].concat([0, 1], [2, 3], [4, 5])`
+`[].concat([0, 1], [2, 3], [4, 5])`.
+
+>The `apply()` method calls a function with a given this value and arguments provided as an array
