@@ -11,3 +11,5 @@ for (i = 0; i < arr.length; sum += arr[i++]); // empty statement
 
 console.log(sum); // 6
 ```
+
+The opposite behavior, where you want multiple statements, but JavaScript only allows a single one, is possible using a block statement; it combines several statements into a single one.
