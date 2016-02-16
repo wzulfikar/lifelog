@@ -16,3 +16,30 @@ var player = testObj[playerNumber];   // Change this Line
 ```
 
 >Also use bracket notation for properties with a space in their name.
+
+---
+
+Nested JSON & array:
+
+```js
+var myPlants = [
+  { 
+    type: "flowers",
+    list: [
+      "rose",
+      "tulip",
+      "dandelion"
+    ]
+  },
+  {
+    type: "trees",
+    list: [
+      "fir",
+      "pine",
+      "birch"
+    ]
+  }  
+];
+
+var secondTree = myPlants[1].list[1]; // "pine"
+```
