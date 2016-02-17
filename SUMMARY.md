@@ -52,7 +52,7 @@
        * [Auto Re-Run with Nodemon](programming/auto_re-run_with_nodemon.md)
    * [Java](programming/java.md)
        * [Java Servlet Hello World!](programming/java_servlet_hello_world.md)
-       * Hadoop Up and Running
+       * [Hadoop Up and Running](programming/hadoop_up_and_running.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
