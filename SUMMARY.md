@@ -49,7 +49,7 @@
    * [Sublime Text Keep Crashing on Startup](programming/sublime_text_crashing_on_startup.md)
    * [NodeJS](programming/nodejs.md)
        * [Auto Re-Run with Nodemon](programming/auto_re-run_with_nodemon.md)
-   * Java
+   * [Java](programming/java.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
