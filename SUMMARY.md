@@ -17,6 +17,7 @@
    * [Decision-Support Systems (DSS)](tech/decision-support_systems_dss.md)
    * [Executive-Support Systems (ESS)](tech/executive-support_systems_ess.md)
    * [The Information Systems Department](tech/the_information_systems_department.md)
+   * OSX Brew with LaunchRocket
 * [Programming](programming/README.md)
    * [JavaScript (JS)](programming/js/README.md)
        * [JavaScript Lingo](programming/js/javascript_lingo.md)
