@@ -1,6 +1,7 @@
 # ExpressJS: Static Files
 
-create `public/index.html`.
+- create `public/index.html`. 
+- In ExpressJS, we can use middleware using `use()` method
 
 ```js
 // to use path, do `npm install path` first
