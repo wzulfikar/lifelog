@@ -43,7 +43,7 @@
        * [Artisan console: managing exit code](programming/php/artisan_console_managing_exit_code.md)
        * [Generating API Documentation Using Sami (PHP)](programming/php/generating_api_documentation_using_sami_php.md)
        * [PHP: Trim Strings in Array](programming/php/trim_strings_in_array.md)
-       * Laravel Permission
+       * [Laravel Permission](programming/php/laravel_permission.md)
    * [Building New Feature : What I used to do.](programming/buildingnew_feature_what_i_used_to_do_md.md)
    * [Random Stuff Related to Programming](programming/random_stuff_related_to_programming.md)
    * [Big O Notation](programming/big_o_notation.md)
