@@ -52,7 +52,7 @@
        * [Auto Re-Run with Nodemon](programming/auto_re-run_with_nodemon.md)
        * [Node Version Manager (NVM)](programming/node_version_manager_nvm.md)
        * [Hello World Using ExpressJS](programming/hello_world_using_expressjs.md)
-       * ExpressJS: Static Files
+       * [ExpressJS: Static Files](programming/expressjs_static_files.md)
    * [Java](programming/java.md)
        * [Java Servlet Hello World!](programming/java_servlet_hello_world.md)
        * [Hadoop Up and Running](programming/hadoop_up_and_running.md)
