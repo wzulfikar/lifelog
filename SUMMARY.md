@@ -50,7 +50,7 @@
    * [NodeJS](programming/nodejs.md)
        * [Auto Re-Run with Nodemon](programming/auto_re-run_with_nodemon.md)
    * [Java](programming/java.md)
-       * Java Servlet Hello World!
+       * [Java Servlet Hello World!](programming/java_servlet_hello_world.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
