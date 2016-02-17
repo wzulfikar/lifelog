@@ -50,6 +50,7 @@
    * [Sublime Text Keep Crashing on Startup](programming/sublime_text_crashing_on_startup.md)
    * [NodeJS](programming/nodejs.md)
        * [Auto Re-Run with Nodemon](programming/auto_re-run_with_nodemon.md)
+       * Node Version Manager (NVM)
    * [Java](programming/java.md)
        * [Java Servlet Hello World!](programming/java_servlet_hello_world.md)
        * [Hadoop Up and Running](programming/hadoop_up_and_running.md)
