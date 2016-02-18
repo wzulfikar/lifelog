@@ -13,6 +13,9 @@ https://ghostinspector.com/blog/making-casperjs-tests-more-reliable/
 
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
 
+BDD Laravel
+https://semaphoreci.com/community/tutorials/getting-started-with-bdd-in-laravel
+
 ```
 function titleCase(str) {
   return str.toLowerCase().split(' ').map(function(val){
