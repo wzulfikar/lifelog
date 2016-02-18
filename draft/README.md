@@ -14,17 +14,6 @@ https://ghostinspector.com/blog/making-casperjs-tests-more-reliable/
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
 
 ```
-function findLongestWord(str) {
-  var lengths = str.split(' ').map(function(val){
-    return val.length;
-  });
-  return Math.max.apply(null, lengths);
-}
-
-findLongestWord("The quick brown fox jumped over the lazy dog");
-```
-
-```
 function titleCase(str) {
   return str.toLowerCase().split(' ').map(function(val){
     return val[0].toUpperCase() + val.slice(1);
