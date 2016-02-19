@@ -11,3 +11,6 @@ titleCase("I'm a little tea pot");
 ```
 
 ### Test
+```js
+$title = titleCase('hello world');
+```
