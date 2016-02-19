@@ -17,16 +17,6 @@ BDD Laravel
 https://semaphoreci.com/community/tutorials/getting-started-with-bdd-in-laravel
 
 ```
-function titleCase(str) {
-  return str.toLowerCase().split(' ').map(function(val){
-    return val[0].toUpperCase() + val.slice(1);
-  }).join(' ');
-}
-
-titleCase("I'm a little tea pot");
-```
-
-```
 function largestOfFour(arr) {
   // You can do this!
   return arr.map(function(val){
