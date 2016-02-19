@@ -12,9 +12,9 @@ titleCase("I'm a little tea pot");
 
 ### Test
 ```js
-$title = titleCase('hello world!');
+test1 = titleCase('hello world!');
 console.assert($title == 'Hello World!');
 
-$title = titleCase('HELLO WOrlD!');
-console.assert($title == 'Hello World!');
+test2 = titleCase('HELLO WOrlD!');
+console.assert(test2 == 'Hello World!');
 ```
