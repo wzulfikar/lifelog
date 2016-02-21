@@ -18,16 +18,6 @@ https://semaphoreci.com/community/tutorials/getting-started-with-bdd-in-laravel
 
 
 ```
-function end(str, target) {
-  // "Never give up and good luck will find you."
-  // -- Falcor
-  return str.slice(-target.length) == target;
-}
-
-end("Bastian", "n");
-```
-
-```
 function repeat(str, num) {
   // repeat after me
   var repeat = '';
