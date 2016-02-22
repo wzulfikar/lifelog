@@ -1,5 +1,9 @@
 # Git Workflow
 
+- Centralized Workflow
+- Feature Branch Workflow
+- Gitflow Workflow
+
 ##Centralized Workflow
 
 ##Feature Branch Workflow
