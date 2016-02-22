@@ -3,6 +3,7 @@
 - Centralized Workflow
 - Feature Branch Workflow
 - Gitflow Workflow
+- Forking Workflow
 
 ##Centralized Workflow
 
@@ -16,6 +17,8 @@ Once a pull request is accepted, the actual act of publishing a feature is much 
 - Features should never interact directly with master.
 
 Once it's ready to ship, the release gets merged into master and tagged with a version number. In addition, it should be merged back into develop, which may have progressed since the release was initiated.
+
+##Forking Workflow
 
 ---
 
