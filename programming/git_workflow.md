@@ -13,6 +13,9 @@ Once a pull request is accepted, the actual act of publishing a feature is much 
 
 ##Gitflow Worlflow
 - Historical Branches
+
+>Features should never interact directly with master.
+
 ---
 References:
 - https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow
