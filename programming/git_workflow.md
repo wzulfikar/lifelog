@@ -5,6 +5,8 @@
 - Gitflow Workflow
 - Forking Workflow
 
+`git remote add upstream https://bitbucket.org/maintainer/repo`
+
 ##Centralized Workflow
 
 ##Feature Branch Workflow
