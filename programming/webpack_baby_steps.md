@@ -22,3 +22,6 @@ It's like browserify but can split your app into multiple files. If you have mul
 
 It often replaces grunt or gulp because it can build and bundle CSS, preprocessed CSS, compile-to-JS languages and images, among other things.
 
+###Optimization Problem
+- Reduce number of http request
+- Reduce number of bytes downloaded
