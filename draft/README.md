@@ -17,20 +17,6 @@ BDD Laravel
 https://semaphoreci.com/community/tutorials/getting-started-with-bdd-in-laravel
 
 ```
-function repeat(str, num) {
-  // repeat after me
-  var repeat = '';
-  while(num > 0){
-    repeat += str;
-    num--;
-  }
-  return repeat;
-}
-
-repeat("abc", 3);
-```
-
-```
 function slasher(arr, howMany) {
   // it doesn't always pay to be first
   while(howMany){
