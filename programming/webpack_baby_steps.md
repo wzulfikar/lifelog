@@ -9,3 +9,8 @@ webpack will analyze your entry file for dependencies to other files. These file
 https://webpack.github.io/docs/tutorials/getting-started/
 
 webpack can only handle JavaScript natively, so we need the css-loader to process CSS files. We also need the style-loader to apply the styles in the CSS file.
+
+
+We don’t want to write such long requires require("!style!css!./style.css");.
+
+We can bind file extensions to loaders so we just need to write: require("./style.css")
