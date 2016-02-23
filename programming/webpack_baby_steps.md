@@ -14,3 +14,11 @@ webpack can only handle JavaScript natively, so we need the css-loader to proces
 We don’t want to write such long requires require("!style!css!./style.css");.
 
 We can bind file extensions to loaders so we just need to write: require("./style.css")
+
+---
+>If they go to another page, they don't redownload common code.
+
+It's like browserify but can split your app into multiple files. If you have multiple pages in a single-page app, the user only downloads code for just that page. If they go to another page, they don't redownload common code.
+
+It often replaces grunt or gulp because it can build and bundle CSS, preprocessed CSS, compile-to-JS languages and images, among other things.
+
