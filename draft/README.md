@@ -16,6 +16,8 @@ https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
 BDD Laravel
 https://semaphoreci.com/community/tutorials/getting-started-with-bdd-in-laravel
 
+https://heim.ifi.uio.no/~trygver/2007/MVC_Originals.pdf
+
 https://chocolatey.org/about
 
 ```
