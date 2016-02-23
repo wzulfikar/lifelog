@@ -26,4 +26,4 @@ It often replaces grunt or gulp because it can build and bundle CSS, preprocesse
 - Reduce number of http request
 - Reduce number of bytes downloaded
 
-CSS: Happy global namespac
+CSS: Happy global namespace – Pete Hunt
