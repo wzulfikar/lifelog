@@ -24,7 +24,9 @@ http://www.startandroid.ru/en/lessons/complete-list/232-lesson-24-activity-lifec
 
 http://stackoverflow.com/questions/17604232/edit-a-commit-message-in-sourcetree-windows-already-pushed-to-remote
 
-max function nesting rea
+max function nesting reached:
+https://laracasts.com/discuss/channels/general-discussion/xdebug-max-nesting-level-reached
+http://stackoverflow.com/questions/13213378/what-is-causing-a-maximum-function-nesting-level-error-in-symfony-2-1-and-twig
 
 https://chocolatey.org/about
 
