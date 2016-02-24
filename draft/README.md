@@ -24,6 +24,8 @@ http://www.startandroid.ru/en/lessons/complete-list/232-lesson-24-activity-lifec
 
 http://stackoverflow.com/questions/17604232/edit-a-commit-message-in-sourcetree-windows-already-pushed-to-remote
 
+max function nesting rea
+
 https://chocolatey.org/about
 
 ```
