@@ -37,7 +37,7 @@
        * [JS: Object Notation (JSON)](programming/js/js_object_notation_json.md)
        * [JS: Sum of Array Using Empty Statement](programming/js/js_sum_of_array_using_empty_statement.md)
        * [JS: Multiply All Number in Array](programming/js/js_multiply_all_number_in_array.md)
-       * JS: Getting User's Location
+       * [JS: Getting User's Location](programming/js/js_getting_users_location.md)
    * [PHP](programming/php/README.md)
        * [Let's code to interface. But why?](programming/php/why-code-to-interface-php.md)
        * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
