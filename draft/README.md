@@ -378,15 +378,6 @@ function factorialize(num) {
 factorialize(5);
 ```
 
-get user's location
-```
-if (navigator.geolocation) {
-  navigator.geolocation.getCurrentPosition(function(position) {
-    $("#data").html("latitude: " + position.coords.latitude + "<br>longitude: " + position.coords.longitude);
-  });
-}
-```
-
 JS apply function
 http://stackoverflow.com/a/1379560
 
