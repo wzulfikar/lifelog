@@ -11,6 +11,8 @@ Floating ideas, ice box, things that I wanted to write.
 
 https://ghostinspector.com/blog/making-casperjs-tests-more-reliable/
 
+semver.org
+
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
 
 BDD Laravel
