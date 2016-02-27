@@ -13,7 +13,12 @@ https://ghostinspector.com/blog/making-casperjs-tests-more-reliable/
 
 semver.org
 
+
+bower ubuntu + npm legacy
+http://stackoverflow.com/questions/21491996/installing-bower-on-ubuntu
+
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
+
 
 BDD Laravel
 https://semaphoreci.com/community/tutorials/getting-started-with-bdd-in-laravel
