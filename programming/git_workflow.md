@@ -29,3 +29,4 @@ References:
 
 
 http://nvie.com/posts/a-successful-git-branching-model/
+https://www.palantir.net/sites/default/files/Git_merge_deck.pdf
