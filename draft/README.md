@@ -13,6 +13,7 @@ https://ghostinspector.com/blog/making-casperjs-tests-more-reliable/
 
 semver.org
 
+http://stackoverflow.com/questions/3366895/group-by-month-and-year-in-mysql
 
 bower ubuntu + npm legacy
 http://stackoverflow.com/questions/21491996/installing-bower-on-ubuntu
