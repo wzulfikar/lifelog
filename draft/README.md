@@ -17,7 +17,7 @@ semver.org
 bower ubuntu + npm legacy
 http://stackoverflow.com/questions/21491996/installing-bower-on-ubuntu
 
-cloudflare certificat
+cloudflare certificate
 https://blog.cloudflare.com/protecting-the-origin-with-tls-authenticated-origin-pulls/
 
 https://scotch.io/tutorials/run-gulp-tasks-in-laravel-easily-with-elixir
