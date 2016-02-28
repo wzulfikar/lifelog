@@ -26,3 +26,6 @@ Once it's ready to ship, the release gets merged into master and tagged with a v
 
 References:
 - https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow
+
+
+http://nvie.com/posts/a-successful-git-branching-model/
