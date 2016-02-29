@@ -56,6 +56,7 @@
        * [Hello World Using ExpressJS](programming/hello_world_using_expressjs.md)
        * [ExpressJS: Static Files](programming/expressjs_static_files.md)
        * [CSV Walker.js](programming/csv_walkerjs.md)
+       * QR-Code Generator
    * [Java](programming/java.md)
        * [Java Servlet Hello World!](programming/java_servlet_hello_world.md)
        * [Hadoop Up and Running](programming/hadoop_up_and_running.md)
