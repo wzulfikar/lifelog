@@ -18,6 +18,8 @@ http://stackoverflow.com/questions/3366895/group-by-month-and-year-in-mysql
 bower ubuntu + npm legacy
 http://stackoverflow.com/questions/21491996/installing-bower-on-ubuntu
 
+https://vulcanpost.com/540311/new-o-level-subject-computing/
+
 cloudflare certificate
 https://blog.cloudflare.com/protecting-the-origin-with-tls-authenticated-origin-pulls/
 
