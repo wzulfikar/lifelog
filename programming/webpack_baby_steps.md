@@ -27,3 +27,6 @@ It often replaces grunt or gulp because it can build and bundle CSS, preprocesse
 - Reduce number of bytes downloaded
 
 CSS: Happy global namespace – Pete Hunt
+
+
+https://github.com/webpack/webpack-dev-server/issues/24
