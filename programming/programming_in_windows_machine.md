@@ -12,4 +12,5 @@ This is my personal preference when it comes to web development in Windows.
 ##Programs
 - [PHP](http://php.net)
 - [NodeJS](https://nodejs.org)
-- [SQLYog-Communit](https://github.com/webyog/sqlyog-community)y
+- [SQLYog-Community](https://github.com/webyog/sqlyog-community)
+- Chrome/Opera (Web Browser)
