@@ -5,6 +5,7 @@ This is my personal preference when it comes to web development in Windows.
 ##Tools
 - [Chocolatey](https://chocolatey.org) (Windows Package Manager)
 - [SublimeText](https://www.sublimetext.com) (Text Editor)
+- [Postman](https://www.getpostman.com) (API Tester)
 - [MarkdownPad](http://markdownpad.com) (Markdown Editor)
 - [Hosts File Editor](https://hostsfileeditor.codeplex.com)
 - [SourceTree](https://www.sourcetreeapp.com) (Git Client)
