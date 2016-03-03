@@ -10,3 +10,4 @@ This is my personal preference when it comes to programming in Windows.
 ##Programs
 - PHP
 - NodeJS
+- [SQLYog-Communit](https://github.com/webyog/sqlyog-community)y
