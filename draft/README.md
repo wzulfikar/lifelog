@@ -10,7 +10,6 @@ Floating ideas, ice box, things that I wanted to write.
     - http://code-epicenter.com/how-to-login-to-facebook-using-casperjs/
 
 https://ghostinspector.com/blog/making-casperjs-tests-more-reliable/
-\
 
 lodash VS underscore
 
