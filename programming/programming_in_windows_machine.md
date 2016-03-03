@@ -2,7 +2,11 @@
 
 This is my personal preference when it comes to programming in Windows. 
 
-Text Editor : 
-- Sublime
+##Tools
+- Chocolatey (Windows Package Manager)
+- SublimeText (Text Editor)
+- MarkdownPad (Markdown Editor)
 
-
+##Programs
+- PHP
+- NodeJS
