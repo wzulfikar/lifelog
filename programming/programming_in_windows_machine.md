@@ -8,6 +8,6 @@ This is my personal preference when it comes to programming in Windows.
 - MarkdownPad (Markdown Editor)
 
 ##Programs
-- PHP
-- NodeJS
+- [PHP](http://php.net)
+- [NodeJS](http://nodejs.org)
 - [SQLYog-Communit](https://github.com/webyog/sqlyog-community)y
