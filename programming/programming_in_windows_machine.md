@@ -7,6 +7,8 @@ This is my personal preference when it comes to web development in Windows.
 - [SublimeText](https://www.sublimetext.com) (Text Editor)
 - [MarkdownPad](http://markdownpad.com) (Markdown Editor)
 - [Hosts File Editor](https://hostsfileeditor.codeplex.com)
+- [SourceTree](https://www.sourcetreeapp.com) (Git Client)
+
 ##Programs
 - [PHP](http://php.net)
 - [NodeJS](https://nodejs.org)
