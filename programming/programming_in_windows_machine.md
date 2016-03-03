@@ -1,6 +1,6 @@
 # Web Development in Windows Machine
 
-This is my personal preference when it comes to programming in Windows. 
+This is my personal preference when it comes to web development in Windows. 
 
 ##Tools
 - [Chocolatey](https://chocolatey.org) (Windows Package Manager)
