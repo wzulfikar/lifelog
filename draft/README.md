@@ -13,6 +13,12 @@ https://ghostinspector.com/blog/making-casperjs-tests-more-reliable/
 
 lodash VS underscore
 
+email inliner:
+- http://templates.mailchimp.com/resources/inline-css/
+- http://foundation.zurb.com/emails/inliner.html
+- https://inlinestyler.torchbox.com
+- https://github.com/Automattic/juice
+- https://github.com/remy/inliner
 
 sentiment analysis
 http://www.sitepoint.com/creating-sentiment-analysis-application-using-node-js/
