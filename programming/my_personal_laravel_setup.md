@@ -22,3 +22,4 @@ This is list of things I do/use when building project with Laravel.
 - Use [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) to inspect db query, etc.
 - Use [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) for fast datatables deployment
 - Use built-in faker and ModelFactory to create dummy data
+- Use momentjs
