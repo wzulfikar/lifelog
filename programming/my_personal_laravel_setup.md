@@ -10,3 +10,8 @@ This is list of stuffs I do or things I use when building project with Laravel.
 - Use [jenssegers/laravel-rollbar](https://github.com/jenssegers/laravel-rollbar) for error monitoring using [rollbar](https://rollbar.com)
 - Setup registration for *environtment-specific* service providers
 - Only report to rollbar in production environment. Because for rollbar free account, it limit the usage to 5000 reports per month.
+
+
+### Things
+
+### Stuffs
