@@ -27,3 +27,5 @@ This is list of things I do/use when building project with Laravel.
 - Use [brew (Mac)](http://brew.sh) or [chocolatey (Windows)](https://chocolatey.org) for non-linux package manager
 - Use [Intervention/image](https://github.com/Intervention/image) to deal with image processing if any
 - Use [Zizaco/entrust](https://github.com/Zizaco/entrust) for Role-Based Access Control (RBAC) if any
+- Use pacejs for connection indicator (optional)
+- Use offlinejs for offline indicator (optional)
