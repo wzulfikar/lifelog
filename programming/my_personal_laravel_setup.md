@@ -12,3 +12,4 @@ This is list of things I do/use when building project with Laravel.
 - Only report to rollbar in production environment. Because for rollbar free account, it limit the usage to 5000 reports per month.
 - Use [newrelic](http://newrelic.com) for performance monitoring
 - Use [rap2hpoutre/laravel-log-viewer](https://github.com/rap2hpoutre/laravel-log-viewer) package to view laravel log
+- Use [sami/sami](https://github.com/FriendsOfPHP/Sami) for API documentation generator
