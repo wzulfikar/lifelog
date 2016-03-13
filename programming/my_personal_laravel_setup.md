@@ -3,6 +3,8 @@
 This is list of things I do/use when building project with Laravel.
 
 - Use [git](https://git-scm.com) for version control
+- Use repository layer
+- Use interface
 - Use [postman](https://www.getpostman.com) to test API
 - Use [bower](http://bower.io) for fast front-end deployment
 - Use `gulp tdd` with [phpunit](https://phpunit.de)
@@ -14,4 +16,4 @@ This is list of things I do/use when building project with Laravel.
 - Use [newrelic](http://newrelic.com) for performance monitoring
 - Use [rap2hpoutre/laravel-log-viewer](https://github.com/rap2hpoutre/laravel-log-viewer) package to view laravel log
 - Use [Sami](https://github.com/FriendsOfPHP/Sami) for API documentation generator
-- 
+- Setup helper file
