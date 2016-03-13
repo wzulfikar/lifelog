@@ -21,3 +21,4 @@ This is list of things I do/use when building project with Laravel.
 - Setup helper file
 - Use [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) to inspect db query, etc.
 - Use [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) for fast datatables deployment
+- Use built-in faker to create dummy data
