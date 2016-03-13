@@ -7,3 +7,4 @@ This is list of stuffs I do or things I use when building project with Laravel.
 - Use `gulp tdd` with phpunit
 - Use dropzonejs
 - Combine dropzonejs with form
+- Use rollbar to for error monitoring
