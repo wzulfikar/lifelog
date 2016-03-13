@@ -29,3 +29,4 @@ This is list of things I do/use when building project with Laravel.
 - Use [Zizaco/entrust](https://github.com/Zizaco/entrust) for Role-Based Access Control (RBAC) if any
 - Use [pacejs](http://github.hubspot.com/pace/docs/welcome/) for connection indicator (optional)
 - Use [offlinejs](http://github.hubspot.com/offline/docs/welcome/) for offline indicator (optional)
+- Use sequelpro or Sql Yog Community for MySql client
