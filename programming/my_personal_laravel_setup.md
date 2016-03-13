@@ -2,6 +2,7 @@
 
 This is list of things I do/use when building project with Laravel.
 
+- Use [git](https://git-scm.com) for version control
 - Use [postman](https://www.getpostman.com) to test API
 - Use [bower](http://bower.io) for fast front-end deployment
 - Use `gulp tdd` with [phpunit](https://phpunit.de)
