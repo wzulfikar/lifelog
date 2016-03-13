@@ -19,3 +19,5 @@ This is list of things I do/use when building project with Laravel.
 - Use [Sami](https://github.com/FriendsOfPHP/Sami) for API documentation generator
 - Setup config file for [Sami](https://github.com/FriendsOfPHP/Sami)
 - Setup helper file
+- Use [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) to inspect db query, etc.
+- Use [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) for fast datatables deployment
