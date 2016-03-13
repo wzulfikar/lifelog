@@ -24,3 +24,4 @@ This is list of things I do/use when building project with Laravel.
 - Use built-in faker and ModelFactory to create dummy data
 - Use [momentjs](http://momentjs.com) (date library built on js)
 - Use [iTerm](https://www.iterm2.com) or [Conemu](https://conemu.github.io) for command line
+- Use [brew]() or chocolatey for non-linux package manager
