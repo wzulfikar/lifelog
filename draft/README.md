@@ -23,6 +23,9 @@ email inliner:
 sentiment analysis
 http://www.sitepoint.com/creating-sentiment-analysis-application-using-node-js/
 
+learn node workshopper
+http://lin-clark.com/blog/2014/07/01/authoring-nodejs-workshopper-lessons/
+
 semver.org
 
 http://stackoverflow.com/questions/3366895/group-by-month-and-year-in-mysql
