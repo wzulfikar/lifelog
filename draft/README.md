@@ -13,7 +13,8 @@ https://ghostinspector.com/blog/making-casperjs-tests-more-reliable/
 
 lodash VS underscore
 
-cloud9 workspace clone nodeschool-challenges  
+cloud9 workspace clone nodeschool-challenges
+
 https://c9.io/new/clone?name=nodeschool-challenges-bare-cloned&cloneFromWorkspace=wzulfikar%2Fnodeschool-challenges-bare&description=challenges%20from%20http%3A%2F%2Fnodeschool.io&private=false
 
 email inliner:
