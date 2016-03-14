@@ -65,7 +65,7 @@
    * [Webpack Baby Steps](programming/webpack_baby_steps.md)
    * [Web Development in Windows Machine](programming/programming_in_windows_machine.md)
    * [Laravel, Personally.](programming/my_personal_laravel_setup.md)
-   * When Develop Branch is Messed Up
+   * [When Develop Branch is Messed Up](programming/when_develop_branch_is_messed_up.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
