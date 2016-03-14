@@ -30,4 +30,4 @@ This is list of things I do/use when building project with Laravel.
 - Use [pacejs](http://github.hubspot.com/pace/docs/welcome/) for connection indicator (optional)
 - Use [offlinejs](http://github.hubspot.com/offline/docs/welcome/) for offline indicator (optional)
 - Use [SequelPro (Mac)](http://www.sequelpro.com) or [Sql Yog Community (Windows)](https://github.com/webyog/sqlyog-community/wiki/Downloads) for MySql client
-- Tooltip (like bootstrap tooltip) to add value in ux
+- Tooltip (eg. [bootstrap tooltip](http://getbootstrap.com/javascript/#tooltips)) to add value in ux
