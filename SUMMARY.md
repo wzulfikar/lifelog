@@ -64,7 +64,7 @@
    * [Git Workflow](programming/git_workflow.md)
    * [Webpack Baby Steps](programming/webpack_baby_steps.md)
    * [Web Development in Windows Machine](programming/programming_in_windows_machine.md)
-   * [Laravel, Personally](programming/my_personal_laravel_setup.md)
+   * [Laravel, Personally.](programming/my_personal_laravel_setup.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
