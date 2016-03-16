@@ -13,6 +13,8 @@ gzip: http://askubuntu.com/questions/553158/compressing-a-folder-tar-without-its
 
 https://ghostinspector.com/blog/making-casperjs-tests-more-reliable/
 
+https://mattstauffer.co/blog/conditionally-loading-service-providers-in-laravel-5
+
 lodash VS underscore
 
 cloud9 workspace clone nodeschool-challenges
