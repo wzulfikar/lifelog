@@ -11,6 +11,10 @@ Floating ideas, ice box, things that I wanted to write.
 
 http://pingendo.com vs https://bootstrapstudio.io
 
+http://stackoverflow.com/questions/28888280/laravel-lists-with-relationship-for-a-dropdown
+
+php.net/manual/en/mongo.installation.php
+
 javalite.io
 
 gzip: http://askubuntu.com/questions/553158/compressing-a-folder-tar-without-its-containing-directory-in-the-foldername
