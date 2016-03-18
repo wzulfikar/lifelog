@@ -9,6 +9,8 @@ Floating ideas, ice box, things that I wanted to write.
     - http://stackoverflow.com/questions/13376189/how-to-login-into-a-website-with-casperjs
     - http://code-epicenter.com/how-to-login-to-facebook-using-casperjs/
 
+`cat /var/logs/hhvm/error.log`
+
 http://pingendo.com vs https://bootstrapstudio.io
 
 http://stackoverflow.com/questions/28888280/laravel-lists-with-relationship-for-a-dropdown
