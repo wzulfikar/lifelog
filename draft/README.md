@@ -15,6 +15,8 @@ http://pingendo.com vs https://bootstrapstudio.io
 
 http://stackoverflow.com/questions/28888280/laravel-lists-with-relationship-for-a-dropdown
 
+MIS: risk aversion 
+
 php.net/manual/en/mongo.installation.php
 
 javalite.io
