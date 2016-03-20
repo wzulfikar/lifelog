@@ -19,6 +19,7 @@
    * [The Information Systems Department](tech/the_information_systems_department.md)
    * [Mac Brew with LaunchRocket](tech/mac_brew_with_launchrocket.md)
 * [Programming](programming/README.md)
+   * [Working with Datatables](programming/working_with_datatables.md)
    * [JavaScript (JS)](programming/js/README.md)
        * [JavaScript Lingo](programming/js/javascript_lingo.md)
        * [Working with Datatables](programming/working_with_datatables.md)
