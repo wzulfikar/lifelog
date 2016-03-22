@@ -68,6 +68,7 @@
    * [Laravel, Personally.](programming/my_personal_laravel_setup.md)
    * [When Develop Branch is Messed Up](programming/when_develop_branch_is_messed_up.md)
    * [Git Pull Using Bitbucket Deployment Keys](programming/git_pull_using_bitbucket_deployment_keys.md)
+   * AdminLTE Integration for Java Freemarker (FTL)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
