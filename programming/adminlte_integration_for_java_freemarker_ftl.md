@@ -1,4 +1,4 @@
-# AdminLTE Integration for Java Freemarker (FTL)
+# AdminLTE Integration for Java Freemarker (FTL) via ActiveWeb
 
 
 - get all assets from bower 
@@ -14,6 +14,9 @@ layout structure :
 
 #### Main View
 `main.ftl`
+
+#### Passing Content
+Things not wrapped 
 
 #### Passing Content From Child View to Main
 >In `main.ftl`, there are pre-defined `<@yield to="head"/>` and `<@yield to="script"/>`. 
