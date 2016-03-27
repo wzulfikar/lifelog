@@ -4,6 +4,7 @@
 - https://github.com/marioizquierdo/jquery.serializeJSON
 - http://awkward.github.io/backbone.modal/
 
+backbone validation
 
 https://bootstrap-datepicker.readthedocs.org/en/latest/
 
