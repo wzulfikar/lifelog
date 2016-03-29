@@ -14,3 +14,5 @@
 | Justice | Injustice | Justice | Injustice |
 
 >*The soul falls sick when its attributes are out of balance.*
+
+4 Cardinal Virtues: Wisdom, Courage, Temperance, Justice.
