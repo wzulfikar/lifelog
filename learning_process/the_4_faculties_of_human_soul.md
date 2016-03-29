@@ -12,3 +12,5 @@
 | Anger | Cowardice | Courage | Recklessness |
 | Desire | Indifference | Temperance | Gluttony, Cupidity, Greed |
 | Justice | Injustice | Justice | Injustice |
+
+>*The soul falls sick when its attributes are out of balance.*
