@@ -6,7 +6,7 @@
 - justice -- which effects a proper balance between the above three aspects
 
 
-| Name | Defect | Balanced | Excessive |
+| Name | Defected | Balanced | Excessive |
 | -- | -- | -- | -- |
 | Knowledge | Stupidity | Wisdom | Fraud, cunning |
 | Anger | Cowardice | Courage | Recklessness |
