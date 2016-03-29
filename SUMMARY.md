@@ -62,6 +62,7 @@
        * [Java Servlet Hello World!](programming/java_servlet_hello_world.md)
        * [Hadoop Up and Running](programming/hadoop_up_and_running.md)
        * [Basic Servlet Form](programming/basic_servlet_form.md)
+       * Up and Running with Spring MVC
    * [Git Workflow](programming/git_workflow.md)
    * [Webpack Baby Steps](programming/webpack_baby_steps.md)
    * [Web Development in Windows Machine](programming/programming_in_windows_machine.md)
