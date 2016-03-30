@@ -22,7 +22,7 @@ public function parseTimestamp($string, $asDate = false)
   $allowedFormats = ['Y-m-d H:i:s', 'Y-m-d', 'l, d F Y'];
 
   foreach ($allowedFormats as $format) {
-    $timestamp = DateTime::createFromFormat($format, $string);
+    $timestamp = \DateTime::createFromFormat($format, $string);
     if($timestamp) break;
   }
 
@@ -30,7 +30,7 @@ public function parseTimestamp($string, $asDate = false)
     abort(500, 'Invalid timestamp format: '.$string);
   }
 
-  return $timestamp->format( $asDate ? 'Y-m-d H' : 'Y-m-d H:i:s' );
+  return $timestamp->format( $asDate ? 'Y-m-d' : 'Y-m-d H:i:s' );
 }
 ```
 
