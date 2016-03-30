@@ -11,10 +11,13 @@
 ```php
 public function parseDate($stringDate)
 {
-  // try with possible format
-  $date =  \DateTime::createFromFormat('Y-m-d', $stringDate) 
-        ?: \DateTime::createFromFormat('Y-m-d H:i:s', $stringDate)
-        ?: \DateTime::createFromFormat('l, d F Y', $stringDate);
+  $date           = null;
+  $allowedFormats = ['Y-m-d', 'Y-m-d H:i:s', 'l, d F Y'];
+
+  foreach ($allowedFormats as $format) {
+    $date = DateTime::createFromFormat($format, $stringDate);
+    if($date) break;
+  }
 
   if(!$date){
     abort(500, 'Invalid date format: '.$value);
@@ -22,15 +25,19 @@ public function parseDate($stringDate)
 
   return $date->format('Y-m-d');
 }
+
 ```
 
 ```php
 public function parseTimestamp($stringTime)
 {
-  // try with possible format
-  $timestamp =  \DateTime::createFromFormat('Y-m-d H:i:s', $stringTime) 
-             ?: \DateTime::createFromFormat('Y-m-d', $stringTime)
-             ?: \DateTime::createFromFormat('l, d F Y', $stringTime);
+  $timestamp      = null;
+  $allowedFormats = ['Y-m-d H:i:s', 'Y-m-d', 'l, d F Y'];
+
+  foreach ($allowedFormats as $format) {
+    $timestamp = DateTime::createFromFormat($format, $stringTime);
+    if($timestamp) break;
+  }
 
   if(!$timestamp){
     abort(500, 'Invalid timestamp format: '.$stringTime);
