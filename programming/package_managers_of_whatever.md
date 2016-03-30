@@ -3,7 +3,7 @@
 This is list of package manager that i know or i used.
 
 - [`npm`](https://www.npmjs.com) : Node Package Manager
-- `bower` : Package manager for front end assets
+- [`bower`](http://bower.io) : Package manager for front-end assets
 
 - [`brew`](http://brew.sh) : Package manager for OS X
 - [`choco`](https://chocolatey.org): Package manager for windows
