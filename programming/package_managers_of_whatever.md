@@ -12,4 +12,4 @@ This is list of package manager that i know or i used.
 - [`yum`](http://yum.baseurl.org) : Another RedHat Package Manager
 
 - [`composer`](https://getcomposer.org) : PHP package manager
-- `mvn` : Maven
+- [`mvn`](https://maven.apache.org) : As in its website, "Apache Maven is a software project management and comprehension tool."
