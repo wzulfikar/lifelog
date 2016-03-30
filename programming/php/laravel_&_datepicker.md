@@ -12,7 +12,7 @@
 public function parseDate($stringDate)
 {
   // try with possible format
-  $date = \DateTime::createFromFormat('Y-m-d', $stringDate) 
+  $date =  \DateTime::createFromFormat('Y-m-d', $stringDate) 
         ?: \DateTime::createFromFormat('Y-m-d H:i:s', $stringDate)
         ?: \DateTime::createFromFormat('l, d F Y', $stringDate);
 
@@ -28,7 +28,7 @@ public function parseDate($stringDate)
 public function parseTimestamp($stringTime)
 {
   // try with possible format
-  $timestamp = \DateTime::createFromFormat('Y-m-d H:i:s', $stringTime) 
+  $timestamp =  \DateTime::createFromFormat('Y-m-d H:i:s', $stringTime) 
              ?: \DateTime::createFromFormat('Y-m-d', $stringTime)
              ?: \DateTime::createFromFormat('l, d F Y', $stringTime);
 
