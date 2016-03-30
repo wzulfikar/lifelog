@@ -9,41 +9,28 @@
 - In BaseModel, create this methods:
 
 ```php
-public function parseDate($stringDate)
+public function parseDate($string)
 {
-  $date           = null;
-  $allowedFormats = ['Y-m-d', 'Y-m-d H:i:s', 'l, d F Y'];
-
-  foreach ($allowedFormats as $format) {
-    $date = \DateTime::createFromFormat($format, $stringDate);
-    if($date) break;
-  }
-
-  if(!$date){
-    abort(500, 'Invalid date format: '.$value);
-  }
-
-  return $date->format('Y-m-d');
+  $this->parseTimestamp($string, $asDate = true);
 }
-
 ```
 
 ```php
-public function parseTimestamp($stringTime)
+public function parseTimestamp($string, $asDate = false)
 {
   $timestamp      = null;
   $allowedFormats = ['Y-m-d H:i:s', 'Y-m-d', 'l, d F Y'];
 
   foreach ($allowedFormats as $format) {
-    $timestamp = \DateTime::createFromFormat($format, $stringTime);
+    $timestamp = DateTime::createFromFormat($format, $string);
     if($timestamp) break;
   }
 
   if(!$timestamp){
-    abort(500, 'Invalid timestamp format: '.$stringTime);
+    abort(500, 'Invalid timestamp format: '.$string);
   }
 
-  return $timestamp->format('Y-m-d H:i:s');
+  return $timestamp->format( $asDate ? 'Y-m-d H' : 'Y-m-d H:i:s' );
 }
 ```
 
