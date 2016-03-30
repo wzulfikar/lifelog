@@ -7,9 +7,9 @@ This is list of package manager that i know or i used.
 
 - [`brew`](http://brew.sh) : Package manager for OS X
 - [`choco`](https://chocolatey.org): Package manager for windows
-- `yum` : CentOS package manager
-- `apt-get` : 
-- `rhc` : RedHat
+- `[apt-get`](https://wiki.debian.org/apt-get) : Debian Package Manager
+- [`rpm`](https://en.wikipedia.org/wiki/RPM_Package_Manager) : RedHat Package Manager
+- [`yum`](http://yum.baseurl.org) : Another RedHat Package Manager
 
 - [`composer`](https://getcomposer.org) : PHP package manager
 - `mvn` : Maven
