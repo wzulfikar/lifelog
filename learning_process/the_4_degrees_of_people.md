@@ -18,7 +18,7 @@
 ### Ignorant, Misguided & Corrupt
 - Not only addicted to eveil ways but also believe that those ways are good & to follow them is necessary
 - They have been brought up in ignorance
-- THeir animal self has grown at the expense of their rational self
+- Their *animal self* has grown at the expense of their *rational self*
 - To reform this is almost impossible
 
 ### Ignorant, Misguided, Corrupt & Evil
