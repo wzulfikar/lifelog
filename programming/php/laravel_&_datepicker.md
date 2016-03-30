@@ -11,11 +11,9 @@
 ```php
 public function parseDate($string)
 {
-  $this->parseTimestamp($string, $asDate = true);
+  return $this->parseTimestamp($string, $asDate = true);
 }
-```
 
-```php
 public function parseTimestamp($string, $asDate = false)
 {
   $timestamp      = null;
