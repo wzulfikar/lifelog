@@ -27,7 +27,7 @@ public function parseTimestamp($string, $asDate = false)
   }
 
   if(!$timestamp){
-    abort(500, 'Invalid timestamp format: '.$string);
+    abort(500, 'Invalid date/time format: '.$string);
   }
 
   return $timestamp->format( $asDate ? 'Y-m-d' : 'Y-m-d H:i:s' );
