@@ -39,3 +39,7 @@ public function parseTimestamp($stringTime)
   return $timestamp->format('Y-m-d H:i:s');
 }
 ```
+
+- You can use parseDate or parseTimestamp from anywhere within model that extends BaseModel
+- `parseDate` will always return date (`Y-m-d`)
+- `parseTimestamp` will always return timestamp (`Y-m-d H:i:s`) 
