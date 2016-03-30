@@ -1,4 +1,4 @@
-# Package Managers of Whatever
+# Package Manager of Whatever
 
 This is list of package manager that i know or i used.
 
