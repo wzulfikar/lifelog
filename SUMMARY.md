@@ -73,7 +73,7 @@
    * [AdminLTE Integration for Java Freemarker (FTL)](programming/adminlte_integration_for_java_freemarker_ftl.md)
    * [Backbone JS](programming/backbone_js.md)
    * [R Language](programming/r_language.md)
-   * Package Managers of Whatever
+   * [Package Managers of Whatever](programming/package_managers_of_whatever.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
