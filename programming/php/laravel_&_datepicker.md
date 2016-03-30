@@ -15,7 +15,7 @@ public function parseDate($stringDate)
   $allowedFormats = ['Y-m-d', 'Y-m-d H:i:s', 'l, d F Y'];
 
   foreach ($allowedFormats as $format) {
-    $date = DateTime::createFromFormat($format, $stringDate);
+    $date = \DateTime::createFromFormat($format, $stringDate);
     if($date) break;
   }
 
@@ -35,7 +35,7 @@ public function parseTimestamp($stringTime)
   $allowedFormats = ['Y-m-d H:i:s', 'Y-m-d', 'l, d F Y'];
 
   foreach ($allowedFormats as $format) {
-    $timestamp = DateTime::createFromFormat($format, $stringTime);
+    $timestamp = \DateTime::createFromFormat($format, $stringTime);
     if($timestamp) break;
   }
 
