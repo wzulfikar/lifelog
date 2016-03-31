@@ -9,6 +9,7 @@ Floating ideas, ice box, things that I wanted to write.
     - http://stackoverflow.com/questions/13376189/how-to-login-into-a-website-with-casperjs
     - http://code-epicenter.com/how-to-login-to-facebook-using-casperjs/
 
+**redis for centos**
 https://www.digitalocean.com/community/tutorials/how-to-configure-a-redis-cluster-on-centos-7
 
 `cat /var/logs/hhvm/error.log`
