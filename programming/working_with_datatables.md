@@ -6,3 +6,4 @@ https://datatables.net/reference/api/row().data()
 - create action button
 - show modal with row data as content
 - reuse datatables
+- highlight search value
