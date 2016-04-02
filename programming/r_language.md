@@ -17,3 +17,7 @@ R array is 1 based. it starts from 1 instead of 0.
 
 NLP
 http://www.vikparuchuri.com/blog/natural-language-processing-tutorial/
+
+- vector
+- matrix
+- factor
