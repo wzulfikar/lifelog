@@ -6,6 +6,7 @@
 - what is dpi?
 - layer, layer style, filter
 - shortcut is your friend
+- crop, cut, selection, trim, smooth, wand
 
 ![](../images/CMYK-toner.jpg)
 
