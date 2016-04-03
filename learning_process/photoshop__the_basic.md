@@ -5,6 +5,7 @@
 - know the difference between CMYK and RGB
 - what is dpi?
 - layer, layer style, filter
+- shortcut is your friend
 
 ![](../images/CMYK-toner.jpg)
 
