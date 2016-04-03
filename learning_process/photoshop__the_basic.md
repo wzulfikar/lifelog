@@ -5,3 +5,5 @@
 - what is dpi?
 
 ![](../images/CMYK-toner.jpg)
+
+- layer, layer style, filter
