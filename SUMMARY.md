@@ -74,6 +74,7 @@
    * [Backbone JS](programming/backbone_js.md)
    * [R Language](programming/r_language.md)
    * [Package Manager of Whatever](programming/package_managers_of_whatever.md)
+   * GO - Hello World!
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
