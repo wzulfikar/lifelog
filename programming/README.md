@@ -15,3 +15,5 @@ http://talks.golang.org/2014/go4gophers.slide#6
 http://talks.golang.org/2012/splash.article
 
 in golang, interface is instantiable
+
+tour about interface: https://tour.golang.org/methods/10
