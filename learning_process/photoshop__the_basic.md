@@ -6,4 +6,4 @@
 
 ![](../images/CMYK-toner.jpg)
 
-- layer, layer style, filter
+![](../images/rgb_vs_cmyk.jpg)
