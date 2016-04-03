@@ -92,6 +92,7 @@
    * [Monitoring Employees on Networks: Unethical or Good Business?](learning_process/monitoring_employees_on_networks_unethical_or_good.md)
    * [The 4 Faculties of Human Soul](learning_process/the_4_faculties_of_human_soul.md)
    * [The 4 Degrees of People](learning_process/the_4_degrees_of_people.md)
+   * Photoshop : The Basic
 * [Draft](draft/README.md)
    * [Interpersonal Communication](draft/interpersonal_communication.md)
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
