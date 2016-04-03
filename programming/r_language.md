@@ -21,3 +21,5 @@ http://www.vikparuchuri.com/blog/natural-language-processing-tutorial/
 - vector
 - matrix
 - factor
+- factor level
+- named matrix
