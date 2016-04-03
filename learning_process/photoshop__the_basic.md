@@ -18,3 +18,4 @@ study case:
 ### freepik
 - http://www.freepik.com/free-vector/abstract-shapes-electro-party-poster_847754.htm
 - http://www.freepik.com/free-vector/colored-quote-frame-collection_847411.htm
+- http://www.freepik.com/free-vector/flat-speech-bubbles-set-with-text_845670.htm
