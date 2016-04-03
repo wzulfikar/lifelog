@@ -8,3 +8,7 @@
 ![](../images/CMYK-toner.jpg)
 
 ![](../images/rgb_vs_cmyk.jpg)
+
+study case:
+
+- akinda
