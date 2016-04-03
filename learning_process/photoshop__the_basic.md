@@ -4,4 +4,4 @@
 - know the difference between CMYK and RGB
 - what is dpi?
 
-![](../../images/CMYK-toner.jpg)
+![](../images/CMYK-toner.jpg)
