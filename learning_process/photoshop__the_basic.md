@@ -1,6 +1,7 @@
 # Photoshop : The Basic
 
 - pixel based, not vector based
+- vector-based : corel, AI
 - know the difference between CMYK and RGB
 - what is dpi?
 - layer, layer style, filter
