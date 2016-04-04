@@ -5,11 +5,13 @@
 
 
 ##### Describe roles played by information systems specialist and end users in American Water's systems transformation project
-
+- 
 
 ##### Why was the participation of business users so important? If they didn't play this role, what would have happened?
+- 
 
 ##### How did implementing a data warehouse help American Water move toward a more centralized organization?
+- 
 
 ##### Give some examples of problems that would have occurred at American Water if its data were not clean?
 - data redundancy
