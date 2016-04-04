@@ -19,3 +19,7 @@
 - can mislead decision maker
 
 ##### How did American Water's data warehouse improve operations and management decision making?
+With the use of data warehouse, management can use it for (but not limited to) : 
+- anticipate behaviour
+- take proactive action
+- use predictive analytic using structured or text data to keep track of customer interaction
