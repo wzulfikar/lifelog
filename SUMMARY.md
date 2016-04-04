@@ -20,7 +20,7 @@
    * [Mac Brew with LaunchRocket](tech/mac_brew_with_launchrocket.md)
    * [Case Study : ARI Fleet Management](tech/case_study__ari_fleet_management.md)
    * [Case Study : American Water Keeps Data Flowing](tech/case_study__american_water_keeps_data_flowing.md)
-   * SAP HANA
+   * [SAP HANA](tech/sap_hana.md)
 * [Programming](programming/README.md)
    * [JavaScript (JS)](programming/js/README.md)
        * [JavaScript Lingo](programming/js/javascript_lingo.md)
