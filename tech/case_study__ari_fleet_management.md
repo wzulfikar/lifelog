@@ -3,9 +3,10 @@
 *From Pearson, Management Information System - Managing The Digital Firm, Fourteenth Edition, Page 265 - 266.*
 
 ##### Why was data management so problematic at ARI?
-- A lot of data need to be processed, and it consists of more than 1 type of data
+- A lot of data need to be processed, and it consisted of more than 1 type of data
 
-##### Describe ARI's earlier capabilities for data anlysis and reporting and their impact on business
+##### Describe ARI's earlier capabilities for data analysis and reporting and their impact on business
+
 
 ##### Was SAP HANA a good solution for ARI? Why or why not?
 
