@@ -14,5 +14,6 @@
 ##### Give some examples of problems that would have occurred at American Water if its data were not clean?
 - data redundancy
 - multiple source of truth = conflict
+- can mislead decision maker
 
 ##### How did American Water's data warehouse improve operations and management decision making?
