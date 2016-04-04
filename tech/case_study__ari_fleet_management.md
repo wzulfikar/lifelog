@@ -6,7 +6,7 @@
 - A lot of data need to be processed, and it consisted of more than 1 type of data
 
 ##### Describe ARI's earlier capabilities for data analysis and reporting and their impact on business
-- Needs power user with good knowledge of analytic tool which make reporting process slow 
+- They require power user with good knowledge of analytic tool & query, which make reporting process slow
 
 ##### Was SAP HANA a good solution for ARI? Why or why not?
 Yes, it was a good solution for them since it managed to transform ARI's to realtime business, with real-time analytic for better planning & optimization
