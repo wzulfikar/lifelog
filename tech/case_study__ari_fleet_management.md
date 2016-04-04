@@ -17,3 +17,5 @@ SAP HANA:
 - transforming business to realtime business
 - real-time analytic: opportunity to make business decision easier, faster & more accurate.
 - operational real-time reporting allows you to deal with granular data quickly
+
+- enhance data warehouse, create key data visibility without delay at all times
