@@ -3,7 +3,7 @@
 *From Pearson, Management Information System - Managing The Digital Firm, Fourteenth Edition, Page 265 - 266.*
 
 ##### Why was data management so problematic at ARI?
-- A lot of data need to be processed, and it consisted of more than 1 type of data
+- A lot of data need to be processed, and it consisted of more than 1 type of data and the amount is huge
 
 ##### Describe ARI's earlier capabilities for data analysis and reporting and their impact on business
 - They require power user with good knowledge of analytic tool & query, which make reporting process slow
