@@ -1,4 +1,11 @@
 # Case Study : ARI Fleet Management
 
-*From Pearson, Management Information System - Managing The Digital Firm, Fourteenth Edition.*
+*From Pearson, Management Information System - Managing The Digital Firm, Fourteenth Edition, Page 265 - 266.*
 
+##### Why was data management so problematic at ARI?
+
+##### Describe ARI's earlier capabilities for data anlysis and reporting and their impact on business
+
+##### Was SAP HANA a good solution for ARI? Why or why not?
+
+##### Describe the changes in the business as a result of adopting HANA
