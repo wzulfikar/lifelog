@@ -3,6 +3,7 @@
 
 ##### Discuss the role of information policy, data administration, and efforts to ensure data quality in improving data management at American Water
 
+
 ##### Describe roles played by information systems specialist and end users in American Water's systems transformation project
 
 ##### Why was the participation of business users so important? If they didn't play this role, what would have happened?
