@@ -22,3 +22,5 @@ SAP HANA:
 - using real-time analytic: anticipate behaviour, take proactive action, use predictive analytic using structured or text data to keep track of customer interaction
 
 - enhance data warehouse, create key data visibility without delay at all times
+
+- using hana: improve value of information, accelerate business process, on single platform.
