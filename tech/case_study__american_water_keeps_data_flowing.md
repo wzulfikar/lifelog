@@ -11,7 +11,7 @@
 - 
 
 ##### How did implementing a data warehouse help American Water move toward a more centralized organization?
-It is more centralized because the information of a thing is provided only from one source. Unlike their previous system, which may have different naming but same information.
+It is more centralized because the information of a thing is provided only from one source, with standardized/normalized naming. Unlike their previous system, which may have different naming but same information.
 
 ##### Give some examples of problems that would have occurred at American Water if its data were not clean?
 - data redundancy
