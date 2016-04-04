@@ -14,7 +14,3 @@ Yes, it was a good solution for them since it managed to transform ARI's to real
 ##### Describe the changes in the business as a result of adopting HANA
 - real-time analytic: opportunity to make business decision easier, faster & more accurate
 - operational real-time reporting: allows ARI to deal with granular data quickly
-
----
-***Reported by Wildan Zulfikar, 1222665.***  
-***Monday, 4 April 2016 at 10:50:34 AM***
