@@ -24,3 +24,6 @@ SAP HANA:
 - enhance data warehouse, create key data visibility without delay at all times
 
 - using hana: improve value of information, accelerate business process, on single platform.
+
+SAP HANA free developer account
+http://scn.sap.com/docs/DOC-56411
