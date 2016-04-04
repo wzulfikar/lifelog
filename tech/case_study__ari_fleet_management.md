@@ -18,6 +18,6 @@ SAP HANA:
 - real-time analytic: opportunity to make business decision easier, faster & more accurate.
 - operational real-time reporting allows you to deal with granular data quickly
 
-- using real-time analytic: anticipate behaviour, take proactive action
+- using real-time analytic: anticipate behaviour, take proactive action, use predictive analytic using structured or text data to keep track of customer interaction
 
 - enhance data warehouse, create key data visibility without delay at all times
