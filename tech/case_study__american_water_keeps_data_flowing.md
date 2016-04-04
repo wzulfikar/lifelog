@@ -23,3 +23,5 @@ With the use of data warehouse, management can use it for (but not limited to) :
 - anticipate behaviour
 - take proactive action
 - use predictive analytic using structured or text data to keep track of customer interaction
+
+***-- Reported by Wildan Zulfikar, 1222665.***
