@@ -9,3 +9,10 @@
 ##### Was SAP HANA a good solution for ARI? Why or why not?
 
 ##### Describe the changes in the business as a result of adopting HANA
+
+SAP HANA:
+
+- speedy report
+- plannning & optimization
+- transforming business to realtime business
+- real-time analytic: opportunity to make business decision easier, faster & more accurate.
