@@ -19,6 +19,7 @@ in golang, interface is instantiable
 tour about interface: https://tour.golang.org/methods/10
 
 ```go
+// from https://tour.golang.org/methods/10
 package main
 
 import "fmt"
