@@ -2,7 +2,7 @@
 *From Pearson, Management Information System - Managing The Digital Firm, Fourteenth Edition, Page 275 - 276.*
 
 ##### Discuss the role of information policy, data administration, and efforts to ensure data quality in improving data management at American Water
-- 
+information policy helps management put information to the right channel. Data administration make sure all data is managed correctly, efficiently. Data quality is neccessary to keep valid information.
 
 ##### Describe roles played by information systems specialist and end users in American Water's systems transformation project
 - to help business users transform what they need into information system
