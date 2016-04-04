@@ -2,7 +2,7 @@
 *From Pearson, Management Information System - Managing The Digital Firm, Fourteenth Edition, Page 275 - 276.*
 
 ##### Discuss the role of information policy, data administration, and efforts to ensure data quality in improving data management at American Water
-
+- 
 
 ##### Describe roles played by information systems specialist and end users in American Water's systems transformation project
 - 
