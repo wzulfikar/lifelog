@@ -19,6 +19,7 @@
    * [The Information Systems Department](tech/the_information_systems_department.md)
    * [Mac Brew with LaunchRocket](tech/mac_brew_with_launchrocket.md)
    * [Case Study : ARI Fleet Management](tech/case_study__ari_fleet_management.md)
+   * Case Study : American Water Keeps Data Flowing
 * [Programming](programming/README.md)
    * [JavaScript (JS)](programming/js/README.md)
        * [JavaScript Lingo](programming/js/javascript_lingo.md)
