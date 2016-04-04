@@ -8,7 +8,7 @@ information policy helps management put information to the right channel. Data a
 - to help business users transform what they need into information system
 
 ##### Why was the participation of business users so important? If they didn't play this role, what would have happened?
-- the business users are the people who know how the business process, but they may not know how it works information system wise.
+- the business users are the people who know how the business process, but they may not know how it works information system wise. To get optimal benefit of information system, business users will work together with information system specialist to transform what they need.
 
 ##### How did implementing a data warehouse help American Water move toward a more centralized organization?
 It is more centralized because the information of a thing is provided only from one source, with standardized/normalized naming. Unlike their previous system, which may have different naming but same information which may mislead the business users.
