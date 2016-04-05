@@ -18,6 +18,8 @@ in golang, interface is instantiable
 
 tour about interface: https://tour.golang.org/methods/10
 
+http://stackoverflow.com/questions/11634809/twitter-bootstrap-focus-on-textarea-inside-a-modal-on-click
+
 ```go
 // from https://tour.golang.org/methods/10
 package main
