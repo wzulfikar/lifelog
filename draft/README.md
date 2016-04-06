@@ -6,7 +6,13 @@ Floating ideas, ice box, things that I wanted to write.
 - bro syak story of that mosque manager (personal)
 - using alinof timer (tech stuff)
 - use casperjs to login
-    - http://stackoverflow.com/questions/13376189/how-to-login-into-a-website-with-casperjs
+
+### developer needed
+- fair knowledge of php
+- work remotely
+
+
+http://stackoverflow.com/questions/13376189/how-to-login-into-a-website-with-casperjs
     - http://code-epicenter.com/how-to-login-to-facebook-using-casperjs/
 
 **redis for centos**
