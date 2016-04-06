@@ -10,7 +10,8 @@ Floating ideas, ice box, things that I wanted to write.
 ### developer needed
 - fair knowledge of php
 - work remotely
-
+- bdd http://code.tutsplus.com/tutorials/a-bdd-workflow-with-behat-and-phpspec--cms-21601
+- behat : http://docs.behat.org/en/v2.5/quick_intro.html
 
 http://stackoverflow.com/questions/13376189/how-to-login-into-a-website-with-casperjs
     - http://code-epicenter.com/how-to-login-to-facebook-using-casperjs/
