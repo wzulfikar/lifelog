@@ -15,10 +15,11 @@
 - crop
 - straighten
 - cut
-- selection
+- selection & invert
 - trim
 - smooth
 - wand
+- pen
 
 ### freepik
 - http://www.freepik.com/free-vector/abstract-shapes-electro-party-poster_847754.htm
