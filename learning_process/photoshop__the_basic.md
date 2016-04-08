@@ -6,15 +6,19 @@
 - what is dpi?
 - layer, layer style, filter
 - shortcut is your friend
-- crop, straighten, cut, selection, trim, smooth, wand
 
 ![](../images/CMYK-toner.jpg)
 
 ![](../images/rgb_vs_cmyk.jpg)
 
-study case:
-
-- akinda
+### Common Tools
+- crop
+- straighten
+- cut
+- selection
+- trim
+- smooth
+- wand
 
 ### freepik
 - http://www.freepik.com/free-vector/abstract-shapes-electro-party-poster_847754.htm
