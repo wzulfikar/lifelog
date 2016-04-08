@@ -20,6 +20,7 @@
 - smooth
 - wand
 - pen
+- color picker
 
 ### freepik
 - http://www.freepik.com/free-vector/abstract-shapes-electro-party-poster_847754.htm
