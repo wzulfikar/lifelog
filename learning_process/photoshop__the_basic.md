@@ -22,7 +22,7 @@
 - pen
 - color picker
 
-
+![](../images/ppi-2016.png)
 
 ### freepik
 - http://www.freepik.com/free-vector/abstract-shapes-electro-party-poster_847754.htm
