@@ -97,6 +97,7 @@
    * [The 4 Faculties of Human Soul](learning_process/the_4_faculties_of_human_soul.md)
    * [Photoshop : The Basic](learning_process/photoshop__the_basic.md)
    * [The 4 Degrees of People](learning_process/the_4_degrees_of_people.md)
+   * Information  Retrieval Technology
 * [Draft](draft/README.md)
    * [Interpersonal Communication](draft/interpersonal_communication.md)
    * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
