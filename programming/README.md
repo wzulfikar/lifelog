@@ -57,7 +57,7 @@ func main() {
 function coalesce(){
 	$numArgs = func_num_args();
 	if($numArgs < 2)
-		die('insufficient args, should be at least 2 instead of 1');
+		throw new \Exception('insufficient args, should be at least 2 instead of 1');
 
 	if( $numArgs < 3)
 		return func_get_args()[0] ? func_get_args()[1] : null;
