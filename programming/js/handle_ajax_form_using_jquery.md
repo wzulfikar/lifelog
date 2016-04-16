@@ -30,7 +30,7 @@ The `beforeSend` event has `xhr` arg so that the request can be aborted, and `in
 >the value of `inputs` in `beforeSend` is from `.serializeArray()`
 
 ### Client Side
-*handler*
+#### *Handler*
 ```js
 // ajax form handler
 $('form[data-ajax-id]').on('submit', function(e){
@@ -115,7 +115,7 @@ $('form[data-ajax-id]').on('submit', function(e){
 });
 ```
 
-*triggers*
+####*Hooks*
 ```js
 $('form')
   .on('ajax.invite-user.beforeSend', function(event, xhr, $el, inputs){
