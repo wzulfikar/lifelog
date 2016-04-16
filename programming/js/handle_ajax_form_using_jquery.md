@@ -121,7 +121,7 @@ $('form[data-ajax-id]').on('submit', function(e){
 ```js
 $('form')
   .on('ajax.invite-user.beforeSend', function(event, xhr, $el, inputs){
-    return;
+    // you may validate form inputs here;
   })
   .on('ajax.invite-user.success', function(event, $el, data){
 	if(data.error && alert(data.error))
