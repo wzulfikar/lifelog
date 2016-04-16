@@ -131,4 +131,11 @@ $('form')
 ```
 
 ### Server Side
-In my use, the code in the server will return json containing `error` key if there's error. the value of `error` key is the error message.
+In my use, the code in the server will return json containing `error` key if there's error. the value of `error` key is the error message. That's why I put
+
+```js
+if(data.error && alert(data.error))
+      return false;
+```
+
+in above example.
