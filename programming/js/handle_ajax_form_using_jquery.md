@@ -18,6 +18,8 @@ If a form element has attribute `data-ajax-id="invite-user"`, the handler will t
 
 When the form processing reaches `beforeSend` event, handler will try to find an input or button which has `data-toggle-processing="true"` attribute, disable it and set its text to `Processing request..` to tell the user that the form is currently processing.
 
+If you want to abort a request from inside `beforeSend`, you can do `xhr.abort()` from there.
+
 ### Client Side
 *handler*
 ```js
