@@ -41,7 +41,7 @@ $('form[data-ajax-id]').on('submit', function(e){
   e.preventDefault();
 
   $form     = $(this),
-  $required = $(this).find('[required]'),
+  $required = $form.find('[required]'),
   ajaxId    = $form.data('ajax-id'),
   hasEmpty  = false,
   events    = {
