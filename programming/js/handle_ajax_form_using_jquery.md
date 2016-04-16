@@ -68,12 +68,15 @@ $('form[data-ajax-id]').on('submit', function(e){
         .text(originalText)
         .removeAttr('disabled');
     },
+    alert: function(msg){
+      alert(msg);
+    }
   };
 
   // check if value of any required input is empty
   $required.each(function(){
     if(!$(this).val().trim().length){
-      alert($(this).attr('name') + ' can\'t be empty.');
+      $form.fn.alert($(this).attr('name') + ' can\'t be empty.');
       $(this).val('').focus();
       hasEmpty = true;
       return;
@@ -86,33 +89,33 @@ $('form[data-ajax-id]').on('submit', function(e){
   
   // here is where we send the form, actually
   $.ajax({
-    method:$this.attr('method'),
-    url   :$this.attr('action'),
-    data  :$this.serialize(),
+    method:$form.attr('method'),
+    url   :$form.attr('action'),
+    data  :$form.serialize(),
     beforeSend:function(xhr){
       // trigger beforeSend event,
       // you may hook to this event for data validation.
       // 
       // sample code to abort:
       // xhr.abort();
-      // $el.fn.hideProcessing();
+      // $form.fn.hideProcessing();
       var inputs = $this.serializeArray();
-      $this.trigger(events.beforeSend, [xhr, $form, inputs]);
-      $this.fn.showProcessing();
+      $form.trigger(events.beforeSend, [xhr, $form, inputs]);
+      $form.fn.showProcessing();
     },
     success:function(data){
       // trigger success event
-      $this.trigger(events.success, [$form, data]);
-      $this.fn.hideProcessing();
+      $form.trigger(events.success, [$form, data]);
+      $form.fn.hideProcessing();
     },
     error:function(data){
       // trigger error event
-      $this.trigger(events.error, [$form, data]);
-      $this.fn.hideProcessing();
+      $form.trigger(events.error, [$form, data]);
+      $form.fn.hideProcessing();
     },
     always:function(data){
       // trigger always event
-      $this.trigger(events.always, [$form, data]);
+      $form.trigger(events.always, [$form, data]);
     },
   });
 });
