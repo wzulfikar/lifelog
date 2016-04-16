@@ -3,7 +3,7 @@
 This code meant to handle submission of ajax form : eliminating boilerplate code, and for convenient – if you think so :v
 
 ### Spec
-Put the *handler* in – for example, your layout page or your `helper.js` if you've one and put the *hooks* together with your ajax form.
+Put the *form handler* in – for example, your layout page or your `helper.js` if you've one and put the *hooks* together with your ajax form.
 
 - url of ajax will be form's action
 - method of ajax will be form's method
@@ -13,7 +13,7 @@ To let the form handled by this code, it must have attribute `data-ajax-id`. Val
 
 `ajax.{value-of-data-ajax-id}.{event-name}`. 
 
-So, if a form has attribute `data-ajax-id="invite-user"`, the *handler* will automatically handle the submission and will trigger these events:
+So, if a form has attribute `data-ajax-id="invite-user"`, the *form handler* will automatically handle the submission and will trigger these events:
 - `ajax.invite-user.beforeSend`
 - `ajax.invite-user.success`
 - `ajax.invite-user.error`
