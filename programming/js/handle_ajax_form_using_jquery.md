@@ -143,4 +143,4 @@ if(data.error && alert(data.error))
       return false;
 ```
 
-in the *triggers* code.
+in *the hooks* code.
