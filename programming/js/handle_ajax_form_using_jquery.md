@@ -138,4 +138,4 @@ if(data.error && alert(data.error))
       return false;
 ```
 
-in above example.
+in the *triggers* code.
