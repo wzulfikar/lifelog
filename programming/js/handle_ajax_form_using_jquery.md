@@ -1,5 +1,6 @@
 # Handle AJAX Form Using Jquery
 
+### Client Side
 *handler*
 ```js
 // ajax form handler
@@ -101,3 +102,5 @@ $('form')
     alert('error submitting request');
   });
 ```
+
+### Server Side
