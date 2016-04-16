@@ -24,7 +24,7 @@ Except `beforeSend`, all events sends these arguments: `event, $el, data`. For `
 
 The `beforeSend` event has `xhr` arg so that the request can be aborted, and `inputs` arg so that request data can be validated before sending the request.
 
-
+>the value of `inputs` in `beforeSend` is from `.serializeArray()`
 
 ### Client Side
 *handler*
