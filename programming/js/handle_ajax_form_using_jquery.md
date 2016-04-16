@@ -55,7 +55,7 @@ $('form[data-ajax-id]').on('submit', function(e){
   $toggleProcessing = $this.find('[data-toggle-processing="true"]'),
   originalText      = $toggleProcessing.text();
 
-  // attach function to $form
+  // attach custom functions to $form
   $form.fn = {
     showProcessing : function(){
       // toggle button to indicate processing request
