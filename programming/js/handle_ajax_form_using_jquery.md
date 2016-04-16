@@ -119,7 +119,7 @@ $('form[data-ajax-id]').on('submit', function(e){
 
 ####*The Hooks*
 
-The form object is accessible in all events, using `$form` variable.
+The form object handled by above code is accessible in all events, using `$form` variable. 
 
 ```js
 $('form')
