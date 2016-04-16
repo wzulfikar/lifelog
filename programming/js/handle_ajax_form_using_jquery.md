@@ -13,7 +13,7 @@ To let the form handled by this code, it must have attribute `data-ajax-id`. Val
 
 `ajax.{value-of-data-ajax-id}.{event-name}`. 
 
-So, if a form has attribute `data-ajax-id="invite-user"`, the handler will take over its submission and will trigger the following events:
+So, if a form has attribute `data-ajax-id="invite-user"`, the handler will automatically takes over its submission and will trigger the following events:
 - `ajax.invite-user.beforeSend`
 - `ajax.invite-user.success`
 - `ajax.invite-user.error`
