@@ -117,7 +117,7 @@ $('form[data-ajax-id]').on('submit', function(e){
 });
 ```
 
-####*Your Hook*
+####*The Hooks*
 ```js
 $('form')
   .on('ajax.invite-user.beforeSend', function(event, xhr, $el, inputs){
