@@ -8,7 +8,7 @@ This code meant to handle submission of ajax form, eliminating boilerplate code.
 - method of ajax will be form's method
 - data of ajax will be form's data, serialized
 
-To let the form handled by this code, it must have attribute `data-ajax-id`. value of `data-ajax-id` will be name of the event. the name uses this pattern `ajax.{value-of-data-ajax-id}.{event-name}`. 
+To let the form handled by this code, it must have attribute `data-ajax-id`. Value of `data-ajax-id` will be name of the event. the name uses this pattern `ajax.{value-of-data-ajax-id}.{event-name}`. 
 
 If a form element has attribute `data-ajax-id="invite-user"`, the handler will take over its submission and will trigger the following events:
 - `ajax.invite-user.beforeSend`
