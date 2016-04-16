@@ -34,6 +34,7 @@ Regardless of the events triggered, you don't need to *hook* all the events. How
 ### Client Side
 #### *Form Handler*
 ```js
+(function($){
 // ajax form handler
 $('form[data-ajax-id]').on('submit', function(e){
 
@@ -115,6 +116,7 @@ $('form[data-ajax-id]').on('submit', function(e){
     },
   });
 });
+}(jQuery));
 ```
 
 ####*The Hooks*
