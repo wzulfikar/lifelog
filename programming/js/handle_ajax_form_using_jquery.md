@@ -42,8 +42,8 @@ $('form[data-ajax-id]').on('submit', function(e){
 
   $form     = $(this),
   $required = $(this).find('[required]'),
+  ajaxId    = $form.data('ajax-id'),
   hasEmpty  = false,
-  ajaxId    = $this.data('ajax-id'),
   events    = {
     error       : 'ajax.' + ajaxId + '.error',
     success     : 'ajax.' + ajaxId + '.success', 
@@ -52,7 +52,7 @@ $('form[data-ajax-id]').on('submit', function(e){
   };
 
   // toggle button to indicate processing request
-  $toggleProcessing = $this.find('[data-toggle-processing="true"]'),
+  $toggleProcessing = $form.find('[data-toggle-processing="true"]'),
   originalText      = $toggleProcessing.text();
 
   // attach custom functions to $form
@@ -99,7 +99,7 @@ $('form[data-ajax-id]').on('submit', function(e){
       // sample code to abort:
       // xhr.abort();
       // $form.fn.hideProcessing();
-      var inputs = $this.serializeArray();
+      var inputs = $form.serializeArray();
       $form.trigger(events.beforeSend, [xhr, $form, inputs]);
       $form.fn.showProcessing();
     },
