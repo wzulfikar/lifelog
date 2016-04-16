@@ -78,7 +78,8 @@ $('form[data-ajax-id]').on('submit', function(e){
   // abort if value of any required input is empty
   if(hasEmpty) 
     return;
-
+  
+  // here is where we send the form, actually
   $.ajax({
     method:$this.attr('method'),
     url   :$this.attr('action'),
