@@ -1,7 +1,13 @@
 # Handle AJAX Form Using Jquery
 
 ### Spec
-- 
+
+Form must have attribute `data-ajax-id`. value of `data-ajax-id` will be name of the event. the name uses this pattern `ajax.{value-of-data-ajax-id}.{event-name}`. If a form element has attribute `data-ajax-id="invite-user"`, the handler will process its submission and will trigger the following events:
+- `ajax.invite-user.beforeSend`
+- `ajas.invite-user.success`
+- `ajas.invite-user.error`
+- `ajas.invite-user.always` 
+
 
 ### Client Side
 *handler*
