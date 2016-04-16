@@ -120,17 +120,17 @@ $('form[data-ajax-id]').on('submit', function(e){
 ####*The Hooks*
 ```js
 $('form')
-  .on('ajax.invite-user.beforeSend', function(event, xhr, $el, inputs){
+  .on('ajax.invite-user.beforeSend', function(event, xhr, $form, inputs){
     // you may validate form inputs here;
   })
-  .on('ajax.invite-user.success', function(event, $el, data){
+  .on('ajax.invite-user.success', function(event, $form, data){
 	if(data.error && alert(data.error))
   	return false;
     if(!data.error)
       // hide modal, if the form is in bootstrap modal
       $('.modal').modal('hide');
   })
-  .on('ajax.invite-user.error', function(event, $el, data){
+  .on('ajax.invite-user.error', function(event, $form, data){
     alert('error submitting request');
   });
 ```
