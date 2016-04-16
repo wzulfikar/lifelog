@@ -20,6 +20,8 @@ When the form processing reaches `beforeSend` event, handler will try to find an
 
 If you want to abort a request from inside `beforeSend`, you can call `xhr.abort()` from there and then call `$this.fn.hideProcessing()` to hide indicator for processing request.
 
+Except `beforeSend`, all events sends these arguments: `event, $el, data`. For `beforeSend` event, it sends `event, xhr, $el, inputs`.
+
 ### Client Side
 *handler*
 ```js
