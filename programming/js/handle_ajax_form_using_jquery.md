@@ -125,7 +125,7 @@ $('form')
 	if(data.error && alert(data.error))
   	return false;
     if(!data.error)
-      // hide modal
+      // hide modal, if the form is in bootstrap modal
       $('.modal').modal('hide');
   })
   .on('ajax.invite-user.error', function(event, $el, data){
