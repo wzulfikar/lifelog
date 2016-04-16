@@ -4,9 +4,9 @@
 
 This code meant to handle submission of ajax form, eliminating boilerplate code. 
 
-- url will be form's action
-- method will be form's method
-- data will be serialized form
+- url of ajax will be form's action
+- method of ajax will be form's method
+- data of ajax will be form data, serialized
 
 Form must have attribute `data-ajax-id`. value of `data-ajax-id` will be name of the event. the name uses this pattern `ajax.{value-of-data-ajax-id}.{event-name}`. 
 
