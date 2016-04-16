@@ -2,7 +2,7 @@
 
 ### Spec
 
-This code meant to handle submission of ajax form, eliminating boilerplate code. 
+This code meant to handle submission of ajax form, eliminating boilerplate code.  Put the handler in, example, layout page or `handler.js` and put the triggers together with your ajax form.
 
 - url of ajax will be form's action
 - method of ajax will be form's method
