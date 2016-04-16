@@ -104,3 +104,4 @@ $('form')
 ```
 
 ### Server Side
+- return json containing `error` key if there's error. value of `error` key is the error message
