@@ -29,6 +29,8 @@ The `beforeSend` event has `xhr` arg so that the request can be aborted, and `in
 
 >the value of `inputs` in `beforeSend` is from `.serializeArray()`
 
+Regardless of events triggered, you don't need to handle all the events. However, you need to handle at least `ajax.{ajax-id}.success` and `ajax.{ajax-id}.error` events to give a good feedback for your users.
+
 ### Client Side
 #### *Handler*
 ```js
