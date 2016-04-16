@@ -118,6 +118,9 @@ $('form[data-ajax-id]').on('submit', function(e){
 ```
 
 ####*The Hooks*
+
+the form object is accessible in all events, via `$form` variable.
+
 ```js
 $('form')
   .on('ajax.invite-user.beforeSend', function(event, xhr, $form, inputs){
