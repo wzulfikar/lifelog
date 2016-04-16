@@ -32,7 +32,7 @@ The `beforeSend` event has `xhr` arg so that the request can be aborted, and `in
 Regardless of the events triggered, you don't need to *hook* all the events. However, you need to *hook* at least `ajax.{ajax-id}.success` and `ajax.{ajax-id}.error` events so your users can receive a good feedback from your ajax form.
 
 ### Client Side
-#### *Handler*
+#### *Form Handler*
 ```js
 // ajax form handler
 $('form[data-ajax-id]').on('submit', function(e){
