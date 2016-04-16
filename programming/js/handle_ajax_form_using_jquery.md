@@ -40,7 +40,7 @@ $('form[data-ajax-id]').on('submit', function(e){
 
   e.preventDefault();
 
-  $this     = $(this),
+  $form     = $(this),
   $required = $(this).find('[required]'),
   hasEmpty  = false,
   ajaxId    = $this.data('ajax-id'),
@@ -55,8 +55,8 @@ $('form[data-ajax-id]').on('submit', function(e){
   $toggleProcessing = $this.find('[data-toggle-processing="true"]'),
   originalText      = $toggleProcessing.text();
 
-  // attach function to $this
-  $this.fn = {
+  // attach function to $form
+  $form.fn = {
     showProcessing : function(){
       // toggle button to indicate processing request
       $toggleProcessing
@@ -97,22 +97,22 @@ $('form[data-ajax-id]').on('submit', function(e){
       // xhr.abort();
       // $el.fn.hideProcessing();
       var inputs = $this.serializeArray();
-      $this.trigger(events.beforeSend, [xhr, $this, inputs]);
+      $this.trigger(events.beforeSend, [xhr, $form, inputs]);
       $this.fn.showProcessing();
     },
     success:function(data){
       // trigger success event
-      $this.trigger(events.success, [$this, data]);
+      $this.trigger(events.success, [$form, data]);
       $this.fn.hideProcessing();
     },
     error:function(data){
       // trigger error event
-      $this.trigger(events.error, [$this, data]);
+      $this.trigger(events.error, [$form, data]);
       $this.fn.hideProcessing();
     },
     always:function(data){
       // trigger always event
-      $this.trigger(events.always, [$this, data]);
+      $this.trigger(events.always, [$form, data]);
     },
   });
 });
