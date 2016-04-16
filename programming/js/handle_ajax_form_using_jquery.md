@@ -29,7 +29,7 @@ The `beforeSend` event has `xhr` arg so that the request can be aborted, and `in
 
 >the value of `inputs` in `beforeSend` is from `.serializeArray()`
 
-Regardless of the events triggered, you don't need to *hook* all the events. However, you need to *hook* at least `ajax.{ajax-id}.success` and `ajax.{ajax-id}.error` events so your users can receive a good feedback of your ajax form.
+Regardless of the events triggered, you don't need to *hook* all the events. However, you need to *hook* at least `ajax.{ajax-id}.success` and `ajax.{ajax-id}.error` events so your users can receive a good feedback from your ajax form.
 
 ### Client Side
 #### *Handler*
@@ -136,7 +136,7 @@ $('form')
 ```
 
 ### Server Side
-In my use, the code in the server will return json containing `error` key if there's error. the value of `error` key is the error message. That's why I put
+In my use case, the code in the server will return json containing `error` key if there's error. the value of `error` key is the error message. That's why I put
 
 ```js
 if(data.error && alert(data.error))
