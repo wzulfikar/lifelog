@@ -1,5 +1,6 @@
 # Handle AJAX Form Using Jquery
 
+*handler*
 ```js
 // ajax form handler
 $('form[data-ajax-id]').on('submit', function(e){
@@ -81,4 +82,22 @@ $('form[data-ajax-id]').on('submit', function(e){
     },
   });
 });
+```
+
+*triggers*
+```js
+$('form')
+  .on('ajax.invite-user.beforeSend', function(event, xhr, $el, inputs){
+    return;
+  })
+  .on('ajax.invite-user.success', function(event, $el, data){
+	if(data.error && alert(data.error))
+  	return false;
+    if(!data.error)
+      // hide modal
+      $('.modal').modal('hide');
+  })
+  .on('ajax.invite-user.error', function(event, $el, data){
+    alert('error submitting request');
+  });
 ```
