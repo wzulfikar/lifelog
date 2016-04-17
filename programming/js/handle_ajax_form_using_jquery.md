@@ -57,27 +57,36 @@ $('form[data-ajax-id]').on('submit', function(e){
 
   // attach custom functions to $form
   $form.fn = {
-    showProcessing : function(){
-      // toggle button to indicate processing request
-      $toggleProcessing
-        .text('Processing request..')
-        .attr('disabled', 'disabled');
+    redirect:function(url){
+      window.location.replace(url);
     },
-    hideProcessing: function(){
-      $toggleProcessing
-        .text(originalText)
-        .removeAttr('disabled');
+    processing:{
+      show:function(){
+        $toggleProcessing
+          .text('Processing request..')
+          .attr('disabled', 'disabled');
+      },
+      hide:function(){
+        $toggleProcessing
+          .text(originalText)
+          .removeAttr('disabled');
+      },
     },
-    alert: function(msg){
-      alert(msg);
+    alert: {
+      success:function(msg){
+        alert(msg);
+      },
+      error:function(msg){
+        alert(msg);
+      }, 
     }
   };
 
   // check if value of any required input is empty
   $required.each(function(){
     if(!$(this).val().trim().length){
-      $form.fn.alert($(this).attr('name') + ' can\'t be empty.');
-      $(this).val('').focus();
+      $form.fn.alert.error($(this).attr('name') + ' can\'t be empty.');
+      $(this).focus();
       hasEmpty = true;
       return;
     }
@@ -98,24 +107,27 @@ $('form[data-ajax-id]').on('submit', function(e){
       // 
       // sample code to abort:
       // xhr.abort();
-      // $form.fn.hideProcessing();
+      // $form.fn.processing.hide();
+      
+      $form.fn.processing.show();
+
       var inputs = $form.serializeArray();
       $form.trigger(events.beforeSend, [xhr, $form, inputs]);
-      $form.fn.showProcessing();
     },
-    success:function(data){
+    success:function(data, textStatus, jqXHR){
       // trigger success event
       $form.trigger(events.success, [$form, data]);
-      $form.fn.hideProcessing();
+
+      $form.fn.processing.hide();
     },
-    error:function(data){
+    error:function(jqXHR, textStatus, errorThrown){
+      var msg = 'Error ' + jqXHR.status + ' : ' + errorThrown + '.';
+      
+      $form.fn.alert.error(msg);
+
       // trigger error event
-      $form.trigger(events.error, [$form, data]);
-      $form.fn.hideProcessing();
-    },
-    always:function(data){
-      // trigger always event
-      $form.trigger(events.always, [$form, data]);
+      $form.trigger(events.error, [$form, jqXHR]);
+      $form.fn.processing.hide();
     },
   });
 });
