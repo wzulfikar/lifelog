@@ -2,9 +2,24 @@
 
 This code meant to handle submission of ajax form : eliminating boilerplate code, and for convenient – if you think so :v
 
-### Usage
+### Installation
 - bower
 - download source code
+
+### Usage
+```js
+$('form')
+  .on('ajax.invite-user.success', function(event, $form, data){
+	
+  if(data.error && alert(data.error))
+    return false;
+
+  if(!data.error)
+    // hide modal
+    $('.modal').modal('hide');
+
+  });
+```
 
 ### Spec
 Put the *form handler* in – for example, your layout page or your `helper.js` if you've one and put the *hooks* together with your ajax form.
