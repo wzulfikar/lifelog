@@ -2,6 +2,10 @@
 
 This code meant to handle submission of ajax form : eliminating boilerplate code, and for convenient – if you think so :v
 
+### Usage
+- bower
+- download source code
+
 ### Spec
 Put the *form handler* in – for example, your layout page or your `helper.js` if you've one and put the *hooks* together with your ajax form.
 
