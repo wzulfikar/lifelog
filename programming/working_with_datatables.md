@@ -40,8 +40,8 @@ $(document).on('click', selector.btnDel, function(){
   data: 'id', 
   render:function(data, type, row, meta){
     var
-    btnEdit = '<button data-toggle="tooltip" class="btn-xs btn-info" data-action="' + ctxName + ':edit" data-id="' + row.id + '" title="Edit" data-trigger="hover"><i class="fa fa-edit"></i></button>',
-    btnDel  = '<button data-toggle="tooltip" class="btn-xs btn-danger" title="Delete" data-id="' + row.id + '" data-trigger="hover" data-action="' + ctxName + ':delete"><i class="fa fa-times"></i></button>',
+    btnEdit = '<button class="btn-xs btn-info" title="Edit" data-toggle="tooltip" data-trigger="hover" data-id="' + row.id + '" ' selector.btnEdit + '><i class="fa fa-edit"></i></button>',
+    btnDel  = '<button class="btn-xs btn-danger" title="Delete" data-toggle="tooltip" data-trigger="hover" data-id="' + row.id + '" ' + selector.btnDel + '><i class="fa fa-times"></i></button>',
     render  = btnEdit + '&nbsp' + btnDel;
 
     return render;
