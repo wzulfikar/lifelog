@@ -10,21 +10,36 @@ https://datatables.net/reference/api/row().data()
 
 
 ### Common Actions : Edit & Delete
-- using bootstrap and fontawesome
-- on click, do ajax operation
+- using bootstrap, fontawesome & jquery
 
 ```js
-// column def
+var 
+ctxName  = 'row',
+selector = {
+  btnDel :'[data-action="' + ctxName + ':edit"]',
+  btnEdit:'[data-action="' + ctxName + ':edit"]'
+};
 
-// your code here...
+// on click handler
+$(document).on('click', selector.btnEdit, function(){
+  var id = $(this).data('id');
+  console.log('edit button clicked. id:', id);
+});
 
+$(document).on('click', selector.btnDel, function(){
+  var id = $(this).data('id');
+  console.log('delete button clicked. id:', id);
+});
+
+// create your code to build datatable,
+// and here is
+// your column def for btn actions
 // code to create action buttons
 {
   title:'Action', 
   data: 'id', 
   render:function(data, type, row, meta){
-    var 
-    ctxName = 'row', // context name
+    var
     btnEdit = '<button data-toggle="tooltip" class="btn-xs btn-info" data-action="' + ctxName + ':edit" data-id="' + row.id + '" title="Edit" data-trigger="hover"><i class="fa fa-edit"></i></button>',
     btnDel  = '<button data-toggle="tooltip" class="btn-xs btn-danger" title="Delete" data-id="' + row.id + '" data-trigger="hover" data-action="' + ctxName + ':delete"><i class="fa fa-times"></i></button>',
     render  = btnEdit + '&nbsp' + btnDel;
