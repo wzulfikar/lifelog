@@ -15,8 +15,8 @@ https://datatables.net/reference/api/row().data()
 ```js
 var 
 dtCtx = {
-  name: 'user',
-  action   = {
+  name : 'user',
+  action : {
     del  :dtCtx.name + '.del',
     edit :dtCtx.name + '.edit',
   },
