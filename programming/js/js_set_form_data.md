@@ -1,6 +1,6 @@
 # JS: Form Helper
 
-- *requires jquery.*
+- *requires jquery*
 
 ### Set Form Data
 
