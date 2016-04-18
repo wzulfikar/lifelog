@@ -17,8 +17,12 @@ var
 dtCtx = {
   name : 'user',
   action : {
-    del  :dtCtx.name + '.del',
-    edit :dtCtx.name + '.edit',
+    del  :function(){
+      return this.name + '.del';
+    },
+    edit :function(){
+      return this.name + '.edit';
+    }
   },
   // code to create action buttons
   columnDef: {
@@ -26,8 +30,8 @@ dtCtx = {
     data: 'id', 
     render:function(data, type, row){
       var
-      btnEdit = '<button class="btn-xs btn-info" title="Edit" data-toggle="tooltip" data-trigger="hover" data-id="' + row.id + '" data-action="' + dtCtx.name.action.edit + '"><i class="fa fa-edit"></i></button>',
-      btnDel  = '<button class="btn-xs btn-danger" title="Delete" data-toggle="tooltip" data-trigger="hover" data-id="' + row.id + '" data-action="' + dtCtx.name.action.del + '><i class="fa fa-times"></i></button>',
+      btnEdit = '<button class="btn-xs btn-info" title="Edit" data-toggle="tooltip" data-trigger="hover" data-id="' + row.id + '" data-action="' + this.name.action.edit + '"><i class="fa fa-edit"></i></button>',
+      btnDel  = '<button class="btn-xs btn-danger" title="Delete" data-toggle="tooltip" data-trigger="hover" data-id="' + row.id + '" data-action="' + this.name.action.del + '><i class="fa fa-times"></i></button>',
       render  = btnEdit + '&nbsp' + btnDel;
 
       return render;
