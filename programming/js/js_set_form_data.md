@@ -1,28 +1,32 @@
 # JS: Form Helper
 
-- *requires jquery*
-
-### Set Form Data
+- *jquery is required*
 
 ```js
-function setFormData($el, newVal){
-  $el.find('[name]').each(function(){
-    var $input = $(this);
+var FormHelper = function($form) {
+  this.form = function(){
+    return $form;
+  };
+  
+  this.reset = function(resetHidden) {
+    resetHidden = resetHidden || false;
+    if (resetHidden)
+      $('[name]').val('').trigger('change');
+    else
+      $('[type!="hidden"][name]').val('').trigger('change');
+    
+    return $form;
+  }
 
-    if(newVal[$input.attr('name')])
-      $input.val(newVal[$input.attr('name')]).trigger('change');
-  });
-}
-```
+  this.set = function(values) {
+    $form.find('[name]').each(function() {
+      var $input = $(this);
 
-### Reset Form
-```js
-function resetForm($el, resetHidden){
-	resetHidden = resetHidden || false;
-	$el.find('[name]').each(function(){
-		if( $(this).attr('type') != 'hidden' || (resetHidden && $(this).attr('type') == 'hidden') ){
-			$(this).val('');
-		}
-	});
-}
+      if (values[$input.attr('name')])
+        $input.val(values[$input.attr('name')]).trigger('change');
+    });
+    
+    return $form;
+  };
+};
 ```
