@@ -14,14 +14,25 @@ https://datatables.net/reference/api/row().data()
 
 ```js
 var 
-ctxName  = 'row',
-action   = {
-  del  :ctxName + '.del',
-  edit :ctxName + '.edit',
-},
-selector = {
-  btnDel :'[data-action="' + action.del + '"]',
-  btnEdit:'[data-action="' + action.edit + '"]'
+dtCtx = {
+  name: 'user',
+  action   = {
+    del  :dtCtx.name + '.del',
+    edit :dtCtx.name + '.edit',
+  },
+  // code to create action buttons
+  columnDef: {
+    title:'Action', 
+    data: 'id', 
+    render:function(data, type, row){
+      var
+      btnEdit = '<button class="btn-xs btn-info" title="Edit" data-toggle="tooltip" data-trigger="hover" data-id="' + row.id + '" data-action="' + dtCtx.name.action.edit + '"><i class="fa fa-edit"></i></button>',
+      btnDel  = '<button class="btn-xs btn-danger" title="Delete" data-toggle="tooltip" data-trigger="hover" data-id="' + row.id + '" data-action="' + dtCtx.name.action.del + '><i class="fa fa-times"></i></button>',
+      render  = btnEdit + '&nbsp' + btnDel;
+
+      return render;
+    }
+  },
 };
 
 // on click handler
@@ -38,21 +49,4 @@ $(document)
     var id = $(this).data('id');
     console.log('delete button clicked. id:', id);
   });
-
-// create your code to build datatable,
-// and here is
-// your column def for btn actions
-// code to create action buttons
-{
-  title:'Action', 
-  data: 'id', 
-  render:function(data, type, row){
-    var
-    btnEdit = '<button class="btn-xs btn-info" title="Edit" data-toggle="tooltip" data-trigger="hover" data-id="' + row.id + '" ' selector.btnEdit + '><i class="fa fa-edit"></i></button>',
-    btnDel  = '<button class="btn-xs btn-danger" title="Delete" data-toggle="tooltip" data-trigger="hover" data-id="' + row.id + '" ' + selector.btnDel + '><i class="fa fa-times"></i></button>',
-    render  = btnEdit + '&nbsp' + btnDel;
-
-    return render;
-  }
-},
 ```
