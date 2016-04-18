@@ -15,20 +15,26 @@ https://datatables.net/reference/api/row().data()
 ```js
 var 
 ctxName  = 'row',
+action   = {
+  del  :ctxName + '.del',
+  edit :ctxName + '.edit',
+},
 selector = {
-  btnDel :'[data-action="' + ctxName + '.del"]',
-  btnEdit:'[data-action="' + ctxName + '.edit"]'
+  btnDel :'[data-action="' + action.del + '"]',
+  btnEdit:'[data-action="' + action.edit + '"]'
 };
 
 // on click handler
 $(document)
   // handle btn edit click event
   .on('click', selector.btnEdit, function(){
+    $(document).trigger(action.edit);
     var id = $(this).data('id');
     console.log('edit button clicked. id:', id);
   })
   // handle btn delete click event
   .on('click', selector.btnDel, function(){
+    $(document).trigger(action.del);
     var id = $(this).data('id');
     console.log('delete button clicked. id:', id);
   });
