@@ -22,10 +22,12 @@ selector = {
 
 // on click handler
 $(document)
+  // handle btn edit click event
   .on('click', selector.btnEdit, function(){
     var id = $(this).data('id');
     console.log('edit button clicked. id:', id);
   })
+  // handle btn delete click event
   .on('click', selector.btnDel, function(){
     var id = $(this).data('id');
     console.log('delete button clicked. id:', id);
