@@ -38,7 +38,7 @@ $(document).on('click', selector.btnDel, function(){
 {
   title:'Action', 
   data: 'id', 
-  render:function(data, type, row, meta){
+  render:function(data, type, row){
     var
     btnEdit = '<button class="btn-xs btn-info" title="Edit" data-toggle="tooltip" data-trigger="hover" data-id="' + row.id + '" ' selector.btnEdit + '><i class="fa fa-edit"></i></button>',
     btnDel  = '<button class="btn-xs btn-danger" title="Delete" data-toggle="tooltip" data-trigger="hover" data-id="' + row.id + '" ' + selector.btnDel + '><i class="fa fa-times"></i></button>',
