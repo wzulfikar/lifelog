@@ -16,8 +16,8 @@ https://datatables.net/reference/api/row().data()
 var 
 ctxName  = 'row',
 selector = {
-  btnDel :'[data-action="' + ctxName + ':edit"]',
-  btnEdit:'[data-action="' + ctxName + ':edit"]'
+  btnDel :'[data-action="' + ctxName + '.del"]',
+  btnEdit:'[data-action="' + ctxName + '.edit"]'
 };
 
 // on click handler
