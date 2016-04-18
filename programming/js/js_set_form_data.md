@@ -1,4 +1,6 @@
-# JS: Set Form Data
+# JS: Form Helper
+
+### Set Form Data
 
 ```js
 function setFormData($el, newVal){
@@ -8,5 +10,17 @@ function setFormData($el, newVal){
     if(newVal[$input.attr('name')])
       $input.val(newVal[$input.attr('name')]).trigger('change');
   });
+}
+```
+
+### Reset Form
+```js
+function resetForm($el, resetHidden){
+	resetHidden = resetHidden || false;
+	$el.find('[name]').each(function(){
+		if( $(this).attr('type') != 'hidden' || (resetHidden && $(this).attr('type') == 'hidden') ){
+			$(this).val('');
+		}
+	});
 }
 ```
