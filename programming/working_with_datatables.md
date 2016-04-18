@@ -21,15 +21,15 @@ selector = {
 };
 
 // on click handler
-$(document).on('click', selector.btnEdit, function(){
-  var id = $(this).data('id');
-  console.log('edit button clicked. id:', id);
-});
-
-$(document).on('click', selector.btnDel, function(){
-  var id = $(this).data('id');
-  console.log('delete button clicked. id:', id);
-});
+$(document)
+  .on('click', selector.btnEdit, function(){
+    var id = $(this).data('id');
+    console.log('edit button clicked. id:', id);
+  })
+  .on('click', selector.btnDel, function(){
+    var id = $(this).data('id');
+    console.log('delete button clicked. id:', id);
+  });
 
 // create your code to build datatable,
 // and here is
