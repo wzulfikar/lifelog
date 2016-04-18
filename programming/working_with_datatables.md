@@ -10,7 +10,9 @@ https://datatables.net/reference/api/row().data()
 
 
 ### Common Actions : Edit & Delete
-*using bootstrap and fontawesome*
+- using bootstrap and fontawesome
+- on click, do ajax operation
+
 ```js
 // column def
 
