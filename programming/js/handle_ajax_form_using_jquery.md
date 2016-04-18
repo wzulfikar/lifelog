@@ -3,8 +3,8 @@
 This code meant to handle submission of ajax form : eliminating boilerplate code, and for convenient – if you think so :v
 
 ### Installation
-- bower
-- download source code
+- via bower : `bower i -S ajax-form-handler`
+- manual : download source code from [github](https://github.com/wzulfikar/ajax-form-handler).
 
 ### Usage
 ```js
