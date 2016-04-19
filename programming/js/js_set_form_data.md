@@ -3,17 +3,15 @@
 - *jquery is required*
 
 ```js
-var FormHelper = function($form) {
-  this.form = function(){
-    return $form;
-  };
+(function($){
+$.fn.formHelper = function($form) {
   
   this.reset = function(resetHidden) {
     resetHidden = resetHidden || false;
     if (resetHidden)
-      $('[name]').val('').trigger('change');
+      $form.find('[name]').val('').trigger('change');
     else
-      $('[type!="hidden"][name]').val('').trigger('change');
+      $form.find('[type!="hidden"][name]').val('').trigger('change');
     
     return $form;
   }
@@ -28,5 +26,13 @@ var FormHelper = function($form) {
     
     return $form;
   };
+  
+  return $form;
 };
+  
+}(jQuery));
+
+var person1 = $.fn.formHelper($('[action="test"]'));
+
+person1.reset();
 ```
