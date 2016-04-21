@@ -45,3 +45,7 @@ func main() {
 	i.M()
 }
 ```
+
+session tracking servlet: 
+- http://www.tutorialspoint.com/servlets/servlets-session-tracking.htm
+- http://www.wideskills.com/servlets/session-tracking-techniques
