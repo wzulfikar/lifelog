@@ -49,3 +49,9 @@ func main() {
 session tracking servlet: 
 - http://www.tutorialspoint.com/servlets/servlets-session-tracking.htm
 - http://www.wideskills.com/servlets/session-tracking-techniques
+
+laravel cron:
+- define cron job. assuming u're root, inside `etc/crontab` add:
+
+  `* * * * * root php /path/to/artisan schedule:run >> /dev/null 2>&1`
+- check cron log: `tail -f /var/log/cron`
