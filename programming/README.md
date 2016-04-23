@@ -64,3 +64,5 @@ sample schedule:
 $schedule->call(function () {return true;})->everyMinute()->thenPing('http://requestb.in/1cs75qz1');
 ```
 
+
+get checkbox value: `$('#your-el').is(':checked');`
