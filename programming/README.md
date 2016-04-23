@@ -63,3 +63,4 @@ sample schedule:
 ```php
 $schedule->call(function () {return true;})->everyMinute()->thenPing('http://requestb.in/1cs75qz1');
 ```
+
