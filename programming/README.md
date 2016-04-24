@@ -68,7 +68,7 @@ $schedule->call(function () {return true;})->everyMinute()->thenPing('http://req
 get checkbox value: `$('#your-el').is(':checked');`
 `$('#your-el').attr('checked', true);`
 
-supervisor
+**supervisor**
 
 - `nano /etc/supervisord.conf`
 - `/usr/bin/supervisord -c /etc/supervisord.conf`
