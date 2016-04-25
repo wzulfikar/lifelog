@@ -73,3 +73,5 @@ get checkbox value: `$('#your-el').is(':checked');`
 - `nano /etc/supervisord.conf`
 - `/usr/bin/supervisord -c /etc/supervisord.conf`
 - `ps aux | grep php`
+
+swap problem composer: http://stackoverflow.com/questions/18116261/php-composer-update-cannot-allocate-memory-error-using-laravel-4
