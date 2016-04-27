@@ -13,7 +13,12 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
 
 ### Menu
 - HTML
+  - basic
+  - html 5
 - CSS
-  - concept
-  - bootstrap
-- Javascript
+  - basic
+  - css framework
+- Javascript (JS)
+  - basic
+  - jquery
+  - using bower
