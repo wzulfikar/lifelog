@@ -71,6 +71,8 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
   - 14.00 - 15.20
   - 15.30 - 16.40
 
-After ***completing*** above 3-day session, you will be familiar with:
+After ***completing*** above sessions, you will be familiar with:
 
 `HTML` `HTML5` `CSS` `sublime` `atom` `nginx` `apache` `bootstrap` `JS` `jquery` `momentjs` `bower` `mysql` `php` `laravel` `github` `cloud9` `codepen` `package manager` `cli`
+
+https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations
