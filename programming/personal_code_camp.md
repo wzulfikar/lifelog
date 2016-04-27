@@ -86,3 +86,5 @@ After ***completing*** above sessions, you will be familiar with:
 `HTML` `HTML5` `CSS` `sublime` `atom` `nginx` `apache` `bootstrap` `JS` `jquery` `momentjs` `bower` `mysql` `php` `laravel` `version control` `github` `cloud9` `codepen` `package manager` `cli` `API` `slack` `vps` `bot` `json` `ajax` `http`
 
 https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations
+
+*i'm cautiously optimistic.*
