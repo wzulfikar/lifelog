@@ -14,15 +14,15 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
 ### Menu
 ##### Tools
 - IDE
-- CLI
 - MD
+- CLI
 - VPS
 - VCS
 
 ##### Front-End
 - HTML
   - basic
-  - html 5
+  - html5
 - CSS
   - basic
   - css frameworks
