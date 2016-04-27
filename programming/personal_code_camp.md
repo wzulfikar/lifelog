@@ -15,6 +15,7 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
 ##### Tools
 - IDE
 - CLI
+- MD
 
 ##### Front-End
 - HTML
@@ -48,7 +49,6 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
   - basic
   - tools
 
-
 #### The 3-Day Sessions:
 - Friday (~4 hours)
   - 15.30 - 16.40
@@ -59,3 +59,7 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
   - 15.30 - 16.40
   - 17.00 - 18.50
 - Sunday (~4 hours)
+  - 
+
+
+
