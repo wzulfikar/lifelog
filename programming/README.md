@@ -75,3 +75,10 @@ get checkbox value: `$('#your-el').is(':checked');`
 - `ps aux | grep php`
 
 swap problem composer: http://stackoverflow.com/questions/18116261/php-composer-update-cannot-allocate-memory-error-using-laravel-4
+
+\DB::enableQueryLog();
+    $calItems = CalItem::whereRaw($likeQuery)->get();
+
+    $queries = \DB::getQueryLog();
+    $last_query = end($queries);
+    dd($last_query);
