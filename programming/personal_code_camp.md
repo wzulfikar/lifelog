@@ -12,13 +12,50 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
 - Learn Javascript to provide client-side behavior
 
 ### Menu
+##### Tools
+- IDE
+- CLI
+
+##### Front-End
 - HTML
   - basic
   - html 5
 - CSS
   - basic
-  - css framework
+  - css frameworks
 - Javascript (JS)
   - basic
   - jquery
   - using bower
+
+##### Back-End
+- Programming 101
+  - basic
+  - DRY
+  - package manager
+  - test
+- PHP
+  - basic
+  - package manager
+  - tools
+- PHP Framework (Laravel)
+  - routing
+  - handling user's request
+  - blade template engine
+  - model, view & controller (MVC)
+  - middleware
+- Database (MySQL)
+  - basic
+  - tools
+
+
+#### The 3-Day Sessions:
+- Friday (~4 hours)
+  - 15.30 - 16.40
+  - 17.00 - 17.50
+  - 18.00 - 19.50
+- Saturday (~4 hours)
+  - 14.00 - 15.20
+  - 15.30 - 16.40
+  - 17.00 - 18.50
+- Sunday (~4 hours)
