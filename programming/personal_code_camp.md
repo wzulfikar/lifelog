@@ -18,6 +18,7 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
 - CLI
 - VPS
 - VCS
+- API Doc
 
 ##### Front-End
 - HTML
