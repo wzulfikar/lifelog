@@ -59,6 +59,7 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
   - model, view & controller (MVC)
   - middleware
   - sending email
+  - task scheduling
 
 ##### Playground
 - slack integration
