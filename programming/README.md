@@ -82,3 +82,5 @@ swap problem composer: http://stackoverflow.com/questions/18116261/php-composer-
     $queries = \DB::getQueryLog();
     $last_query = end($queries);
     dd($last_query);
+    
+soft delete: http://stackoverflow.com/questions/18041155/why-soft-deleted-entities-appear-in-query-results
