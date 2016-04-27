@@ -61,6 +61,10 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
   - sending email
   - task scheduling
 
+##### Continues Integration
+- Version Control
+- Code Review
+
 ##### Playground
 - slack integration
 - telegram bot
@@ -84,7 +88,7 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
 
 After ***completing*** above sessions, you will be familiar with:
 
-`HTML` `HTML5` `CSS` `sublime` `atom` `nginx` `apache` `bootstrap` `JS` `jquery` `momentjs` `bower` `mysql` `php` `laravel` `version control` `github` `cloud9` `codepen` `package manager` `cli` `API` `slack` `vps` `bot` `json` `ajax` `http`
+`HTML` `HTML5` `CSS` `sublime` `atom` `nginx` `apache` `bootstrap` `JS` `jquery` `momentjs` `bower` `mysql` `php` `laravel` `version control` `github` `cloud9` `codepen` `package manager` `cli` `API` `slack` `vps` `bot` `json` `ajax` `http` `CI`
 
 https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations
 
