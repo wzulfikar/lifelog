@@ -62,8 +62,8 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
   - task scheduling
 
 ##### Continues Integration
-- Version Control
-- Code Review
+- vcs
+- code review
 
 ##### Playground
 - slack integration
