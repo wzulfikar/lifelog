@@ -67,4 +67,6 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
   - 14.00 - 15.20
   - 15.30 - 16.40
 
+After ***completing*** above 3-day session, you're expected to be familiar with:
 
+`HTML` `HTML5` `CSS` `sublime` `atom` `bootstrap` `JS` `jquery` `momentjs` `bower` `mysql` `php` `laravel` `github` `cloud9` `codepen` `package manager` `cli`
