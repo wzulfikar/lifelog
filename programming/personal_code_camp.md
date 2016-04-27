@@ -45,6 +45,7 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
 - Database (MySQL)
   - basic
   - tools
+    - phpadmin, sqlyog, sequelpro, mysql workbench
 - PHP
   - basic
   - package manager
