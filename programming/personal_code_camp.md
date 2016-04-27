@@ -41,6 +41,9 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
   - basic
   - nginx
   - apache
+- Database (MySQL)
+  - basic
+  - tools
 - PHP
   - basic
   - package manager
@@ -51,9 +54,12 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
   - blade template engine
   - model, view & controller (MVC)
   - middleware
-- Database (MySQL)
-  - basic
-  - tools
+  - sending email
+
+##### Playground
+- slack integration
+- telegram bot
+- trello 
 
 #### 3-Day Sessions, ~14 hours:
 - Friday (~4 hours)
@@ -73,6 +79,6 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
 
 After ***completing*** above sessions, you will be familiar with:
 
-`HTML` `HTML5` `CSS` `sublime` `atom` `nginx` `apache` `bootstrap` `JS` `jquery` `momentjs` `bower` `mysql` `php` `laravel` `github` `cloud9` `codepen` `package manager` `cli`
+`HTML` `HTML5` `CSS` `sublime` `atom` `nginx` `apache` `bootstrap` `JS` `jquery` `momentjs` `bower` `mysql` `php` `laravel` `github` `cloud9` `codepen` `package manager` `cli` `API` `slack`
 
 https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations
