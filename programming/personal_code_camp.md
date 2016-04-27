@@ -50,6 +50,7 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
   - package manager
   - tools
 - PHP Framework (Laravel)
+  - tinker
   - routing
   - handling user's request
   - blade template engine
