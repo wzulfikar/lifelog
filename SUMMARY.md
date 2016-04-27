@@ -83,7 +83,7 @@
    * [Package Manager of Whatever](programming/package_managers_of_whatever.md)
    * [GO - Hello World!](programming/go_-_hello_world.md)
    * [CSS Frameworks](programming/css_frameworks.md)
-   * Personal Code Camp
+   * [Personal Code Camp](programming/personal_code_camp.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
