@@ -38,6 +38,7 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
   - DRY
   - package manager
   - test
+  - debug 101
 - Server
   - basic
   - nginx
