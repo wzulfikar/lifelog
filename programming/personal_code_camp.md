@@ -37,6 +37,10 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
   - DRY
   - package manager
   - test
+- Server
+  - basic
+  - nginx
+  - apache
 - PHP
   - basic
   - package manager
@@ -69,4 +73,4 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
 
 After ***completing*** above 3-day session, you will be familiar with:
 
-`HTML` `HTML5` `CSS` `sublime` `atom` `bootstrap` `JS` `jquery` `momentjs` `bower` `mysql` `php` `laravel` `github` `cloud9` `codepen` `package manager` `cli`
+`HTML` `HTML5` `CSS` `sublime` `atom` `nginx` `apache` `bootstrap` `JS` `jquery` `momentjs` `bower` `mysql` `php` `laravel` `github` `cloud9` `codepen` `package manager` `cli`
