@@ -79,6 +79,6 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
 
 After ***completing*** above sessions, you will be familiar with:
 
-`HTML` `HTML5` `CSS` `sublime` `atom` `nginx` `apache` `bootstrap` `JS` `jquery` `momentjs` `bower` `mysql` `php` `laravel` `github` `cloud9` `codepen` `package manager` `cli` `API` `slack`
+`HTML` `HTML5` `CSS` `sublime` `atom` `nginx` `apache` `bootstrap` `JS` `jquery` `momentjs` `bower` `mysql` `php` `laravel` `github` `cloud9` `codepen` `package manager` `cli` `API` `slack` `vps`
 
 https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations
