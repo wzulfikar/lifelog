@@ -51,7 +51,7 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
   - basic
   - tools
 
-#### The 3-Day Sessions:
+#### 3-Day Sessions, ~14 hours:
 - Friday (~4 hours)
   - 15.30 - 16.40
   - 17.00 - 17.50
@@ -60,8 +60,11 @@ from https://www.rubysteps.com/articles/2014/so-you-want-to-become-a-full-stack-
   - 14.00 - 15.20
   - 15.30 - 16.40
   - 17.00 - 18.50
-- Sunday (~4 hours)
-  - 
-
+- Sunday (6 hours)
+  - 09.00 - 10.20
+  - 10.30 - 11.50
+  - 12.00 - 12.50
+  - 14.00 - 15.20
+  - 15.30 - 16.40
 
 
