@@ -74,6 +74,34 @@ get checkbox value: `$('#your-el').is(':checked');`
 - `/usr/bin/supervisord -c /etc/supervisord.conf`
 - `ps aux | grep php`
 
+**sample supervisor conf**
+```
+[supervisord]
+logfile=/tmp/supervisord.log  ; (main log file;default $CWD/supervisord.log)
+logfile_maxbytes=50MB                    ; (max main logfile bytes b4 rotation;default 50MB)
+logfile_backups=10                       ; (num of main logfile rotation backups;default 10)
+loglevel=info                            ; (log level;default info; others: debug,warn,trace)
+pidfile=/tmp/supervisord.pid  ; (supervisord pidfile;default supervisord.pid)
+nodaemon=false                           ; (start in foreground if true;default false)
+minfds=1024                              ; (min. avail startup file descriptors;default 1024)
+minprocs=200
+childlogdir=/tmp
+
+[unix_http_server]
+file=/tmp/supervisor.sock
+
+[supervisorctl]
+serverurl=unix:///tmp/supervisor.sock
+
+[program:laravel_queue]
+command=php /www/laravel_app/artisan queue:work --daemon --env=production --tries=5
+user=ioss
+stdout_logfile=/www/iossAdmin/storage/logs/ioss_admin_queue.log
+redirect_stderr=true
+autostart=true
+autorestart=true
+```
+
 swap problem composer: http://stackoverflow.com/questions/18116261/php-composer-update-cannot-allocate-memory-error-using-laravel-4
 
 \DB::enableQueryLog();
