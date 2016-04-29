@@ -74,7 +74,7 @@ get checkbox value: `$('#your-el').is(':checked');`
 - `/usr/bin/supervisord -c /etc/supervisord.conf`
 - `ps aux | grep php`
 
-**sample supervisor conf**
+**sample supervisor conf file**
 ```
 [supervisord]
 logfile=/tmp/supervisord.log  ; (main log file;default $CWD/supervisord.log)
@@ -112,3 +112,6 @@ swap problem composer: http://stackoverflow.com/questions/18116261/php-composer-
     dd($last_query);
     
 soft delete: http://stackoverflow.com/questions/18041155/why-soft-deleted-entities-appear-in-query-results
+
+### no-bot middleware. 
+this is how i failed my one-time login link, bcause my lack of bot mechanism.
