@@ -65,6 +65,8 @@ $schedule->call(function () {return true;})->everyMinute()->thenPing('http://req
 ```
 
 
+https://github.com/bpampuch/pdfmake/issues/302
+
 get checkbox value: `$('#your-el').is(':checked');`
 `$('#your-el').attr('checked', true);`
 
@@ -101,6 +103,15 @@ redirect_stderr=true
 autostart=true
 autorestart=true
 ```
+
+Looks like you runs out of swap memory, try this
+
+/bin/dd if=/dev/zero of=/var/swap.1 bs=1M count=1024
+
+/sbin/mkswap /var/swap.1
+
+/sbin/swapon /var/swap.1
+
 
 swap problem composer: http://stackoverflow.com/questions/18116261/php-composer-update-cannot-allocate-memory-error-using-laravel-4
 
