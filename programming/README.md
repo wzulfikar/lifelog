@@ -115,6 +115,10 @@ Looks like you runs out of swap memory, try this
 
 swap problem composer: http://stackoverflow.com/questions/18116261/php-composer-update-cannot-allocate-memory-error-using-laravel-4
 
+https://www.digitalocean.com/community/tutorials/how-to-configure-virtual-memory-swap-file-on-a-vps
+
+https://github.com/facebook/hhvm/issues/1342
+
 \DB::enableQueryLog();
     $calItems = CalItem::whereRaw($likeQuery)->get();
 
