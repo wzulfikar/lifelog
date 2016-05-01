@@ -129,7 +129,7 @@ https://github.com/facebook/hhvm/issues/1342
 soft delete: http://stackoverflow.com/questions/18041155/why-soft-deleted-entities-appear-in-query-results
 
 ### no-bot middleware. 
-this is how i failed my one-time login link, bcause my lack of bot mechanism.
+this is how i failed my one-time login link, bcause my lack of knowledge in handling bot mechanism. current solution is to use no-bot middleware, something like this:
 
 ```php
 public function handle($request, Closure $next)
