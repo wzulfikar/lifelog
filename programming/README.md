@@ -130,3 +130,14 @@ soft delete: http://stackoverflow.com/questions/18041155/why-soft-deleted-entiti
 
 ### no-bot middleware. 
 this is how i failed my one-time login link, bcause my lack of bot mechanism.
+
+```php
+public function handle($request, Closure $next)
+{
+    if(stripos($_SERVER['HTTP_USER_AGENT'], 'bot') !== false){
+        abort(406, 'bot not allowed');
+    }
+
+    return $next($request);
+}
+```
