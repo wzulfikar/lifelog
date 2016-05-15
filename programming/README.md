@@ -137,3 +137,10 @@ http://guides.rubyonrails.org/getting_started.html
 http://stackoverflow.com/questions/15343771/ruby-bundle-install-update-too-slow
 https://github.com/bundler/bundler/issues/2125
 http://geekmonkey.org/2012/09/introducing-turbolinks-for-rails-4-0/
+
+### DHH
+https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language-8933d5e749ed#.c8vtg6r2o
+http://david.heinemeierhansson.com
+
+
+https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language-8933d5e749ed#.c8vtg6r2o
