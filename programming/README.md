@@ -118,12 +118,5 @@ swap problem composer: http://stackoverflow.com/questions/18116261/php-composer-
 https://www.digitalocean.com/community/tutorials/how-to-configure-virtual-memory-swap-file-on-a-vps
 
 https://github.com/facebook/hhvm/issues/1342
-
-\DB::enableQueryLog();
-    $calItems = CalItem::whereRaw($likeQuery)->get();
-
-    $queries = \DB::getQueryLog();
-    $last_query = end($queries);
-    dd($last_query);
     
 soft delete: http://stackoverflow.com/questions/18041155/why-soft-deleted-entities-appear-in-query-results
