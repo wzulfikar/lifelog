@@ -52,6 +52,7 @@
        * [Laravel & Datepicker](programming/php/laravel_&_datepicker.md)
        * [Coalesce Function](programming/php/coalesce_function.md)
        * [Random String](programming/php/random_string.md)
+       * Laravel Simple No-Bot Middleware
    * [Generating API Documentation Using Sami (PHP)](programming/php/generating_api_documentation_using_sami_php.md)
    * [Building New Feature : What I used to do.](programming/buildingnew_feature_what_i_used_to_do_md.md)
    * [Working with Datatables](programming/working_with_datatables.md)
