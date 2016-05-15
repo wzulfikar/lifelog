@@ -121,4 +121,9 @@ https://github.com/facebook/hhvm/issues/1342
     
 soft delete: http://stackoverflow.com/questions/18041155/why-soft-deleted-entities-appear-in-query-results
 
+
+### BEEGO
+
 https://medium.com/@richardeng/a-word-from-the-beegoist-d562ff8589d7#.xj8465coo
+
+http://superuser.com/questions/433746/is-there-a-fix-for-the-too-many-open-files-in-system-error-on-os-x-10-7-1
