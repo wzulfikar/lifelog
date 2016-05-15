@@ -120,3 +120,5 @@ https://www.digitalocean.com/community/tutorials/how-to-configure-virtual-memory
 https://github.com/facebook/hhvm/issues/1342
     
 soft delete: http://stackoverflow.com/questions/18041155/why-soft-deleted-entities-appear-in-query-results
+
+https://medium.com/@richardeng/a-word-from-the-beegoist-d562ff8589d7#.xj8465coo
