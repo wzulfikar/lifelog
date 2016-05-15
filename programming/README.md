@@ -144,3 +144,7 @@ http://david.heinemeierhansson.com
 
 
 https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language-8933d5e749ed#.c8vtg6r2o
+
+https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1#.zegovs1yz
+
+http://www.sitepoint.com/whats-new-rails-5/
