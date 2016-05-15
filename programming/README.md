@@ -134,3 +134,4 @@ http://superuser.com/questions/433746/is-there-a-fix-for-the-too-many-open-files
 
 ### Rails
 http://guides.rubyonrails.org/getting_started.html
+http://stackoverflow.com/questions/15343771/ruby-bundle-install-update-too-slow
