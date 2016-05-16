@@ -55,7 +55,7 @@
        * [Laravel Simple No-Bot Middleware](programming/php/laravel_simple_no-bot_middleware.md)
        * [Laravel : Debugging Query](programming/php/laravel__debugging_query.md)
        * [Laravel Nested Query in Eloquent](programming/php/laravel_nested_query_in_eloquent.md)
-       * Laravel : Channels & Subscribers
+       * [Laravel : Channels & Subscribers](programming/php/laravel__channels_&_subscribers.md)
    * [Generating API Documentation Using Sami (PHP)](programming/php/generating_api_documentation_using_sami_php.md)
    * [Building New Feature : What I used to do.](programming/buildingnew_feature_what_i_used_to_do_md.md)
    * [Working with Datatables](programming/working_with_datatables.md)
