@@ -132,6 +132,11 @@ http://www.sitepoint.com/go-building-web-applications-beego-part-2/
 
 http://superuser.com/questions/433746/is-there-a-fix-for-the-too-many-open-files-in-system-error-on-os-x-10-7-1
 
+### MapReduce
+http://stevekrenzel.com/finding-friends-with-mapreduce
+https://en.wikipedia.org/wiki/MapReduce
+http://www.slideshare.net/franebandov/an-introduction-to-mapreduce-6789635
+
 ### Rails
 http://guides.rubyonrails.org/getting_started.html
 http://stackoverflow.com/questions/15343771/ruby-bundle-install-update-too-slow
@@ -142,6 +147,7 @@ http://brandonhilkert.com/blog/a-ruby-refactor-exploring-dependency-injection-op
 http://david.heinemeierhansson.com/2012/dependency-injection-is-not-a-virtue.html
 
 http://guides.rubyonrails.org/getting_started.html
+
 ### DHH
 https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language-8933d5e749ed#.c8vtg6r2o
 http://david.heinemeierhansson.com
