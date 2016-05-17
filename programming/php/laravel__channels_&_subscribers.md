@@ -57,3 +57,32 @@ $channel->broadcast(function($subscribers) use ($command, $arg){
   }
 });
 ```
+
+```php
+trait Subscriber
+{
+  public function subscriptions()
+  {
+    return $this->hasMany(Subscription::class);
+  }
+
+  public function getSubscribedChannelsAttribute()
+	{
+	  return Channel::whereIn('id', $this->subscriptions->lists('channel_id'))
+	  					 		->get();
+	}
+
+	public function subscribe(Channel $channel)
+	{
+		$subscription             = new Subscription;
+		$subscription->user_id    = $this->id;
+		$subscription->channel_id = $channel->id;
+
+	  if($subscription->save()){
+	  	return true;
+	  }
+
+	  return false;
+	}
+}
+```
