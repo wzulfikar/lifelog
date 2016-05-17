@@ -138,6 +138,8 @@ http://stackoverflow.com/questions/15343771/ruby-bundle-install-update-too-slow
 https://github.com/bundler/bundler/issues/2125
 http://geekmonkey.org/2012/09/introducing-turbolinks-for-rails-4-0/
 http://guides.rubyonrails.org/action_controller_overview.html
+http://brandonhilkert.com/blog/a-ruby-refactor-exploring-dependency-injection-options/
+http://david.heinemeierhansson.com/2012/dependency-injection-is-not-a-virtue.html
 
 http://guides.rubyonrails.org/getting_started.html
 ### DHH
