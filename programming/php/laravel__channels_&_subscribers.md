@@ -89,6 +89,7 @@ $channel->broadcast(function($subscribers) use ($command, $arg){
 
 ```php
 // subscribing channel
+// User model must use Subscriber trait
 $channel = Channel::first();
 auth()->user()->subscribe($channel);
 ```
