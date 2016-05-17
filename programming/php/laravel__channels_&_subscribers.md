@@ -74,6 +74,12 @@ trait Subscriber
 	  return false;
 	}
     
+    public function unsubscribe(Channel $channel)
+	{
+	  $subscriptions = $this->subscriptions->where('channel_id', $channel->id)->first();
+	  return $subscriptions->delete();
+	}
+    
     public function subscribedTo(Channel $channel)
 	{
 	  return $this->subscriptions->where('channel_id', $channel->id)->first();
