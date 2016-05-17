@@ -73,6 +73,11 @@ trait Subscriber
 
 	  return false;
 	}
+    
+    public function subscribedTo(Channel $channel)
+	{
+	  return $this->subscriptions->where('channel_id', $channel->id)->first();
+	}
 }
 ```
 
