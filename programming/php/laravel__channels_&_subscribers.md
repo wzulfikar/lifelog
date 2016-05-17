@@ -48,17 +48,6 @@ class Subscription extends BaseModel
 ```
 
 ```php
-// broadcasting message to subscribers
-$channel = Channel::first();
-$channel->broadcast(function($subscribers) use ($command, $arg){
-  foreach ($subscribers as $key => $subscriber) {
-    $msg    = "Hi " . $subscriber->name . "!";
-    $messenger->sendTo($subscriber->chatId, $msg); 
-  }
-});
-```
-
-```php
 trait Subscriber
 {
   public function subscriptions()
@@ -85,4 +74,21 @@ trait Subscriber
 	  return false;
 	}
 }
+```
+
+```php
+// broadcasting message to subscribers
+$channel = Channel::first();
+$channel->broadcast(function($subscribers) use ($command, $arg){
+  foreach ($subscribers as $key => $subscriber) {
+    $msg    = "Hi " . $subscriber->name . "!";
+    $messenger->sendTo($subscriber->chatId, $msg); 
+  }
+});
+```
+
+```php
+// subscribing channel
+$channel = Channel::first();
+auth()->user()->subscribe($channel);
 ```
