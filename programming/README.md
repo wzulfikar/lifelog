@@ -136,6 +136,8 @@ http://superuser.com/questions/433746/is-there-a-fix-for-the-too-many-open-files
 http://stevekrenzel.com/finding-friends-with-mapreduce
 https://en.wikipedia.org/wiki/MapReduce
 http://www.slideshare.net/franebandov/an-introduction-to-mapreduce-6789635
+http://www.slideshare.net/lynnlangit/hadoop-mapreduce-fundamentals-21427224/36-Ways_to_MapReduceLibraries_LanguagesNote_Java
+http://www.slideshare.net/andreaiacono/mapreduce-34478449?next_slideshow=1
 
 ### Rails
 http://guides.rubyonrails.org/getting_started.html
