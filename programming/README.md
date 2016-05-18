@@ -162,3 +162,6 @@ https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surpr
 http://www.sitepoint.com/whats-new-rails-5/
 
 http://stackoverflow.com/questions/27864773/how-to-turn-on-automatic-restart-of-tomcat-in-eclipse
+
+### IRT
+http://nlp.stanford.edu/IR-book/html/htmledition/a-first-take-at-building-an-inverted-index-1.html
