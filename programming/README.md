@@ -171,3 +171,5 @@ https://www.quora.com/Information-Retrieval-What-is-inverted-index
 https://www.quora.com/What-side-business-can-make-you-1000-2000-a-week
 
 http://auburnbigdata.blogspot.my/2013/03/text-processing-tutorial-with-rapidminer.html
+
+http://stackoverflow.com/questions/1746501/can-someone-give-an-example-of-cosine-similarity-in-a-very-simple-graphical-wa
