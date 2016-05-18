@@ -167,3 +167,5 @@ http://stackoverflow.com/questions/27864773/how-to-turn-on-automatic-restart-of-
 http://nlp.stanford.edu/IR-book/html/htmledition/a-first-take-at-building-an-inverted-index-1.html
 https://www.elastic.co/guide/en/elasticsearch/guide/current/inverted-index.html
 https://www.quora.com/Information-Retrieval-What-is-inverted-index
+
+https://www.quora.com
