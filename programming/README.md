@@ -168,4 +168,4 @@ http://nlp.stanford.edu/IR-book/html/htmledition/a-first-take-at-building-an-inv
 https://www.elastic.co/guide/en/elasticsearch/guide/current/inverted-index.html
 https://www.quora.com/Information-Retrieval-What-is-inverted-index
 
-https://www.quora.com
+https://www.quora.com/What-side-business-can-make-you-1000-2000-a-week
