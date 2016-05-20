@@ -75,6 +75,7 @@ get checkbox value: `$('#your-el').is(':checked');`
 - `nano /etc/supervisord.conf`
 - `/usr/bin/supervisord -c /etc/supervisord.conf`
 - `ps aux | grep php`
+- if artisan queue spike the cpu, check for failed job.
 
 **sample supervisor conf file**
 ```
@@ -173,3 +174,5 @@ https://www.quora.com/What-side-business-can-make-you-1000-2000-a-week
 http://auburnbigdata.blogspot.my/2013/03/text-processing-tutorial-with-rapidminer.html
 
 http://stackoverflow.com/questions/1746501/can-someone-give-an-example-of-cosine-similarity-in-a-very-simple-graphical-wa
+
+http://applieddatamining.blogspot.my/2013/09/document-similarity-check-using-rapid.html
