@@ -7,3 +7,6 @@
 - `rails g {options}` run rails generator. alias: `rails generate {options}
 - `rails {name of command} -h` display help for given command
 - `rake db:migrate` run migration
+
+
+>the scaffold generator (`rails g scaffold {model name}`) creates all the parts of the MVC stack.
