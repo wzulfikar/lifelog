@@ -5,6 +5,7 @@
 - `concerns`
   - https://richonrails.com/articles/rails-4-code-concerns-in-active-record-models
 
+https://www.railstutorial.org/book
 
 http://railsforzombies.org
 
