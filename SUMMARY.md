@@ -89,7 +89,7 @@
    * [CSS Frameworks](programming/css_frameworks.md)
    * [Personal Code Camp](programming/personal_code_camp.md)
    * [Rails](programming/rails.md)
-       * [resources](programming/resources.md)
+       * [Tutorials](programming/resources.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
