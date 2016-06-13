@@ -17,3 +17,6 @@ http://stackoverflow.com/questions/17497012/rails-4-heroku-sqlite3-error
 http://stackoverflow.com/questions/392022/best-way-to-kill-all-child-processes
 
 http://stackoverflow.com/questions/4536326/heroku-free-account-limited
+
+_timeout `rake db:migrate`_
+http://stackoverflow.com/questions/14892200/cant-heroku-run-rake-db-migrate-through-my-app
