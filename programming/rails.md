@@ -20,3 +20,6 @@ http://stackoverflow.com/questions/4536326/heroku-free-account-limited
 
 _timeout `rake db:migrate`_
 http://stackoverflow.com/questions/14892200/cant-heroku-run-rake-db-migrate-through-my-app
+
+TL;DR `heroku run:detached rake db:migrate
+`
