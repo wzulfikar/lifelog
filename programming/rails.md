@@ -13,3 +13,7 @@
 >the scaffold generator (`rails g scaffold {model name}`) creates all the parts of the MVC stack.
 
 http://stackoverflow.com/questions/17497012/rails-4-heroku-sqlite3-error
+
+http://stackoverflow.com/questions/392022/best-way-to-kill-all-child-processes
+
+http://stackoverflow.com/questions/4536326/heroku-free-account-limited
