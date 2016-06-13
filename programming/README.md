@@ -176,3 +176,9 @@ http://auburnbigdata.blogspot.my/2013/03/text-processing-tutorial-with-rapidmine
 http://stackoverflow.com/questions/1746501/can-someone-give-an-example-of-cosine-similarity-in-a-very-simple-graphical-wa
 
 http://applieddatamining.blogspot.my/2013/09/document-similarity-check-using-rapid.html
+
+- https://www.learnenough.com/git-tutorial
+- https://www.learnenough.com/command-line-tutorial
+- https://www.learnenough.com/text-editor-tutorial
+
+> Deploying early and often allows us to catch any deployment problems early in our development cycle.
