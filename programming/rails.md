@@ -19,6 +19,7 @@ http://stackoverflow.com/questions/392022/best-way-to-kill-all-child-processes
 http://stackoverflow.com/questions/4536326/heroku-free-account-limited
 
 _timeout `rake db:migrate`_
-http://stackoverflow.com/questions/14892200/cant-heroku-run-rake-db-migrate-through-my-app  
+- http://stackoverflow.com/questions/14892200/cant-heroku-run-rake-db-migrate-through-my-app  
+- http://stackoverflow.com/questions/8582860/heroku-run-console-get-timeout-awaiting-process  
 TL;DR `heroku run:detached rake db:migrate
 `
