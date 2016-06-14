@@ -39,3 +39,7 @@ rails destroy  controller StaticPages home help
 http://sublimecodeintel.github.io/SublimeCodeIntel/
 
 http://stackoverflow.com/questions/27047174/rake-aborted-ruby-on-rails
+
+https://blog.heroku.com/archives/2016/5/9/real_time_rails_implementing_websockets_in_rails_5_with_action_cable
+
+http://stackoverflow.com/questions/4601498/what-is-the-point-of-return-in-ruby
