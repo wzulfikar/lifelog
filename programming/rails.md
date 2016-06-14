@@ -26,3 +26,5 @@ TL;DR `heroku run:detached rake db:migrate
 http://railsapps.github.io/updating-rails.html
 
 rails 5: https://www.youtube.com/watch?v=OaDhY_y8WTo
+
+upgrade to rails 5: http://edgeguides.rubyonrails.org/upgrading_ruby_on_rails.html
