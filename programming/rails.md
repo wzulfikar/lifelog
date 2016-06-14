@@ -23,3 +23,6 @@ _timeout `rake db:migrate`_
 - http://stackoverflow.com/questions/8582860/heroku-run-console-get-timeout-awaiting-process  
 TL;DR `heroku run:detached rake db:migrate
 `
+http://railsapps.github.io/updating-rails.html
+
+rails 5: https://www.youtube.com/watch?v=OaDhY_y8WTo
