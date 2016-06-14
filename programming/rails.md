@@ -28,3 +28,9 @@ http://railsapps.github.io/updating-rails.html
 rails 5: https://www.youtube.com/watch?v=OaDhY_y8WTo
 
 upgrade to rails 5: http://edgeguides.rubyonrails.org/upgrading_ruby_on_rails.html
+
+undo code generation using `destroy`:
+```
+rails generate controller StaticPages home help
+rails destroy  controller StaticPages home help
+```
