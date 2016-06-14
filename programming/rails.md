@@ -35,3 +35,7 @@ undo code generation using `destroy`:
 rails generate controller StaticPages home help
 rails destroy  controller StaticPages home help
 ```
+
+http://sublimecodeintel.github.io/SublimeCodeIntel/
+
+http://stackoverflow.com/questions/27047174/rake-aborted-ruby-on-rails
