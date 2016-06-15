@@ -47,3 +47,5 @@ http://stackoverflow.com/questions/4601498/what-is-the-point-of-return-in-ruby
 http://www.randomhacks.net/2007/01/20/13-ways-of-looking-at-a-ruby-symbol/
 
 http://www.postpostmodern.com/2009/02/20/a-body-with-class/
+
+admin lte height shrinked: https://github.com/almasaeed2010/AdminLTE/issues/563
