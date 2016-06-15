@@ -54,3 +54,5 @@ turbolink indicator: http://stackoverflow.com/questions/18321131/how-to-create-a
 
 devise:
 https://www.sitepoint.com/devise-authentication-in-depth/
+
+railsapps.github.io/rails-html5-boilerplate.html
