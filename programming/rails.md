@@ -56,3 +56,7 @@ devise:
 https://www.sitepoint.com/devise-authentication-in-depth/
 
 railsapps.github.io/rails-html5-boilerplate.html
+
+https://www.youtube.com/watch?v=qf6abZeAJh4
+
+http://momolog.info/2010/10/07/ruby-map-array-to-hash/
