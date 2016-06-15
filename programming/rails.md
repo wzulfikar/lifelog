@@ -43,3 +43,7 @@ http://stackoverflow.com/questions/27047174/rake-aborted-ruby-on-rails
 https://blog.heroku.com/archives/2016/5/9/real_time_rails_implementing_websockets_in_rails_5_with_action_cable
 
 http://stackoverflow.com/questions/4601498/what-is-the-point-of-return-in-ruby
+
+http://www.randomhacks.net/2007/01/20/13-ways-of-looking-at-a-ruby-symbol/
+
+http://www.postpostmodern.com/2009/02/20/a-body-with-class/
