@@ -85,4 +85,4 @@ regex VALID_EMAIL_REGEX is a constant, indicated in Ruby by a name starting with
 
 >  Unfortunately, based on the naïve data model, the only way to find a user by email address is to look through each user row in the database and compare its email attribute to the given email—which means we might have to examine every row (since the user could be the last one in the database). This is known in the database business as a full-table scan, and for a real site with thousands of users it is a Bad Thing.
 
-create index for user email: `rails generate migration add_index_to_users_email`
+create index for user email: `add_index :users, :email, unique: true`
