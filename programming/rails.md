@@ -52,7 +52,7 @@ admin lte height shrinked: https://github.com/almasaeed2010/AdminLTE/issues/563
 
 - turbolink indicator:
   -  http://stackoverflow.com/questions/18321131/how-to-create-a-youtube-style-loading-bar-with-rails-4s-turbolinks
-  -  TL;DR add `Turbolinks.enableProgressBar();` to `application.js`
+  -  tl;dr add `Turbolinks.enableProgressBar();` to `application.js`
 
 devise:
 https://www.sitepoint.com/devise-authentication-in-depth/
