@@ -68,3 +68,7 @@ http://www.thegreatcodeadventure.com/here-today-still-here-today-using-gon-with-
 trailblazer.to/gems/cells/rails.html
 
 > SCSS only adds features to CSS, rather than defining an entirely new syntax.13 This means that every valid CSS file is also a valid SCSS file, which is convenient for projects with existing style rules.
+
+-
+
+> We can see what happens without a save by using reload, which reloads the object based on the database information
