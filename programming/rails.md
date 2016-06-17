@@ -94,3 +94,5 @@ The way to do this is with a callback, which is a method that gets invoked at a 
 -
 
 > has_secure_password automatically adds an authenticate method to the corresponding model objects. This method determines if a given password is valid for a particular user by computing its digest and comparing the result to password_digest in the database.
+
+*Defining a database index improves lookup efficiency while allowing enforcement of uniqueness at the database level.*
