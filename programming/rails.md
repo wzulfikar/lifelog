@@ -72,3 +72,5 @@ trailblazer.to/gems/cells/rails.html
 -
 
 > We can see what happens without a save by using reload, which reloads the object based on the database information
+
+`update_attribute` != `update_attributes`
