@@ -80,3 +80,5 @@ trailblazer.to/gems/cells/rails.html
 http://www.rubular.com
 
 regex VALID_EMAIL_REGEX is a constant, indicated in Ruby by a name starting with a capital letter
+
+> to make a user with the same email address as @user using @user.dup, which creates a duplicate user with the same attributes
