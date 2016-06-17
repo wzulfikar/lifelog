@@ -90,3 +90,7 @@ create index for user email: `add_index :users, :email, unique: true
 The way to do this is with a callback, which is a method that gets invoked at a particular point in the lifecycle of an Active Record object.`
 
 > The way to do this is with a callback, which is a method that gets invoked at a particular point in the lifecycle of an Active Record object.
+
+-
+
+> has_secure_password automatically adds an authenticate method to the corresponding model objects. This method determines if a given password is valid for a particular user by computing its digest and comparing the result to password_digest in the database.
