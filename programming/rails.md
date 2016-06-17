@@ -60,3 +60,8 @@ railsapps.github.io/rails-html5-boilerplate.html
 https://www.youtube.com/watch?v=qf6abZeAJh4
 
 http://momolog.info/2010/10/07/ruby-map-array-to-hash/
+
+http://www.thegreatcodeadventure.com/here-today-still-here-today-using-gon-with-javascript-and-rails/
+
+trailblazer.to/gems/cells/rails.html
+
