@@ -76,3 +76,7 @@ trailblazer.to/gems/cells/rails.html
 `update_attribute` != `update_attributes`
 
 `validates :email, presence: true`
+
+http://www.rubular.com
+
+regex VALID_EMAIL_REGEX is a constant, indicated in Ruby by a name starting with a capital letter
