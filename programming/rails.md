@@ -1,4 +1,4 @@
-# Rails
+> # Rails
 - http://www.openvim.com
 
 ### Common Command
@@ -88,3 +88,5 @@ regex VALID_EMAIL_REGEX is a constant, indicated in Ruby by a name starting with
 create index for user email: `add_index :users, :email, unique: true
 
 The way to do this is with a callback, which is a method that gets invoked at a particular point in the lifecycle of an Active Record object.`
+
+> The way to do this is with a callback, which is a method that gets invoked at a particular point in the lifecycle of an Active Record object.
