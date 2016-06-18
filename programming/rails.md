@@ -110,5 +110,5 @@ http://stackoverflow.com/questions/7154664/ruby-sqlite3busyexception-database-is
 
 > `has_secure_password` does a lot of things.
 
-http://devcenter.heroku.com/articles/ssl
-https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server
+- http://devcenter.heroku.com/articles/ssl
+- https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server
