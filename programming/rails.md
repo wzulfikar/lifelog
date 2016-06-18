@@ -98,3 +98,8 @@ The way to do this is with a callback, which is a method that gets invoked at a 
 *Defining a database index improves lookup efficiency while allowing enforcement of uniqueness at the database level.*
 
 `<%= debug(params) if Rails.env.development? %>`
+
+- scss features:
+  - variable
+  - nesting
+  - mixin
