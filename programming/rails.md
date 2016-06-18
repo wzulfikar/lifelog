@@ -106,3 +106,6 @@ The way to do this is with a callback, which is a method that gets invoked at a 
 
 https://github.com/awesome-print/awesome_print
 
+http://stackoverflow.com/questions/7154664/ruby-sqlite3busyexception-database-is-locked
+
+> `has_secure_password` does a lot of things.
