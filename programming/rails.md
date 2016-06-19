@@ -112,3 +112,7 @@ http://stackoverflow.com/questions/7154664/ruby-sqlite3busyexception-database-is
 
 - http://devcenter.heroku.com/articles/ssl
 - https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server
+
+http://stackoverflow.com/questions/23034863/install-elasticsearch-1-1-using-brew
+
+https://www.railstutorial.org/book/following_users
