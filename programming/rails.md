@@ -118,3 +118,7 @@ http://stackoverflow.com/questions/23034863/install-elasticsearch-1-1-using-brew
 https://www.railstutorial.org/book/following_users
 
 http://codeloveandboards.com/blog/2014/08/24/rails-and-react-i-a-happy-medium/
+
+http://rails-and-react-iii.herokuapp.com
+
+https://medium.com/@cblavier/rails-with-no-js-framework-26d2d1646cd#.p7s8bltty
