@@ -149,3 +149,6 @@ https://richonrails.com/articles/sitemaps-in-ruby-on-rails
 
 https://richonrails.com/articles/sending-sms-using-text-magic
 
+https://github.com/stympy/faker
+
+https://richonrails.com/articles/endless-scrolling
