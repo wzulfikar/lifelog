@@ -145,3 +145,7 @@ https://richonrails.com/articles/seeding-your-database-with-seed-fu
 
 https://richonrails.com/articles/shortening-urls-with-bit-ly
 
+https://richonrails.com/articles/sitemaps-in-ruby-on-rails
+
+https://richonrails.com/articles/sending-sms-using-text-magic
+
