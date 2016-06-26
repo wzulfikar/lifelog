@@ -130,3 +130,10 @@ https://richonrails.com/articles/mongodb-and-rails
 https://richonrails.com/articles/background-tasks-with-rufus-scheduler
 
 https://richonrails.com/articles/rails-presenters
+
+https://richonrails.com/articles/sortable-table-columns
+
+https://richonrails.com/articles/getting-started-with-mysql-and-ruby-on-rails
+
+https://richonrails.com/articles/basic-subdomains-in-ruby-on-rails
+
