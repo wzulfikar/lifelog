@@ -156,3 +156,7 @@ https://richonrails.com/articles/endless-scrolling
 http://stackoverflow.com/questions/25068869/factorygirl-faker-same-data-being-generated-for-every-object-in-db-seed-data
 
 https://coderwall.com/p/x8ovkw/using-factorygirl-and-faker
+
+http://stackoverflow.com/questions/12307091/reload-factory-girl-factory
+
+http://stackoverflow.com/questions/22815009/add-a-reference-column-migration-in-rails-4
