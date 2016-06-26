@@ -122,3 +122,7 @@ http://codeloveandboards.com/blog/2014/08/24/rails-and-react-i-a-happy-medium/
 http://rails-and-react-iii.herokuapp.com
 
 https://medium.com/@cblavier/rails-with-no-js-framework-26d2d1646cd#.p7s8bltty
+
+http://joshsymonds.com/blog/2012/12/18/making-your-web-pages-ridiculously-fast-without-breaking-them/
+
+https://richonrails.com/articles/mongodb-and-rails
