@@ -155,3 +155,4 @@ https://richonrails.com/articles/endless-scrolling
 
 http://stackoverflow.com/questions/25068869/factorygirl-faker-same-data-being-generated-for-every-object-in-db-seed-data
 
+https://coderwall.com/p/x8ovkw/using-factorygirl-and-faker
