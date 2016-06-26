@@ -141,3 +141,7 @@ https://richonrails.com/articles/downloading-files-via-ftp-using-ruby
 
 https://richonrails.com/articles/outputting-xml-using-ruby-on-rails
 
+https://richonrails.com/articles/seeding-your-database-with-seed-fu
+
+https://richonrails.com/articles/shortening-urls-with-bit-ly
+
