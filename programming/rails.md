@@ -126,3 +126,7 @@ https://medium.com/@cblavier/rails-with-no-js-framework-26d2d1646cd#.p7s8bltty
 http://joshsymonds.com/blog/2012/12/18/making-your-web-pages-ridiculously-fast-without-breaking-them/
 
 https://richonrails.com/articles/mongodb-and-rails
+
+https://richonrails.com/articles/background-tasks-with-rufus-scheduler
+
+https://richonrails.com/articles/rails-presenters
