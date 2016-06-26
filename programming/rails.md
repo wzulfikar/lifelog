@@ -152,3 +152,6 @@ https://richonrails.com/articles/sending-sms-using-text-magic
 https://github.com/stympy/faker
 
 https://richonrails.com/articles/endless-scrolling
+
+http://stackoverflow.com/questions/25068869/factorygirl-faker-same-data-being-generated-for-every-object-in-db-seed-data
+
