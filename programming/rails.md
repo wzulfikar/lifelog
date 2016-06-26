@@ -137,3 +137,7 @@ https://richonrails.com/articles/getting-started-with-mysql-and-ruby-on-rails
 
 https://richonrails.com/articles/basic-subdomains-in-ruby-on-rails
 
+https://richonrails.com/articles/downloading-files-via-ftp-using-ruby
+
+https://richonrails.com/articles/outputting-xml-using-ruby-on-rails
+
