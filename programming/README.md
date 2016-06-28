@@ -35,34 +35,6 @@ get checkbox value: `$('#your-el').is(':checked');`
 `$('#your-el').attr('checked', true);`
 
 
-**sample supervisor conf file**
-```
-[supervisord]
-logfile=/tmp/supervisord.log  ; (main log file;default $CWD/supervisord.log)
-logfile_maxbytes=50MB                    ; (max main logfile bytes b4 rotation;default 50MB)
-logfile_backups=10                       ; (num of main logfile rotation backups;default 10)
-loglevel=info                            ; (log level;default info; others: debug,warn,trace)
-pidfile=/tmp/supervisord.pid  ; (supervisord pidfile;default supervisord.pid)
-nodaemon=false                           ; (start in foreground if true;default false)
-minfds=1024                              ; (min. avail startup file descriptors;default 1024)
-minprocs=200
-childlogdir=/tmp
-
-[unix_http_server]
-file=/tmp/supervisor.sock
-
-[supervisorctl]
-serverurl=unix:///tmp/supervisor.sock
-
-[program:laravel_queue]
-command=php /www/laravel_app/artisan queue:work --daemon --env=production --tries=5
-user=ioss
-stdout_logfile=/www/iossAdmin/storage/logs/ioss_admin_queue.log
-redirect_stderr=true
-autostart=true
-autorestart=true
-```
-
 Looks like you runs out of swap memory, try this
 
 /bin/dd if=/dev/zero of=/var/swap.1 bs=1M count=1024
