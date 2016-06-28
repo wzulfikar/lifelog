@@ -90,7 +90,7 @@
    * [Personal Code Camp](programming/personal_code_camp.md)
    * [Rails](programming/rails.md)
        * [Tutorials](programming/resources.md)
-   * Supervisor
+   * [Supervisor](programming/supervisor.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
