@@ -34,7 +34,6 @@ https://github.com/bpampuch/pdfmake/issues/302
 get checkbox value: `$('#your-el').is(':checked');`
 `$('#your-el').attr('checked', true);`
 
-
 Looks like you runs out of swap memory, try this
 
 /bin/dd if=/dev/zero of=/var/swap.1 bs=1M count=1024
