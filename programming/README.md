@@ -70,12 +70,6 @@ https://github.com/bpampuch/pdfmake/issues/302
 get checkbox value: `$('#your-el').is(':checked');`
 `$('#your-el').attr('checked', true);`
 
-**supervisor**
-
-- `nano /etc/supervisord.conf`
-- `/usr/bin/supervisord -c /etc/supervisord.conf`
-- `ps aux | grep php`
-- if artisan queue spike the cpu, check for failed job.
 
 **sample supervisor conf file**
 ```
