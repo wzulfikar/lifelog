@@ -94,6 +94,7 @@
    * [Go](programming/go.md)
    * [Phoenix Framework](programming/phoenix_framework.md)
    * [Codility](programming/codility.md)
+       * Binary Gap
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
