@@ -93,7 +93,7 @@
    * [Supervisor](programming/supervisor.md)
    * [Go](programming/go.md)
    * [Phoenix Framework](programming/phoenix_framework.md)
-   * Codility
+   * [Codility](programming/codility.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
