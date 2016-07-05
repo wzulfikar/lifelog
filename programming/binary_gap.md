@@ -1,6 +1,9 @@
 # Binary Gap
 
+https://codility.com/c/run/training4XCEVT-AV6
+
 ```php
+// PHP
 function solution($N) {
     $bin = str_split(decbin($N));
     $seq = [];
