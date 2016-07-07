@@ -10,13 +10,13 @@ import (
 )
 
 func main() {
-    // declare vars
-	a, b := "4", "5"
-	fmt.Println("before swap:", a, b)
+  // declare vars
+  a, b := "4", "5"
+  fmt.Println("before swap:", a, b)
     
-    // swap vars
-	a, b = swap(a, b)
-	fmt.Println("after swap:", a, b)
+  // swap vars
+  a, b = swap(a, b)
+  fmt.Println("after swap:", a, b)
 }
 
 func swap(a, b string) (string, string) {
