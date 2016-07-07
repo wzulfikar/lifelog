@@ -1,2 +1,3 @@
 # Go & Sublime
 
+- auto `fmt`
