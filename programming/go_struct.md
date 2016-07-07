@@ -18,7 +18,7 @@ func main() {
   fmt.Printf("I'm %d years old %s", me.age, me.sex)
   
   // declaring 'newborn',
-  // age:0 is implicit
+  // age:0 is implicit (int defaults to 0)
   me = Person{sex: "Male"}
   fmt.Printf("\nI'm %d year old %s", me.age, me.sex)
 }
