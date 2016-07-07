@@ -13,6 +13,7 @@ type Person struct {
 }
 
 func main() {
+  // declare Person struct
   me := Person{"Male", 22}
   fmt.Printf("I'm %d years old %s", me.age, me.sex)
 }
