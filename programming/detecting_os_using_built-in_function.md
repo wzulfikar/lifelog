@@ -1,5 +1,7 @@
 # Detecting OS Using Built-in Function
 
+> A case body breaks automatically, unless it ends with a fallthrough statement. (Docs)
+
 ```go
 package main
 
