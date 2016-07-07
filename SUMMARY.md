@@ -100,7 +100,7 @@
        * [Using Go Multiple Return to Swap Strings](programming/using_go_multiple_return_to_swap_strings.md)
        * [Detecting OS Using Built-in Function](programming/detecting_os_using_built-in_function.md)
        * [Go Struct](programming/go_struct.md)
-       * Fibonacci Using Function Closure
+       * [Fibonacci Using Function Closure](programming/fibonacci_using_function_closure.md)
    * [Phoenix Framework](programming/phoenix_framework.md)
    * [Codility](programming/codility.md)
        * [Binary Gap](programming/binary_gap.md)
