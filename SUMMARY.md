@@ -95,7 +95,7 @@
        * [GO - Hello World!](programming/go_-_hello_world.md)
        * [In Go, Interface is Instantiable](programming/in_go,_interface_is_instantiable.md)
        * [Gomon: Monitor Your Go Script](programming/gomon_monitor_your_go_script.md)
-       * Go & Sublime
+       * [Go & Sublime](programming/go_&_sublime.md)
    * [Phoenix Framework](programming/phoenix_framework.md)
    * [Codility](programming/codility.md)
        * [Binary Gap](programming/binary_gap.md)
