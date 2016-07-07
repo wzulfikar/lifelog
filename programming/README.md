@@ -4,8 +4,6 @@ Most of the stuff here is basically my personal approach, which might not be bes
 
 Anyway, I'm open to any idea, suggestion or comment 😉
 
-https://www.vividcortex.com/blog/2014/01/15/two-go-memory-leaks/
-
 https://blog.rubylearning.com/best-practices-for-a-new-go-developer-8660384302fc#.q3yzzxiur
 
 http://stackoverflow.com/questions/11634809/twitter-bootstrap-focus-on-textarea-inside-a-modal-on-click
