@@ -97,7 +97,7 @@
        * [Gomon: Monitor Your Go Script](programming/gomon_monitor_your_go_script.md)
        * [Go & Sublime](programming/go_&_sublime.md)
        * [Go Tour](programming/go_tour.md)
-       * Using Go Multiple Return to Swap Strings
+       * [Using Go Multiple Return to Swap Strings](programming/using_go_multiple_return_to_swap_strings.md)
    * [Phoenix Framework](programming/phoenix_framework.md)
    * [Codility](programming/codility.md)
        * [Binary Gap](programming/binary_gap.md)
