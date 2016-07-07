@@ -23,3 +23,7 @@ function solution($N) {
 }
 ```
 
+```go
+package 
+```
+
