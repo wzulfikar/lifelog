@@ -99,7 +99,7 @@
        * [Go Tour](programming/go_tour.md)
        * [Using Go Multiple Return to Swap Strings](programming/using_go_multiple_return_to_swap_strings.md)
        * [Detecting OS Using Built-in Function](programming/detecting_os_using_built-in_function.md)
-       * Go Struct
+       * [Go Struct](programming/go_struct.md)
    * [Phoenix Framework](programming/phoenix_framework.md)
    * [Codility](programming/codility.md)
        * [Binary Gap](programming/binary_gap.md)
