@@ -92,6 +92,7 @@
        * [Tutorials](programming/resources.md)
    * [Supervisor](programming/supervisor.md)
    * [Go](programming/go.md)
+       * In Go, Interface is Instantiable
    * [Phoenix Framework](programming/phoenix_framework.md)
    * [Codility](programming/codility.md)
        * [Binary Gap](programming/binary_gap.md)
