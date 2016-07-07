@@ -13,4 +13,4 @@ sample schedule:
 $schedule->call(function () {return true;})->everyMinute()->thenPing('http://requestb.in/1cs75qz1');
 ```
 
-*Do you know why, sometimes, the cron eats CPU?*
+*Do you know what makes the cron eats CPU?*
