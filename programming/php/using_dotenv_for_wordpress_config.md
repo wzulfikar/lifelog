@@ -1,2 +1,2 @@
-# Using DotEnv for Wordpress Site
+# Using DotEnv for Wordpress Config
 
