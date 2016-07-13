@@ -105,6 +105,7 @@
    * [Phoenix Framework](programming/phoenix_framework.md)
    * [Codility](programming/codility.md)
        * [Binary Gap](programming/binary_gap.md)
+   * Wordpress
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
