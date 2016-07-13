@@ -58,7 +58,6 @@
        * [Laravel Nested Query in Eloquent](programming/php/laravel_nested_query_in_eloquent.md)
        * [Laravel : Channels & Subscribers](programming/php/laravel__channels_&_subscribers.md)
        * [Laravel Cron](programming/php/laravel_cron.md)
-       * [Using DotEnv for Wordpress Config](programming/php/using_dotenv_for_wordpress_config.md)
    * [Building New Feature : What I used to do.](programming/buildingnew_feature_what_i_used_to_do_md.md)
    * [Working with Datatables](programming/working_with_datatables.md)
    * [Random Stuff Related to Programming](programming/random_stuff_related_to_programming.md)
@@ -106,6 +105,7 @@
    * [Codility](programming/codility.md)
        * [Binary Gap](programming/binary_gap.md)
    * Wordpress
+* [Using DotEnv for Wordpress Config](programming/php/using_dotenv_for_wordpress_config.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
