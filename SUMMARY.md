@@ -104,7 +104,7 @@
    * [Phoenix Framework](programming/phoenix_framework.md)
    * [Codility](programming/codility.md)
        * [Binary Gap](programming/binary_gap.md)
-   * Wordpress
+   * [Wordpress](programming/wordpress.md)
 * [Using DotEnv for Wordpress Config](programming/php/using_dotenv_for_wordpress_config.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
