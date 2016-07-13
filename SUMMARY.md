@@ -58,6 +58,7 @@
        * [Laravel Nested Query in Eloquent](programming/php/laravel_nested_query_in_eloquent.md)
        * [Laravel : Channels & Subscribers](programming/php/laravel__channels_&_subscribers.md)
        * [Laravel Cron](programming/php/laravel_cron.md)
+       * Using DotEnv for Wordpress Site
    * [Building New Feature : What I used to do.](programming/buildingnew_feature_what_i_used_to_do_md.md)
    * [Working with Datatables](programming/working_with_datatables.md)
    * [Random Stuff Related to Programming](programming/random_stuff_related_to_programming.md)
