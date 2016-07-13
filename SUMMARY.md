@@ -106,7 +106,6 @@
        * [Binary Gap](programming/binary_gap.md)
    * [Wordpress](programming/wordpress.md)
        * [Using DotEnv for Wordpress Config](programming/php/using_dotenv_for_wordpress_config.md)
-       * d
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
 * [Learning Process](learning_process/README.md)
