@@ -42,7 +42,8 @@ We arrived at hatyai around 11
 
 Arrived at pattani downtown around 17.00, the place of mas faris. There's another guy there, mas imam who's also indonesian, tulung agung to be exact.
 
-Another paprik rice for dinner
+Another paprik rice for dinner:
+
 ![Thailand Paprik](../images/thailand-paprik.jpeg)
 
 *to be continued..*
