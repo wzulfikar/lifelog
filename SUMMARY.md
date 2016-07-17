@@ -108,7 +108,7 @@
        * [Binary Gap](programming/binary_gap.md)
 * [Personal](personal/README.md)
    * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
-   * My First Trip to Thailand
+   * [My First Trip to Thailand](personal/my_first_trip_to_thailand.md)
 * [Learning Process](learning_process/README.md)
    * [How to Be Assertive](learning_process/how_to_be_assertive_md.md)
    * [How to Manage Word Barriers](learning_process/how_to_manage_word_barriers.md)
