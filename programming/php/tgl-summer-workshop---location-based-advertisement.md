@@ -2,7 +2,9 @@
 
 ## Tables
 
-* `mappables` -- Polymorphic relation with mappable objects
+* `mappables` 
+
+  This table uses polymorphic relation to store all mappable objects.
 
   * `mappable_id`
   * `mappable_type`
