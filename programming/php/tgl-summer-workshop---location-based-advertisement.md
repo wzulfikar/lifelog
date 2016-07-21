@@ -26,7 +26,8 @@
 
 * `Mappable`
 
-  * `[Collection] static nearby($lat, $long, $dist = 500)`
+  * `[Collection] static nearby($lat, $long, $dist = 500)`  
+    Search mappable objects which are _nearby_ given `lat`, `long` and `dist`. 
 
 * `Ad`
 
@@ -37,7 +38,7 @@
 
   Display locations added by user
 
-* **POST** `/{username}` 
+* **POST** `/{username}`
 
   Create new location.
 
@@ -49,7 +50,7 @@
   * `desc` : description for the location.
 
 
-* **GET** `/nearby` 
+* **GET** `/nearby`
 
   Fetch JSON of nearby locations.
 
@@ -58,8 +59,5 @@
   * `long` : longitude of current location
   * `lat` : latitude of current location
   * `dist` : distance between current location and nearby in meter
-
-
-
 
 
