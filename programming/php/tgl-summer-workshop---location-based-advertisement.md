@@ -35,15 +35,20 @@
 
 * **GET** `/{username}` : display locations added by user
 
-* **POST** `/{username}` : create new location. Params required:
+* **POST** `/{username}` : create new location. 
 
+  _Params:_
   * `long` : longitude of the location
   * `lat` : latitude of the location
   * `name` : location's name
   * `desc` : description for the location.
 
-* **GET** `/nearby` : fetch JSON of nearby locations. Params required:
 
+* **GET** `/nearby` : fetch JSON of nearby locations. 
+
+  _Params:_
   * `long` : longitude of current location
   * `lat` : latitude of current location
   * `dist` : distance between current location and nearby in meter
+
+
