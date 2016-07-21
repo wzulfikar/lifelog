@@ -20,7 +20,7 @@
 * `MappableInterface` : all mappable objects must implement this interface, which contains 2 methods:
   * `[string] getTitle()`
   * `[string] getDesc()`
-    ## 
+
 
 ## Models
 
@@ -33,9 +33,13 @@
 
 ## Routes
 
-* **GET** `/{username}` : display locations added by user
+* **GET** `/{username}`
 
-* **POST** `/{username}` : create new location.
+  Display locations added by user
+
+* **POST** `/{username}` 
+
+  Create new location.
 
   _Params:_
 
@@ -45,12 +49,17 @@
   * `desc` : description for the location.
 
 
-* **GET** `/nearby` : fetch JSON of nearby locations.
+* **GET** `/nearby` 
+
+  Fetch JSON of nearby locations.
 
   _Params:_
 
   * `long` : longitude of current location
   * `lat` : latitude of current location
   * `dist` : distance between current location and nearby in meter
+
+
+
 
 
