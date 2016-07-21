@@ -2,7 +2,7 @@
 
 ## Tables
 
-* `mappables` 
+* `mappables`
 
   This table uses polymorphic relation to store all mappable objects.
 
@@ -39,7 +39,7 @@
 
 * **GET** `/{username}`
 
-  Display locations added by user
+  Fetch JSON of locations added by user.
 
 * **POST** `/{username}`
 
