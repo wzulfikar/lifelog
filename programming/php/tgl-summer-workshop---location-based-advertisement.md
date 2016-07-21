@@ -17,9 +17,10 @@
 
 ## Interfaces
 
-* `MappableInterface` : all mappable objects must implement this interface, which contains 2 methods:
-  * `[string] getTitle()`
-  * `[string] getDesc()`
+* `MappableInterface` 
+  All mappable objects must implement this interface. The interface contains 2 methods:
+  * `getTitle()`
+  * `getDesc()`
 
 
 ## Models
