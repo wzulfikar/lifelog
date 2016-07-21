@@ -61,3 +61,7 @@
   * `dist` : distance between current location and nearby in meter
 
 
+## Authentication
+
+Users can login via oAuth provider like Facebook, GitHub, Twitter, etc. ATM, users can only login via FB.
+
