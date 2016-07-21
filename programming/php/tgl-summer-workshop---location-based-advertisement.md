@@ -66,5 +66,5 @@
 
 ## Authentication
 
-Users can login via oAuth provider like Facebook, GitHub, Twitter, etc. ATM, users can only login via FB.
+Users can login via oAuth provider like Facebook, GitHub, Twitter, etc. At the moment, users can only login via FB.
 
