@@ -68,3 +68,7 @@
 
 Users can login via oAuth provider like Facebook, GitHub, Twitter, etc. At the moment, users can only login via FB.
 
+
+
+use http:\/\/www.latlong.net to find lat & long of nearby
+
