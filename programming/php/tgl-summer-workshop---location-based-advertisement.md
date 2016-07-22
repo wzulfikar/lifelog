@@ -8,8 +8,8 @@
 
   * `mappable_id`
   * `mappable_type`
-  * `long`
   * `lat`
+  * `lng`
 
 * `ads`
 
@@ -47,8 +47,8 @@
 
   _Params:_
 
-  * `long` : longitude of the location
   * `lat` : latitude of the location
+  * `lng` : longitude of the location
   * `name` : location's name
   * `desc` : description for the location.
 
