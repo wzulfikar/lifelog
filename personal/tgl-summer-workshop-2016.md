@@ -24,7 +24,11 @@ The talk about agile & scrum, that's cool. When doing sprint myself, I and my te
 
 ***5. What have you gained from this experience?***
 
-I gained a lot, social & technical wise. The diverse participants attract me to challenge my communication skill, while the technical workshops keep me updated with current industry situation.
+I gained a lot, social & technical wise. 
+
+The diverse participants attract me to challenge my communication skill, while the technical workshops keep me updated with current industry situation. 
+
+Nothing better than getting updated and having more friends at the same time. 
 
 ***6. Do you like Penang and why do you like it?***
 
