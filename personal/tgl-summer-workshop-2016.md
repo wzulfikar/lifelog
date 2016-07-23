@@ -11,4 +11,4 @@
 ***What have you gained from this experience?***
 
 ***Do you like Penang and why do you like it?***
-This is my first time visiting Penang, and by far, I like Penang in a way that it has so many industry. For students like me, with the help of CREST, it can be center of self-development process.
+This is my first time visiting Penang, and by far, I like Penang in a way that it has so many industry. For students like me, with the help of CREST, it can be center of self-development process. 
