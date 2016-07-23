@@ -28,6 +28,8 @@ I gained a lot, social & technical wise.
 
 The diverse participants attract me to challenge my communication skill, while the technical workshops keep me updated with current industry situation. 
 
+The technical workshops delivered by top-notch engineers in their respective company.
+
 Nothing better than getting updated and having more friends at the same time. 
 
 ***6. Do you like Penang and why do you like it?***
