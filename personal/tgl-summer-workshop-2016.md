@@ -1,6 +1,6 @@
 > TGL stands for **The Great Lab**. 
 
-***Why did you decide to join TGL Summer Workshop?***f
+***Why did you decide to join TGL Summer Workshop?***
 
 To see if I can get more friends, associates & learn something new.
 
