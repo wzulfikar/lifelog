@@ -2,7 +2,7 @@
 
 ***Why did you decide to join TGL Summer Workshop?***
 
-To see if I can get more friends, associates & learn something new. Honestly, I'm
+To see if I can get more friends, associates & learn something new. And to see if I can get opportunity to visit any industry in Penang (and yes, I got it).
 
 ***What's your opinion of the company visits? Where did you go and what did you do?***
 
