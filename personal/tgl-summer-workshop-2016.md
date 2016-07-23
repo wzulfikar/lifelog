@@ -18,7 +18,7 @@ The talk sessions are, awesome. I've got knowledge about what is CREST, UST Glob
 
 ***What have you gained from this experience?***
 
-I gained a lot, social & technical wise. The diverse participants attract me to challenged my communication skill, while keeping me balanced with technical skill provided in the sessions.
+I gained a lot, social & technical wise. The diverse participants attract me to challenge my communication skill, while keeping me balanced with technical skill provided in the sessions.
 
 ***Do you like Penang and why do you like it?***
 
