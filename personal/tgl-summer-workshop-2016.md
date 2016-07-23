@@ -6,7 +6,7 @@ To see if I can get more friends, associates & learn something new. And to see i
 
 ***What's your opinion of the company visits? Where did you go and what did you do?***
 
-I go to ViTrox for company visit. I'm grateful that I visit ViTrox. Now I know about machine vision and how vital is it role in IT industry.
+I go to ViTrox for company visit. I'm grateful that I visit ViTrox. Now I know about machine vision and how vital is its role in IT industry.
 
 ***What's your opinion of the technical workshop? Did you enjoyed it, and why?***
 
