@@ -76,7 +76,7 @@ Currently the provided seed is for ads nearby USM area. To generate new seed, us
 
 ## Possible Features
 
-- ***Dynamic Markers***
+- ***Better Dynamic Markers***
     - Diff current markers againts fetched data & update its informations when necessary
     - Remove expired or deleted markers
     - Display address of each marker via reverse geocode
