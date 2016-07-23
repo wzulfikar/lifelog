@@ -77,6 +77,8 @@ Currently the provided seed is for ads nearby USM area. To generate new seed, us
 ## Possible Features
 
 - Remove expired or deleted markers
-asdfas
-asdfas
+- ***Dynamic Markers***
+
+    Diff current markers againts fetched data & update its informations when necessary
+
 
