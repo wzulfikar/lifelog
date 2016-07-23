@@ -8,6 +8,8 @@
 
 ***What's your opinion of the talk session? Which of the talk that you like and why?***
 
+The talk sessions are, awesome. I've got knowledge about what is CREST, UST Global, etc which indeed, opened my mind about industry related stuffs.
+
 ***What have you gained from this experience?***
 
 I gained a lot, social & technical wise. The diverse participants attract me to challenged my communication skill, while keeping me balanced with technical skill provided in the sessions.
