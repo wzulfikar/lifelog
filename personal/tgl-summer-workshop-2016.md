@@ -2,6 +2,8 @@
 
 ***Why did you decide to join TGL Summer Workshop?***f
 
+To see if I can get more friends, associates & learn something new.
+
 ***What's your opinion of the company visits? Where did you go and what did you do?***
 
 The company visits are
