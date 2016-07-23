@@ -14,7 +14,7 @@ The technical workshop, the arduino is very interesting. It managed to *seduce* 
 
 ***What's your opinion of the talk session? Which of the talk that you like and why?***
 
-The talk sessions are, awesome. I got knowledge about what is CREST, UST Global, etc which indeed, opened my mind about industry related stuffs. And the talk about agile, that's cool. 
+The talk sessions are, awesome. I got knowledge about what is CREST, UST Global, etc which indeed, opened my mind about industry related stuffs. The talk about agile & scrum, that's cool. 
 
 ***What have you gained from this experience?***
 
