@@ -10,7 +10,7 @@ I go to ViTrox for company visit. I'm grateful that I visit ViTrox. Now I know a
 
 ***3. What's your opinion of the technical workshop? Did you enjoyed it, and why?***
 
-The technical workshop, the arduino is very interesting. It managed to *seduce* me to learn more about it. The CATiA session has so much awesomeness. It helps develop the betterment of community, a lot.
+The technical workshop, the arduino is very interesting. It managed to *seduce* me to learn more about it. The CATiA session has so much awesomeness. It helps develop the betterment of community, a lot. 
 
 ***4.What's your opinion of the talk session? Which of the talk that you like and why?***
 
