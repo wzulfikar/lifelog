@@ -6,7 +6,7 @@
 
 ***What's your opinion of the technical workshop? Did you enjoyed it, and why?***
 
-
+The technical workshop, especially for arduino is very interesting. It managed to *seduce* me to learn more about it.
 
 ***What's your opinion of the talk session? Which of the talk that you like and why?***
 
