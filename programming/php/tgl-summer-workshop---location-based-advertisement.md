@@ -70,11 +70,13 @@ Users can login via oAuth provider like Facebook, GitHub, Twitter, etc. At the m
 
 use http:\/\/www.latlong.net to find lat & long of nearby
 
-
-
 ## Seeding
 
 Currently the provided seed is for ads nearby USM area. To generate new seed, use `php artisan db:seed`
 
 ## Possible Features
-- Remove *expired* or *deleted* markers
+
+- Remove expired or deleted markers
+asdfas
+asdfas
+
