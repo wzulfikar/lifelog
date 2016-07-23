@@ -18,7 +18,7 @@ The talk sessions are, awesome. I got knowledge about what is CREST, UST Global,
 
 I didn't know about CREST before. But now, yeah, CREST does a lot of interesting stuffs. 
 
-The talk about agile & scrum, that's cool. When doing sprint myself, I and my team often have problem with one of the scrum key, *transparency*.
+The talk about agile & scrum, that's cool. When doing sprint myself, I and my team often have problem with one of the scrum key, *transparency*. The speaker told us some tricks to overcome this problem, as what his team did in Intel.
 
 ***5. What have you gained from this experience?***
 
