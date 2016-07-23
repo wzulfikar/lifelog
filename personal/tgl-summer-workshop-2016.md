@@ -34,4 +34,4 @@ Nothing better than getting updated and having more friends at the same time.
 
 This is my first time visiting Penang, and by far, I like Penang in a way that it has so many industry. For students like me, with the help of CREST, it can be the center of self-development process and a must-visit place.
 
-If someone asked me whether he should visit Penang or not, I'll undoubtedly said, "Yes, you should!". 
+If someone asked me whether he should visit Penang or not, moreover to attend CREST events, I'll undoubtedly said, "Yes, you should!". 
