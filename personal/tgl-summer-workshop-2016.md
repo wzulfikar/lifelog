@@ -4,6 +4,9 @@
 
 ***What's your opinion of the company visits? Where did you go and what did you do?***
 
+The company visits are
+i go to ViTrox.
+
 ***What's your opinion of the technical workshop? Did you enjoyed it, and why?***
 
 The technical workshop, especially for arduino is very interesting. It managed to *seduce* me to learn more about it.
