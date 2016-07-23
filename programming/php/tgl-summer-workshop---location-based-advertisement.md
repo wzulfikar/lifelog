@@ -77,4 +77,4 @@ use http:\/\/www.latlong.net to find lat & long of nearby
 Currently the provided seed is for ads nearby USM area. To generate new seed, use `php artisan db:seed`
 
 ## Possible Features
-- Remove marker if it's no more available in fetched data
+- Remove *expired* or *deleted* markers
