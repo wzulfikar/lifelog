@@ -28,7 +28,7 @@ I gained a lot, social & technical wise.
 
 The diverse participants attract me to challenge my communication skill, while the technical workshops keep me updated with current industry situation. 
 
-The technical workshops delivered by top-notch engineers in their respective company.
+The participants came from various cool universities around Malaysia. And The technical workshops delivered by top-notch engineers in their respective company.
 
 Nothing better than getting updated and having more friends at the same time. 
 
