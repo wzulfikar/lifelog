@@ -4,6 +4,7 @@ Just started playing around with Ruby, and this is what I did after reading some
 
 A basic console app to demonstrate the use of ruby `hash` to lookup city code based on given city name.
 
+asdfa
 ```ruby
 dial_book = { 
     "newyork" => "212", 
