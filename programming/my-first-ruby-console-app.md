@@ -41,4 +41,7 @@ loop do
 end
 ```
 
+## Screenshot
+[](../../images/city_code_console.png)
+
 ## Still want more?
