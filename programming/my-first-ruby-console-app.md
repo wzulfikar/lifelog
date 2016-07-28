@@ -21,7 +21,8 @@ end
 
 loop do 
     cities = get_city_names(dial_book) 
-    puts "Choose city from list to lookup its code:" puts cities.join "\n"
+    puts "Choose city from list to lookup its code:" 
+    puts cities.join "\n"
      
     answer = gets.chomp
      
