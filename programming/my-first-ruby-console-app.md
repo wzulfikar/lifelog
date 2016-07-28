@@ -8,7 +8,7 @@ To run the program, you've to install `ruby` in your computer. If you're not sur
 
 Then, put below code to a file named (for example) `city_code.rb` and execute the file `ruby /path/to/city_code.rb`.
 
-### The Code
+## The Code
 ```ruby
 dial_book = { 
     "newyork" => "212", 
@@ -40,3 +40,5 @@ loop do
     end
 end
 ```
+
+## Still want more?
