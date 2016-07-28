@@ -6,8 +6,9 @@ A basic console app to demonstrate the use of ruby `hash` to lookup city code ba
 
 To run the program, you've to install `ruby` in your computer. If you're not sure, just open your terminal/shell/cmd and issue this command `ruby -v`. If `ruby` is installed, the command will display version of your `ruby`. 
 
-Then, put below code to a file named (for example) `city_code.rb`. 
-asdf
+Then, put below code to a file named (for example) `city_code.rb` and execute the file `ruby /path/to/city_code.rb`.
+
+### The Code
 ```ruby
 dial_book = { 
     "newyork" => "212", 
