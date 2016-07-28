@@ -8,5 +8,5 @@ _Between the "I cauth it" and "I sought it" stages, dreams don't die -- they fad
 
 _It takes hunger, tenacity, and commitment to a dream through until it becomes reality._
 
-
+_**Once you discover your dream, go after it.**_
 
