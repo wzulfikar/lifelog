@@ -72,6 +72,8 @@
         * [Hadoop Up and Running](programming/hadoop_up_and_running.md)
         * [Basic Servlet Form](programming/basic_servlet_form.md)
         * [Up and Running with Spring MVC](programming/up_and_running_with_spring_mvc.md)
+    * Ruby
+        * [My First Ruby Console App](programming/my-first-ruby-console-app.md)
     * [Rails](programming/rails.md)
         * [Tutorials](programming/resources.md)
     * [Wordpress](programming/wordpress.md)
@@ -106,8 +108,7 @@
     * [Personal Code Camp](programming/personal_code_camp.md)
     * [Supervisor](programming/supervisor.md)
     * [Phoenix Framework](programming/phoenix_framework.md)
-    * [Codility](programming/codility.md)
-        * [Binary Gap](programming/binary_gap.md)
+    * Ruby
 * [Personal](personal/README.md)
     * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
     * [My First Trip to Thailand](personal/my_first_trip_to_thailand.md)
