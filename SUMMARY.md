@@ -130,6 +130,7 @@
     * [Photoshop : The Basic](learning_process/photoshop__the_basic.md)
     * [The 4 Degrees of People](learning_process/the_4_degrees_of_people.md)
     * [Information  Retrieval Technology](learning_process/information_retrieval_technology.md)
+    * [Quotes from "3 Things Successful People Do"](learning_process/quotes-from-3-things-successful-people-do.md)
 * [Draft](draft/README.md)
     * [Interpersonal Communication](draft/interpersonal_communication.md)
     * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
