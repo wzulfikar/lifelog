@@ -15,7 +15,8 @@ def get_city_names(hash)
     hash.keys
 end
 
-# extract city code names from hash keysdef get_city_code(city_data, city) 
+# extract city code names from hash keys
+def get_city_code(city_data, city) 
     city_data[city]
 end
 
@@ -28,9 +29,9 @@ loop do
      
     if cities.include?(answer) 
         code = get_city_code(dial_book, answer) 
-        puts "The code for #{answer} is #{code}" 
+        puts "\n\nThe code for #{answer} is #{code}\n\n" 
     else 
-        puts "There's no data for city '#{answer}'" 
+        puts "\n\nThere's no data for city '#{answer}'\n\n" 
     end
 end
 ```
