@@ -15,6 +15,7 @@
 - `/var/log/lighttpd/` : Lighttpd access and error logs directory
 - `/var/log/boot.log` : System boot log
 - `/var/log/mysqld.log` : MySQL database server log file
-- `/var/log/secure or` /var/log/auth.log : Authentication log
-- `/var/log/utmp or` /var/log/wtmp : Login records file
+- `/var/log/secure or `/var/log/auth.log` : Authentication log
+- `/var/log/utmp or `/var/log/wtmp` : Login records file
 - `/var/log/yum.log` : Yum command log file.
+- `/var/log/anaconda.log` : all installation related messages
