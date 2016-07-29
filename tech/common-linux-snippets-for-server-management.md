@@ -3,9 +3,6 @@
 * _Clean log file. For example, we'll clean error log of httpd \(apache\) server:_
 
   `> /var/log/httpd/error_log`
-- _View common log file:_  
-
-    `cat /var/log/messages`
 
 ## Common Log Files
 - `/var/log/messages` : General message and system related stuff
