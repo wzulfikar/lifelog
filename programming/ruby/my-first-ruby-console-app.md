@@ -49,3 +49,5 @@ end
 ## Still want more?
 
 Let's explain what happens in the code. 
+
+The `dial_book` variable is a ruby hash, where we can store pairs of key & value. In ruby, the `=>` inside hash can be referred as _hash rocket_.
