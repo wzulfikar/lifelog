@@ -7,7 +7,7 @@
 
     `tail -f /path/to/file`
 
-- _Using `motd` (Message of The Day):_
+- _Customizing `motd` (Message of The Day):_
 
     `echo welcome krishna >> /etc/motd`
 ## Common Log Files
