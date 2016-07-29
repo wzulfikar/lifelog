@@ -56,6 +56,8 @@ Method in ruby started with `def methodname(param)` keyword and ended with `end`
 
 In above code, we defined a method called `get_city_names` which accepts single parameter called `hash`.
 
+Unless we want to break out early, we don't need to write `return` keyword. Ruby _returns_ the last evaluated expression automatically.
+
 > `cities.include?` – _notice the question mark there_. 
 
 This is a _**convention**_ in ruby world. Method that returns boolean will have quesetion mark (`?`) at the end of its name.
