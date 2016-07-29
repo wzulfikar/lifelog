@@ -21,6 +21,7 @@
     * [Case Study : ARI Fleet Management](tech/case_study__ari_fleet_management.md)
     * [Case Study : American Water Keeps Data Flowing](tech/case_study__american_water_keeps_data_flowing.md)
     * [SAP HANA](tech/sap_hana.md)
+    * [Common Linux Snippets for Server Management](tech/common-linux-snippets-for-server-management.md)
 * [Programming](programming/README.md)
     * [JavaScript \(JS\)](programming/js/README.md)
         * [JavaScript Lingo](programming/js/javascript_lingo.md)
