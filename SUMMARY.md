@@ -75,7 +75,7 @@
         * [Basic Servlet Form](programming/basic_servlet_form.md)
         * [Up and Running with Spring MVC](programming/up_and_running_with_spring_mvc.md)
     * Ruby
-        * [My First Ruby Console App](programming/my-first-ruby-console-app.md)
+        * [My First Ruby Console App](programming/ruby/my-first-ruby-console-app.md)
     * [Rails](programming/rails.md)
         * [Tutorials](programming/resources.md)
     * [Wordpress](programming/wordpress.md)
