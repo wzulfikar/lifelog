@@ -7,6 +7,9 @@
 
     `tail -f /path/to/file`
 
+- _Using `motd` (Message of The Day):_
+
+    `echo welcome krishna >> /etc/motd`
 ## Common Log Files
 - `/var/log/messages` : General message and system related stuff
 - `/var/log/auth.log` : Authenication logs
