@@ -10,6 +10,11 @@
 - _Customizing `motd` (Message of The Day):_
 
     `echo welcome krishna >> /etc/motd`
+
+- _Display list of cron jobs for current user_
+
+    `crontab -l`
+
 ## Common Log Files
 - `/var/log/messages` : General message and system related stuff
 - `/var/log/auth.log` : Authenication logs
