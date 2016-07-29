@@ -52,9 +52,11 @@ Let's explain what happens in the code.
 
 The `dial_book` variable is a ruby hash, where we can store pairs of key & value. In ruby, the `=>` inside hash can be referred as _hash rocket_.
 
+
+
 > `cities.include?` – _notice the question mark there_. 
 
 This is a _**convention**_ in ruby world. Method that returns boolean will have quesetion mark (`?`) at the end of its name.
 
-We can also omit the bracket there. So, instead of writing `cities.include?(answer)` we can write `cities.include? answer`. Whichever we feel comfortable. Nice isn't it?
+When calling a method, we can omit the bracket for parameter. So, instead of writing `cities.include?(answer)` we can write `cities.include? answer`. Whichever we feel comfortable. Nice isn't it?
 
