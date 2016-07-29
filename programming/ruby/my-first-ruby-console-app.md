@@ -52,7 +52,9 @@ Let's explain what happens in the code.
 
 The `dial_book` variable is a ruby hash, where we can store pairs of key & value. In ruby, the `=>` inside hash can be referred as _hash rocket_.
 
-Method in ruby started with `def` keyword and ended with `end` keyword.
+Method in ruby started with `def methodname(param)` keyword and ended with `end` keyword.
+
+In above code, we defined a method called `get_city_names` which accepts single parameter called `hash`.
 
 > `cities.include?` – _notice the question mark there_. 
 
