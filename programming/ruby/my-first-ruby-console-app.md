@@ -52,8 +52,6 @@ Let's explain what happens in the code.
 
 The `dial_book` variable is a ruby hash, where we can store pairs of key & value. In ruby, the `=>` inside hash can be referred as _hash rocket_.
 
-
-
 > `cities.include?` – _notice the question mark there_. 
 
 This is a _**convention**_ in ruby world. Method that returns boolean will have quesetion mark (`?`) at the end of its name.
