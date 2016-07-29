@@ -13,7 +13,7 @@ Then, put below code to a file named \(for example\) `city_code.rb` and execute 
 ```ruby
 dial_book = { 
     "newyork" => "212", 
-    "edison" => "908"
+    "edison"  => "908"
 }
 
 # extract city names from hash keys
@@ -48,3 +48,4 @@ end
 
 ## Still want more?
 
+Let's explain what happens in the code. 
