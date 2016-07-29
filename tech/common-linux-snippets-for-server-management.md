@@ -1,8 +1,11 @@
 # Common Linux Snippets for Server Management
 
-* _Clean log file. For example, we'll clean error log of httpd \(apache\) server:_
+- _Clean log file. For example, we'll clean error log of httpd \(apache\) server:_
 
   `> /var/log/httpd/error_log`
+- _View content of file in real-time (stream):_ 
+
+    `tail -f /path/to/file`
 
 ## Common Log Files
 - `/var/log/messages` : General message and system related stuff
