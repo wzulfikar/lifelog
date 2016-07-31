@@ -1,4 +1,5 @@
 # From Maverick to El Capitan
+>Monday, 1 August 2016 at 4:04:10 AM.
 
 After approximately 2 years with OSX Maverick, I decided to upgrade to El Capitan. You know, because of all thus app compatibility issues.
 
