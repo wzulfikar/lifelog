@@ -23,6 +23,7 @@
     * [SAP HANA](tech/sap_hana.md)
     * [Common Linux Snippets for Server Management](tech/common-linux-snippets-for-server-management.md)
     * [REST API](tech/rest-api.md)
+    * [From Maverick to El Capitan](tech/from-maverick-to-el-capitan.md)
 * [Programming](programming/README.md)
     * [JavaScript \(JS\)](programming/js/README.md)
         * [JavaScript Lingo](programming/js/javascript_lingo.md)
