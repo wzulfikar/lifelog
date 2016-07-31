@@ -11,5 +11,5 @@ Next try, cleaning permissions via **Disk Utility**. What I did was opening the 
 So, by far, I've no regret upgrading my Macbook Air from Maverick to El Capitan. Some of noticable differences are:
 
 - Now I've spotlight with natural language search. The spotlight window is movable also, which is nice :v
-- More free space for my 256 SSD
+- More free space for my 256 SSD. Still not sure why, once I upgraded to El Capitan, I've additional 20 GB.
 - Better memory management & performance (that's what I felt, compared to Maverick)
