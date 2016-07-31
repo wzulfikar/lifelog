@@ -8,8 +8,10 @@ A bit depressed, I tried to surf the web seeking helps. My first shot was to act
 
 Next try, cleaning permissions via **Disk Utility**. What I did was opening the **Disk Utility** app and clicked the **First Aid** button. It tooks a while, around 30 minutes perhaps. But once finished, I realized that my 4 years Macbook Air was *even faster!*
 
-So, by far, I've no regret upgrading my Macbook Air from Maverick to El Capitan. Some of noticable differences are:
+Some of noticable differences are:
 
 - Now I've spotlight with natural language search. The spotlight window is movable also, which is nice :v
 - More free space for my 256 SSD. Still not sure why, but once I upgraded to El Capitan, I've additional 20 GB.
 - Better memory management & performance (that's what I felt, compared to Maverick)
+
+So, by far, I've no regret upgrading my Macbook Air from Maverick to El Capitan. Nice!
