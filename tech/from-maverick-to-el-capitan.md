@@ -14,4 +14,4 @@ Some of noticable differences are:
 - More free space for my 256 SSD. Still not sure why, but once I upgraded to El Capitan, I've additional 20 GB.
 - Better memory management & performance (that's what I felt, compared to Maverick)
 
-So, by far, I've no regret upgrading my Macbook Air from Maverick to El Capitan. Nice!
+So, by far, I've no regret upgrading my Macbook Air from Maverick to El Capitan. Well, I was afraid, but now I felt that El Capitan is snappier than Maverick. **_Nice!_**
