@@ -8,3 +8,4 @@ A bit depressed, I tried to surf the web seeking helps. My first shot was to act
 
 Next try, cleaning permissions via **Disk Utility**. What I did was opening 
 
+[](../images/disk_utility_first_aid.png)
