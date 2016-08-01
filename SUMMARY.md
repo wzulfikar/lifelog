@@ -77,6 +77,7 @@
         * [Up and Running with Spring MVC](programming/up_and_running_with_spring_mvc.md)
     * Ruby
         * [My First Ruby Console App](programming/ruby/my-first-ruby-console-app.md)
+        * [The Ruby Class](programming/ruby/the_ruby_class.md)
     * [Rails](programming/rails.md)
         * [Tutorials](programming/resources.md)
     * [Wordpress](programming/wordpress.md)
