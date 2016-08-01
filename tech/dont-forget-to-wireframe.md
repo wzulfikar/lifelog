@@ -7,3 +7,7 @@ Mockup or wireframe will help a lot to create figures that help us _stick_ to th
 There are some tools we can use for wireframing. [Balsamiq](https://balsamiq.com) is one of the most famous in this field. Simple, fast & easy to use. However, it cost quite a lot.
 
 Another option is to use the open-source GUI prototyping tool, [Pencil](http://pencil.evolus.vn). 
+
+By the way, here is list of notable resources about wireframing, mockup and/or prototyping:
+- http://graphicdesign.stackexchange.com/questions/30860/what-is-the-difference-between-wireframes-and-mockups
+- https://www.uxpin.com/studio/blog/designers-shouldnt-neglect-mockups/
