@@ -78,6 +78,7 @@
     * Ruby
         * [My First Ruby Console App](programming/ruby/my-first-ruby-console-app.md)
         * [The Ruby Class](programming/ruby/the_ruby_class.md)
+        * [Inheritance](programming/inheritance.md)
     * [Rails](programming/rails.md)
         * [Tutorials](programming/resources.md)
     * [Wordpress](programming/wordpress.md)
