@@ -2,6 +2,9 @@
 
 ```ruby
 class Animal {
+    
+  attr_accessor :name
+
   def initialize(name){
     @name = name
   }
@@ -21,3 +24,5 @@ class Animal {
 ```
 
 Above snippets is example of basic Ruby class.
+
+We use `attr_accesor` to access & mutate instance variable instead of writing getter & setter. 
