@@ -1,7 +1,7 @@
 # The Ruby Class
 
 ```ruby
-class Person {
+class Animal {
   def initialize(name){
     @name = name
   }
@@ -9,6 +9,14 @@ class Person {
   def greet
     puts "Hi there, my name is #{@name}!"
   end
+
+  protected 
+    def protected_method
+    end
+
+  private
+    def private_method
+    end
 }
 ```
 
