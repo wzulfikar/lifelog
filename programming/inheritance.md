@@ -13,7 +13,6 @@ class User
     end
 
   private
-
     def private_method
     end
 end
