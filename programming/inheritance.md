@@ -8,7 +8,6 @@ class User
   end
 
   protected
-
     def protected_method
     end
 
