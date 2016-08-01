@@ -16,12 +16,12 @@ class User
     end
 end
 
-// Buyer inherits User
+# Buyer inherits User
 class Buyer < User
 
 end
 
-// Seller inherits User
+# Seller inherits User
 class Seller < User
 
 end
