@@ -1,13 +1,13 @@
 # The Ruby Class
 
 ```ruby
-class Animal {
+class Animal
     
   attr_accessor :name
 
-  def initialize(name){
+  def initialize(name)
     @name = name
-  }
+  end
 
   def greet
     puts "Hi there, my name is #{@name}!"
@@ -20,7 +20,7 @@ class Animal {
   private
     def private_method
     end
-}
+end
 ```
 
 Above snippet is example of basic Ruby class.
