@@ -13,7 +13,30 @@ sample schedule:
 $schedule->call(function () {return true;})->everyMinute()->thenPing('http://requestb.in/1cs75qz1');
 ```
 
+Code to test schedule:
+
+```php
+/**
+ * put this code inside `schedule` method 
+ * of `app/Console/Kernel.php`
+ */
+
+// build the msg
+$msg = sprintf('Hello from Laravel Task Scheduling! Time is %s.',
+  date('Y-m-d H:i:s (l)')
+);
+
+// create logger
+$logger = function () use ($msg) {
+  \Log::info($msg);
+};
+// call the logger every minute
+$schedule->call($logger)->everyMinute();
+```
+
 to test in your local machine, execute `php artisan schedule:run`
+
+
 
 *Do you know what makes the cron eats CPU?*
 
