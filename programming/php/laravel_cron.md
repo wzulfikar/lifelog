@@ -13,6 +13,8 @@ sample schedule:
 $schedule->call(function () {return true;})->everyMinute()->thenPing('http://requestb.in/1cs75qz1');
 ```
 
+to test in your local machine, issue `php artisan schedule:run`
+
 *Do you know what makes the cron eats CPU?*
 
 ## List Cron Entry
