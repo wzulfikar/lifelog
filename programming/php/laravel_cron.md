@@ -30,6 +30,7 @@ $msg = sprintf('Hello from Laravel Task Scheduling! Time is %s.',
 $logger = function () use ($msg) {
   \Log::info($msg);
 };
+
 // call the logger every minute
 $schedule->call($logger)->everyMinute();
 ```
