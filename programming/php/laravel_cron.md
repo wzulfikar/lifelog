@@ -21,3 +21,4 @@ $schedule->call(function () {return true;})->everyMinute()->thenPing('http://req
 
 
 http://crontab.guru
+http://www.liquidweb.com/kb/how-to-display-list-all-jobs-in-cron-crontab/
