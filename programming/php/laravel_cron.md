@@ -35,7 +35,7 @@ $logger = function () use ($msg) {
 $schedule->call($logger)->everyMinute();
 ```
 
-to test in your local machine, execute `php artisan schedule:run`
+to test in your local machine, execute `php artisan schedule:run`8
 
 
 

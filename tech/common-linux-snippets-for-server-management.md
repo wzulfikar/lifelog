@@ -14,6 +14,9 @@
 - _Display list of cron jobs for current user_
 
     `crontab -l`
+- _Display current machine time_
+
+    `timedatectl`
 
 ## Common Log Files
 - `/var/log/messages` : General message and system related stuff
