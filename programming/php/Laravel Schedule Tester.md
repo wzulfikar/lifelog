@@ -31,3 +31,5 @@ class ScheduleTester extends Command
 - Register above command in `app/Console/Kernel.php` and call it by putting below snippet inside `schedule` method of the `Kernel.php`
 file
 `$schedule->command('schedule:test')->everyMinute();`
+
+- Execute `php artisan schedule:run` and see check your log
