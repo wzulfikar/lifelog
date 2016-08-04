@@ -33,3 +33,4 @@ file
 `$schedule->command('schedule:test')->everyMinute();`
 
 - Execute `php artisan schedule:run` and see check your log
+- If you already set the cron for Task Scheduling, wait for one minute and check again your log to verify if cron is working correctly
