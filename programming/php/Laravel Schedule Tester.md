@@ -1,6 +1,6 @@
 # Laravel Schedule Tester
 
-Save this as file named `ScheduleTester` in `app/Console/Command`.
+Save this snippet as file named `ScheduleTester` in `app/Console/Command`.
 
 ```php
 
