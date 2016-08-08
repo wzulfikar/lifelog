@@ -83,6 +83,7 @@
         * [Module](programming/module.md)
     * [Rails](programming/rails.md)
         * [Tutorials](programming/resources.md)
+        * [From Zero to Hero\(ku\)](programming/from-zero-to-heroku.md)
     * [Wordpress](programming/wordpress.md)
         * [Using DotEnv for Wordpress Config](programming/php/using_dotenv_for_wordpress_config.md)
     * [Go](programming/go.md)
