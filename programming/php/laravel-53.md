@@ -9,4 +9,4 @@
 - better-formatted `gulp watch`
 - `logout` functionality is using `POST` instead of `GET`
 - `abort_unless`
-- 
+- `laravel-echo`
