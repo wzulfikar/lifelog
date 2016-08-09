@@ -7,4 +7,4 @@
 - `routes` is no more in `Http/route.php`. It's now separated in their respective functionality; `routes/web.php` and `routes/api.php`
 - webpack is now used in `gulpfile` by default
 - better-formatted `gulp watch`
-- 
+- `logout` functionality is using `POST` instead of `GET`
