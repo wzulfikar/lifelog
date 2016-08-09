@@ -10,3 +10,4 @@
 - `logout` functionality is using `POST` instead of `GET`
 - `abort_unless`
 - `laravel-echo`
+- full-text search?
