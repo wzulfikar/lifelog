@@ -64,6 +64,7 @@
         * [Laravel : Channels & Subscribers](programming/php/laravel__channels_&_subscribers.md)
         * [Laravel Cron](programming/php/laravel_cron.md)
         * [TGL Summer Workshop - Location Based Advertisement](programming/php/tgl-summer-workshop---location-based-advertisement.md)
+        * [Laravel 5.3](programming/php/laravel-53.md)
     * [NodeJS](programming/nodejs.md)
         * [Auto Re-Run with Nodemon](programming/auto_re-run_with_nodemon.md)
         * [Node Version Manager \(NVM\)](programming/node_version_manager_nvm.md)
