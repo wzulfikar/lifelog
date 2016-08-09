@@ -8,3 +8,5 @@
 - webpack is now used in `gulpfile` by default
 - better-formatted `gulp watch`
 - `logout` functionality is using `POST` instead of `GET`
+- `abort_unless`
+- 
