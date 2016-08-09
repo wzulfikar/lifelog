@@ -4,3 +4,4 @@
 - nice `variable.scss`
 - nice example of vue component
 - you have both `web` and `api` setup out of the box
+- `routes` is no more in `Http/route.php`. It's now separated in their respective functionality; `routes/web.php` and `routes/api.php`
