@@ -19,3 +19,5 @@ elixir(function(mix) {
   mix.phpSpec();
 });
 ```
+
+run `gulp tdd`.
