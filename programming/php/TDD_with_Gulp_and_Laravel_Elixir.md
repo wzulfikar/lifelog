@@ -32,9 +32,6 @@ using `phpspec`, you can start defining ur spec with something this: `phpspec de
 
 run the spec using `phpspec run` and it will create `UserRegistration` class if you have not created it.
 
-by default, `phpspec` will store classes in `src` directory but `laravel-elixir` will watch `app` directory. thus, we used
-
-elixir.config.appPath = 'src';
-
+by default, `phpspec` will store classes in `src` directory but the `gulp tdd` task will watch `Elixir.config.appPath + '/**/*.php', 'tdd'`. since the default `appPath` is `app`, we need to change it to `src` so the `tdd` will be triggered if anything inside `src` changed. to change value of elixir `appPath` to `src`, we used `elixir.config.appPath = 'src';`.
 
 if have problem with phpspec keep asking to create class even it exists, check this: https://github.com/phpspec/phpspec/issues/585
