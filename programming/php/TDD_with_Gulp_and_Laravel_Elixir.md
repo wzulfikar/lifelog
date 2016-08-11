@@ -20,4 +20,7 @@ elixir(function(mix) {
 });
 ```
 
+above example uses `phpspec`. so, install `phpspec` via composer: `composer require phpspec/phpspec`.
+
 run `gulp tdd`.
+
