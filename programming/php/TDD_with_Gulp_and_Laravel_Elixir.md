@@ -13,5 +13,9 @@ isntall `gulp` and `laravel-elixir`
 
 ```js
 // gulpfile.js
+var elixir = require('laravel-elixir');
 
+elixir(function(mix) {
+  mix.phpSpec();
+});
 ```
