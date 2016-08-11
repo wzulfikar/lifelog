@@ -15,6 +15,8 @@ isntall `gulp` and `laravel-elixir`
 // gulpfile.js
 var elixir = require('laravel-elixir');
 
+elixir.config.appPath = 'src';
+
 elixir(function(mix) {
   mix.phpSpec();
 });
@@ -29,5 +31,10 @@ run `gulp tdd`.
 using `phpspec`, you can start defining ur spec with something this: `phpspec describe UserRegistration`
 
 run the spec using `phpspec run` and it will create `UserRegistration` class if you have not created it.
+
+by default, `phpspec` will store classes in `src` directory but `laravel-elixir` will watch `app` directory. thus, we used
+
+elixir.config.appPath = 'src';
+
 
 if have problem with phpspec keep asking to create class even it exists, check this: https://github.com/phpspec/phpspec/issues/585
