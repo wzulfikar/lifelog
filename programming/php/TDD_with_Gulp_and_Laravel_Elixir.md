@@ -29,3 +29,5 @@ run `gulp tdd`.
 using `phpspec`, you can start defining ur spec with something this: `phpspec describe UserRegistration`
 
 run the spec using `phpspec run` and it will create `UserRegistration` class if you have not created it.
+
+if have problem with phpspec keep asking to create class even it exists, check this: https://github.com/phpspec/phpspec/issues/585
