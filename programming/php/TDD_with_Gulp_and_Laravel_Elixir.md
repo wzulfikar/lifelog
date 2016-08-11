@@ -25,3 +25,5 @@ above example uses `phpspec`. so, install `phpspec` via composer: `composer requ
 run `gulp tdd`.
 
 > the `tdd` task is defined by `laravel-elixir`.
+
+using `phpspec`, you can start defining ur spec with something this: `phpspec describe UserRegistration`
