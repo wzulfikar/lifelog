@@ -1,6 +1,6 @@
 # TDD with Gulp and Laravel Elixir
 
-isntall `gulp` and `laravel-elixir`
+install `gulp` and `laravel-elixir`
 ```js
 // package json
 {
