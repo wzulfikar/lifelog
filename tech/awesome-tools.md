@@ -42,7 +42,6 @@ http://graphiteapp.org/quick-start-guides/feeding-metrics.html
 http://apostle.io
 
 
-
 woopra
 
 https://www.woopra.com/case-studies/applovin-lovin-woopra-site-analysis-ability-respond-customers-real-time/
@@ -106,4 +105,23 @@ https://taskulu.com/product/
 
 
 https://wagtail.io
+
+- www.backand.com
+
+- https://saucelabs.com
+
+- https://www.import.io
+
+- https://opbeat.com/pricing/
+
+- https://pagekit.com
+
+- https://clicky.com
+
+- https://www.crazyegg.com
+
+- https://mapjam.com/developer
+
+https://www.groovehq.com/pricing
+
 
