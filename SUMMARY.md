@@ -25,6 +25,7 @@
     * [REST API](tech/rest-api.md)
     * [From Maverick to El Capitan](tech/from-maverick-to-el-capitan.md)
     * [Don't Forget to Wireframe!](tech/dont-forget-to-wireframe.md)
+    * [Awesome Tools](tech/awesome-tools.md)
 * [Programming](programming/README.md)
     * [JavaScript \(JS\)](programming/js/README.md)
         * [JavaScript Lingo](programming/js/javascript_lingo.md)
