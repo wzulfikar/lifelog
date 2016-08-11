@@ -24,3 +24,4 @@ above example uses `phpspec`. so, install `phpspec` via composer: `composer requ
 
 run `gulp tdd`.
 
+> the `tdd` task is defined by `laravel-elixir`.
