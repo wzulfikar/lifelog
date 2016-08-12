@@ -149,6 +149,8 @@ https://www.typeform.com/pricing/
 
 https://ghostinspector.com
 
+https://buddybuild.com
+
 https://www.helpscout.net/pricing/
 
 
