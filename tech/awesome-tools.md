@@ -129,4 +129,8 @@ https://github.com/Mashape/kong/
 
 https://www.distelli.com/continuous-integration
 
+https://www.streak.com/pricing
+
+https://www.vaultproject.io/#/demo/0
+
 
