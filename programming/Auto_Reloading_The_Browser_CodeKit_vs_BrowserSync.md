@@ -12,5 +12,14 @@
 - do ur code, any change will reflect automatically
 
 ## Using BrowserSync (via Laravel Elixir)
-- install browsersync: `
-`npm i laravel-elixir-browsersync-official --save-dev`
+- install browsersync: `npm i laravel-elixir-browsersync-official --save-dev`
+- add `browserSync` method in gulpfile
+```js
+elixir(function(mix) {
+    mix.browserSync({
+      proxy: 'localhost:8000' // location of your app
+    });
+});
+```
+- run your server (for me its laravel): `php artisan serve`
+
