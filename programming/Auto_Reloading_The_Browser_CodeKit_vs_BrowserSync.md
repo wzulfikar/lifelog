@@ -13,3 +13,4 @@
 
 ## Using BrowserSync (via Laravel Elixir)
 - install browsersync: `
+`npm i laravel-elixir-browsersync-official --save-dev`
