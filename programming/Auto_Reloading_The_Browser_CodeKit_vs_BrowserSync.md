@@ -21,5 +21,7 @@ elixir(function(mix) {
     });
 });
 ```
-- run your server (for me its laravel): `php artisan serve`
+- run the server (for me its laravel): `php artisan serve`
+- run browsersync: `gulp watch`
 
+the `gulp watch` will trigger `browserSync` task which in turn opens `localhost:3000` in your browser.
