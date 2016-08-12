@@ -149,3 +149,6 @@ https://www.typeform.com/pricing/
 
 https://ghostinspector.com
 
+https://www.helpscout.net/pricing/
+
+
