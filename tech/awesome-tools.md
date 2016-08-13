@@ -141,6 +141,12 @@ surfly.com
 - web sharing, customer service, co-browsing
 - free tier
 
+https://heapanalytics.com/pricing
+- free tier
+- analytic
+
+https://www.rover.io
+- location-powered mobile engagement
 
 
 
