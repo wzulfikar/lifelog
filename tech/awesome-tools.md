@@ -146,7 +146,8 @@ pubnub.com
 * [https:\/\/github.com\/shipitjs\/shipit](https://github.com/shipitjs/shipit)
 * automation & deployment tool
 
-| Name | Tags | Website | Twitter |  | Free Tier? |
+
+| Name | Tags | Website | Repo | Twitter | Free Tier? |
 | --- | --- | --- | --- | --- | --- |
-| ShipIt | automation, deployment tool | d |  |  | ✔︎ |
+| ShipIt | automation, deployment tool | - |  |  | ✔︎ |
 
