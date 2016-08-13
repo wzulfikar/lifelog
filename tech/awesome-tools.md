@@ -151,3 +151,7 @@ https://www.rover.io
 
 https://www.bitballoon.com/features
 - hosting
+
+https://buffer.com/pricing
+- free tier
+- social media management
