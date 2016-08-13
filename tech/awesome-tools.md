@@ -120,6 +120,11 @@ woopra
 
 [https:\/\/firebase.google.com\/features\/](https://firebase.google.com/features/)
 
+https://deepstream.io/install/osx/
+
+| Name | Tags | Website | Repo | Twitter | Free Tier? |
+| --- | --- | --- | --- | --- | --- |
+| ShipIt | automation, deployment tool | - | | | ✔︎ |
 
 
 
