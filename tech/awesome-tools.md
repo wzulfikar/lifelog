@@ -147,7 +147,3 @@ pubnub.com
 * automation & deployment tool
 
 
-| Name | Tags | Website | Repo | Twitter | Free Tier? |
-| --- | --- | --- | --- | --- | --- |
-| ShipIt | automation, deployment tool | - |  |  | ✔︎ |
-
