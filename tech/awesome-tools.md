@@ -2,206 +2,154 @@
 
 _This is a list of tools that I've been using or interested in using it._
 
-- https://www.photofeeler.com
-- 
+* [https:\/\/www.photofeeler.com](https://www.photofeeler.com)
+* 
 
 netlify.com vs surge.sh
 
-https://medium.com/surge-sh/make-something-of-your-ridiculous-domains-bb26fadeb93c#.ejv66m8zf
+[https:\/\/medium.com\/surge-sh\/make-something-of-your-ridiculous-domains-bb26fadeb93c\#.ejv66m8zf](https://medium.com/surge-sh/make-something-of-your-ridiculous-domains-bb26fadeb93c#.ejv66m8zf)
 
+[https:\/\/jell.com\/pricing](https://jell.com/pricing)
 
+[https:\/\/www.oneskyapp.com\/pricing\/translation-management-system\/](https://www.oneskyapp.com/pricing/translation-management-system/)
 
-https://jell.com/pricing
+[https:\/\/www.mattermost.org](https://www.mattermost.org)
 
+[https:\/\/prestodb.io](https://prestodb.io)
 
+[https:\/\/docs.cesanta.com\/mongoose\/master\/](https://docs.cesanta.com/mongoose/master/)
 
-https://www.oneskyapp.com/pricing/translation-management-system/
+[http:\/\/riotjs.com\/play\/](http://riotjs.com/play/)
 
+[http:\/\/graphiteapp.org\/quick-start-guides\/feeding-metrics.html](http://graphiteapp.org/quick-start-guides/feeding-metrics.html)
 
-
-https://www.mattermost.org
-
-
-
-https://prestodb.io
-
-
-
-https://docs.cesanta.com/mongoose/master/
-
-
-
-http://riotjs.com/play/
-
-
-
-http://graphiteapp.org/quick-start-guides/feeding-metrics.html
-
-
-
-http://apostle.io
-
+[http:\/\/apostle.io](http://apostle.io)
 
 woopra
 
-https://www.woopra.com/case-studies/applovin-lovin-woopra-site-analysis-ability-respond-customers-real-time/
+[https:\/\/www.woopra.com\/case-studies\/applovin-lovin-woopra-site-analysis-ability-respond-customers-real-time\/](https://www.woopra.com/case-studies/applovin-lovin-woopra-site-analysis-ability-respond-customers-real-time/)
 
+[https:\/\/www.terraform.io](https://www.terraform.io)
 
+[http:\/\/www.chartblocks.com\/en\/pricing](http://www.chartblocks.com/en/pricing)
 
-https://www.terraform.io
+[https:\/\/onesignal.com](https://onesignal.com)
 
+[https:\/\/www.contentful.com](https://www.contentful.com)
 
+[https:\/\/smartystreets.com\/pricing\/international](https://smartystreets.com/pricing/international)
 
-http://www.chartblocks.com/en/pricing
+[https:\/\/reviewable.io](https://reviewable.io)
 
+[http:\/\/semantic-ui.com](http://semantic-ui.com)
 
+[https:\/\/greenhouseci.com\/pricing.html](https://greenhouseci.com/pricing.html)
 
-https://onesignal.com
+[http:\/\/petstore.swagger.io\/\#\/](http://petstore.swagger.io/#/)
 
+[http:\/\/buildbot.net\/\#\/framework](http://buildbot.net/#/framework)
 
+[http:\/\/iridakos.com\/2016\/04\/01\/duckrails-guide.html](http://iridakos.com/2016/04/01/duckrails-guide.html)
 
-https://www.contentful.com
+[http:\/\/errbit.com\/\#section-10](http://errbit.com/#section-10)
 
+[https:\/\/www.loggly.com\/plans-and-pricing\/](https://www.loggly.com/plans-and-pricing/)
 
+[https:\/\/taskulu.com\/product\/](https://taskulu.com/product/)
 
-https://smartystreets.com/pricing/international
+[https:\/\/wagtail.io](https://wagtail.io)
 
+* www.backand.com
 
+* [https:\/\/saucelabs.com](https://saucelabs.com)
 
-https://reviewable.io
+* [https:\/\/www.import.io](https://www.import.io)
 
+* [https:\/\/opbeat.com\/pricing\/](https://opbeat.com/pricing/)
 
+* [https:\/\/pagekit.com](https://pagekit.com)
 
-http://semantic-ui.com
+* [https:\/\/clicky.com](https://clicky.com)
 
+* [https:\/\/www.crazyegg.com](https://www.crazyegg.com)
 
+* [https:\/\/mapjam.com\/developer](https://mapjam.com/developer)
 
-https://greenhouseci.com/pricing.html
 
+[https:\/\/www.groovehq.com\/pricing](https://www.groovehq.com/pricing)
 
+[https:\/\/github.com\/Mashape\/kong\/](https://github.com/Mashape/kong/)
 
-http://petstore.swagger.io/#/
+[https:\/\/www.distelli.com\/continuous-integration](https://www.distelli.com/continuous-integration)
 
+[https:\/\/www.streak.com\/pricing](https://www.streak.com/pricing)
 
+[https:\/\/www.vaultproject.io\/\#\/demo\/0](https://www.vaultproject.io/#/demo/0)
 
-http://buildbot.net/#/framework
+[https:\/\/appear.in](https://appear.in)
 
+[https:\/\/piwik.org](https://piwik.org)
 
+[http:\/\/opencv.org](http://opencv.org)
 
-http://iridakos.com/2016/04/01/duckrails-guide.html
+[http:\/\/qunitjs.com](http://qunitjs.com)
 
+[https:\/\/codealike.com](https://codealike.com)
 
+[http:\/\/framework7.io](http://framework7.io)
 
-http://errbit.com/#section-10
+[https:\/\/www.typeform.com\/pricing\/](https://www.typeform.com/pricing/)
 
+[https:\/\/ghostinspector.com](https://ghostinspector.com)
 
+[https:\/\/buddybuild.com](https://buddybuild.com)
 
-https://www.loggly.com/plans-and-pricing/
+[https:\/\/www.helpscout.net\/pricing\/](https://www.helpscout.net/pricing/)
 
+[https:\/\/gist.github.com\/artero\/1236170](https://gist.github.com/artero/1236170)
 
+[http:\/\/firehose.io](http://firehose.io)
 
-https://taskulu.com/product/
+[http:\/\/framerjs.co](http://framerjs.co)
 
+[https:\/\/www.mapbox.com](https://www.mapbox.com)
 
+[https:\/\/www.mapbox.com](https://www.mapbox.com)
 
-https://wagtail.io
+[http:\/\/closeheat.com](http://closeheat.com)
 
-- www.backand.com
+[https:\/\/firebase.google.com\/features\/](https://firebase.google.com/features/)
 
-- https://saucelabs.com
+## Dream Factory
 
-- https://www.import.io
-
-- https://opbeat.com/pricing/
-
-- https://pagekit.com
-
-- https://clicky.com
-
-- https://www.crazyegg.com
-
-- https://mapjam.com/developer
-
-https://www.groovehq.com/pricing
-
-https://github.com/Mashape/kong/
-
-
-https://www.distelli.com/continuous-integration
-
-https://www.streak.com/pricing
-
-https://www.vaultproject.io/#/demo/0
-
-https://appear.in
-
-https://piwik.org
-
-http://opencv.org
-
-http://qunitjs.com
-
-https://codealike.com
-
-http://framework7.io
-
-https://www.typeform.com/pricing/
-
-https://ghostinspector.com
-
-https://buddybuild.com
-
-https://www.helpscout.net/pricing/
-
-https://gist.github.com/artero/1236170
-
-http://firehose.io
-
-http://framerjs.co
-
-https://www.mapbox.com
-
-https://www.mapbox.com
-
-http://closeheat.com
-
-https://firebase.google.com/features/
-
-
-## Dream Factory 
 > turn db into API platform
 
 @ df??
-- https://www.dreamfactory.com
-- https://www.dreamfactory.com/features
-- built on laravel
-- Features
+
+* [https:\/\/www.dreamfactory.com](https://www.dreamfactory.com)
+* [https:\/\/www.dreamfactory.com\/features](https://www.dreamfactory.com/features)
+* built on laravel
+* Features
 
 📔 lkjlkj
-
-
 
 pubnub.com
 
 ## Sky Light
-- @??
-- https://www.skylight.io
-- rails monitoring
+
+* @??
+* [https:\/\/www.skylight.io](https://www.skylight.io)
+* rails monitoring
 
 ## ShipIt
-- https://github.com/shipitjs/shipit
-- automation & deployment tool
+
+* [https:\/\/github.com\/shipitjs\/shipit](https://github.com/shipitjs/shipit)
+* automation & deployment tool
 
 
-
-
-
-
-
-
-
-
-
+| Name | Tags | Website | Twitter | Free Tier? |
+| --- | --- | --- | --- | --- |
+| ShipIt | automation, deployment tool | d |  | ✔︎ |
 
 
 
