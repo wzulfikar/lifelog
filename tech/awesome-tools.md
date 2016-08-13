@@ -122,9 +122,10 @@ woopra
 
 https://deepstream.io/install/osx/
 
+
 | Name | Tags | Website | Repo | Twitter | Free Tier? |
 | --- | --- | --- | --- | --- | --- |
 | ShipIt | automation, deployment tool | - | | | ✔︎ |
-
+| Aha! | product roadmap, manage product portfolio | http://www.aha.io | | | ✔︎ |
 
 
