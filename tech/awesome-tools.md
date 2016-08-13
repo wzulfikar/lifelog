@@ -147,6 +147,6 @@ https://heapanalytics.com/pricing
 
 https://www.rover.io
 - location-powered mobile engagement
-
+- trial mode
 
 
