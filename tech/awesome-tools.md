@@ -162,3 +162,5 @@ https://buffer.com/pricing
 
 https://clearbit.com
 - look up person & company info
+
+- clipboard manager (sublime)
