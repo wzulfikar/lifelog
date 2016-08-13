@@ -171,6 +171,7 @@ https://firebase.google.com/features/
 ## Dream Factory 
 > turn db into API platform
 
+@ df??
 - https://www.dreamfactory.com
 - https://www.dreamfactory.com/features
 - built on laravel
@@ -182,10 +183,14 @@ https://firebase.google.com/features/
 
 pubnub.com
 
+## Sky Light
+- @??
+- https://www.skylight.io
+- rails monitoring
 
-
-
-
+## ShipIt
+- https://github.com/shipitjs/shipit
+- automation & deployment tool
 
 
 
