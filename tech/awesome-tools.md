@@ -155,3 +155,6 @@ https://www.bitballoon.com/features
 https://buffer.com/pricing
 - free tier
 - social media management
+
+https://clearbit.com
+- look up person & company info
