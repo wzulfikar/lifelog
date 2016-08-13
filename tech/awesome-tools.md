@@ -130,6 +130,9 @@ http://mithril.js.org
 | ShipIt | automation, deployment tool | - | | | ✔︎ |
 | Aha! | product roadmap, manage product portfolio | http://www.aha.io | | | ? |
 | Conceptboard | visual online collaboration, live discussion | https://conceptboard.com | | | ✖︎ |
+| [Kayako](https://www.kayako.com/pricing) | visual online collaboration, live discussion | https://conceptboard.com | | | ✖︎ |
+
+
 
 
 
