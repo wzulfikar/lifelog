@@ -171,7 +171,7 @@ https://firebase.google.com/features/
 ## Dream Factory 
 > turn db into API platform
 
-- https://www.dreamfactory.com/features
+- https://www.dreamfactory.com
 - https://www.dreamfactory.com/features
 - built on laravel
 - Features
