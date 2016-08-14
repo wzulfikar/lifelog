@@ -22,7 +22,7 @@
 
 - `gg` back to top
 - `:(line number` go to line number
-- `/(keyword)` go to first match
+- `/(keyword)` go to first match, press `n` to go to next match
 
 
 
