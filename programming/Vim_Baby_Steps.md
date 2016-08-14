@@ -7,3 +7,4 @@ vim-vinegar (must-have):
 - `-` enter vim-vinegar (display current directory)
 - `shift + d` : delete file/directory
 - `d` : create directory
+- `d` : create directory
