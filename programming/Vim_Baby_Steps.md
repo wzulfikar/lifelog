@@ -3,6 +3,7 @@
   - to edit, type in `:e` and then filename
 - store configuration in your `~/.vimrc` file
 
-vim-vinegar : hit `-` to display current directory, etc. (must-have)
-
-
+vim-vinegar (must-have): 
+- hit `-` to display current directory, etc. 
+- shift + d : delete file/directory
+- d : create directory
