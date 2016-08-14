@@ -17,7 +17,7 @@
 - `ctrl + h` go to sidebar
 - `ctrl + k` go to file
 - `:NERDTree` display sidebar
-
+- `:CtrlPBufTag` display tags
 
 
 - `gg` back to top
