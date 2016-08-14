@@ -4,6 +4,6 @@
 - store configuration in your `~/.vimrc` file
 
 vim-vinegar (must-have): 
-- hit `-` to display current directory, etc. 
-- shift + d : delete file/directory
-- d : create directory
+- `-` enter vim-vinegar (display current directory)
+- `shift + d` : delete file/directory
+- `d` : create directory
