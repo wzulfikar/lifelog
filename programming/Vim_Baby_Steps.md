@@ -3,5 +3,6 @@
   - to edit, type in `:e` and then filename
 - store configuration in your `~/.vimrc` file
 
-vim-vinegar : hit `-` to display current directory
+vim-vinegar : hit `-` to display current directory, etc
+
 
