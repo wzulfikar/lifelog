@@ -18,3 +18,9 @@
 - `ctrl + k` go to file
 - `:NERDTree` display sidebar
 
+
+
+
+- `:(line number` go to line number
+- `/(keyword)` go to first match
+
