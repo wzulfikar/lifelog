@@ -9,3 +9,8 @@ vim-vinegar (must-have):
 - `⬆ + d` : delete file/directory
 - `d` : create directory
 - `⬆ + 5` : create directory
+
+nerdtree
+- `ctrl + h` go to sidebar
+- `ctrl + k` go to file
+- `:NERDTree` display sidebar
