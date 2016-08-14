@@ -10,10 +10,11 @@
 - `d` : create directory
 - `⬆ + 5` : create directory
 
+**ctrlp**
+- `ctrl + p` and start fuzzy-search of file/dir
+
 **nerdtree**
 - `ctrl + h` go to sidebar
 - `ctrl + k` go to file
 - `:NERDTree` display sidebar
 
-**ctrlp**
-- `ctrl + p` and start fuzzy-search of file/dir
