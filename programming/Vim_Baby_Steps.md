@@ -4,3 +4,4 @@
 - store configuration in your `~/.vimrc` file
 
 vim-vinegar : hit `-` to display current directory
+
