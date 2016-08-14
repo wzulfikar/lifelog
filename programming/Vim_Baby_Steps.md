@@ -3,6 +3,7 @@
   - to edit, type in `:e` and then filename
 - store configuration in your `~/.vimrc` file
 
+## Plugins
 vim-vinegar (must-have): 
 - `-` enter vim-vinegar (display current directory)
 - `⬆ + d` : delete file/directory
