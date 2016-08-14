@@ -5,6 +5,6 @@
 
 vim-vinegar (must-have): 
 - `-` enter vim-vinegar (display current directory)
-- `shift + d` : delete file/directory
+- `⬆ + d` : delete file/directory
 - `d` : create directory
-- `` : create directory
+- `⬆ + 5` : create directory
