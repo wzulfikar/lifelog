@@ -7,3 +7,4 @@ List of things I used often in SublimeText.
   ![](/gifs/wrapping-selection-in-tag-using-sublime.gif)
 
 
+> in case you are curious about how I made the gifs, see: 
