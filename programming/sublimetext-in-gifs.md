@@ -6,4 +6,9 @@ List of things I used often in SublimeText.
 
   ![](/gifs/wrapping-selection-in-tag-using-sublime.gif)
 
-btw, check this out in case you are curious about how I made the gifs: www.cockos.com/licecap/
+Paste While Respecting Indents: ⇧ + ⌘ + V
+
+---
+check this out in case you are curious about how I made the gifs: http://www.cockos.com/licecap/
+
+and this one is for that floating keyboard cast: https://github.com/keycastr/keycastr
