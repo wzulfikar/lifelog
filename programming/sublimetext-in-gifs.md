@@ -20,3 +20,5 @@ Paste While Respecting Indents: ⇧ + ⌘ + V
 check this out in case you are curious about how I made the gifs: http://www.cockos.com/licecap/
 
 and this one is for the keyboard cast: https://github.com/keycastr/keycastr
+
+similar post: http://www.viget.com/articles/my-overused-sublime-text-keyboard-shortcuts
