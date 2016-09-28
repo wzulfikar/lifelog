@@ -8,3 +8,4 @@ issued this things in her cmd:
 - `git -v` check if git is installed
 - `android` check if android sdk is installed
 
+she said she had "file can be moved" error when she install android sdk. since `android` is not recognized in her cmd, most likely because she didn't set up
