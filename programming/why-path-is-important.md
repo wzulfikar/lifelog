@@ -15,3 +15,5 @@ checked env variables of her laptop, turns out that it has no `ANDROID_HOME`. to
 however, when i run `android`, it encounter "xcopy not recognized" error. after some googling, turns out that it requires additional paths to be added in `PATH`: `%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;`. here is the original thread: http://stackoverflow.com/a/18309881
 
 after adding above path, the `android` command run smoothly without any error.
+
+understanding the concept of environment variable and path is crucial when it comes to setting up development workspace.
