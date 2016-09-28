@@ -1,0 +1,1 @@
+so, i've this friend that wants me to help her install stuffs to develop cordova hybrid mobile app.

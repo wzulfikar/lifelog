@@ -119,6 +119,7 @@
     * [Supervisor](programming/supervisor.md)
     * [Phoenix Framework](programming/phoenix_framework.md)
     * [SublimeText in GIFs](programming/sublimetext-in-gifs.md)
+    * [Why Path is Important](programming/why-path-is-important.md)
 * [Personal](personal/README.md)
     * [From Wordpress to GitBook](personal/from_wordpress_to_gitbook__md.md)
     * [My First Trip to Thailand](personal/my_first_trip_to_thailand.md)
