@@ -8,7 +8,7 @@ issued this things in her cmd:
 - `git -v` check if git is installed
 - `android` check if android sdk is installed
 
-she said she had "file can be moved" error when she install android sdk. since `android` is not recognized in her cmd, most likely because she didn't set up path and environment variables properly. 
+she said she had "file cannot be moved" error when she install android sdk. since `android` is not recognized in her cmd, most likely because she didn't set up path and environment variables properly. 
 
 checked env variables of her laptop, turns out that it has no `ANDROID_HOME`. tools and platform-tools of android sdk are not in `PATH` either. i created `ANDROID_HOME`, add path to platform-tools and tools, and issued `android` in her cmd to verify if it can detect it or not. and yes, it can handle `android` as well as `adb`, `emulate`, etc since i've added it in her system's path.
 
