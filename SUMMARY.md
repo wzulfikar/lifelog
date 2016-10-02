@@ -26,6 +26,7 @@
     * [From Maverick to El Capitan](tech/from-maverick-to-el-capitan.md)
     * [Don't Forget to Wireframe!](tech/dont-forget-to-wireframe.md)
     * [Awesome Tools](tech/awesome-tools.md)
+    * [From Cyberduck to Filezilla, and back to Cyberduck again.](tech/from-cyberduck-to-filezilla-and-back-to-cyberduck-again.md)
 * [Programming](programming/README.md)
     * [JavaScript \(JS\)](programming/js/README.md)
         * [JavaScript Lingo](programming/js/javascript_lingo.md)
