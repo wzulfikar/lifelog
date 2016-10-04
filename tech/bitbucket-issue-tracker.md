@@ -1,12 +1,12 @@
 # Bitbucket Issue Tracker
 
 ### Creating Issue
-- go to repo page
+- go to your repo page
 - click `Issues`
 - click `Create issue` (upper right)
 - upload image/attachment if any
 
-> in this example, we use issue message to structure the issue. so, we can copy the issue message (the list inside blue panel), paste it inside `Description`.
+> in this example, we use issue message to _structure_ our issue: copy issue message and paste it in `Description`.
 
 ![](http://i.giphy.com/26uf0JmpD9i6ETICk.gif)
 
