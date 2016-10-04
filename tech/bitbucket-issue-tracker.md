@@ -8,9 +8,8 @@
 - upload image/attachment if any
 - if necessary, _assign_ the issue to friend, coworker, etc
 
-> in this example, we use issue message to _structure_ our issue: copy issue message and paste it in `Description`.
-
 ![](http://i.giphy.com/26uf0JmpD9i6ETICk.gif)
+> in above example, we used issue message to _structure_ our issue: copy issue message and paste it in `Description`.
 
 ---
 
