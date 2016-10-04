@@ -6,6 +6,7 @@
 > you won't see the `Issues` link if you haven't enable issue tracker.
 - click `Create issue` (upper right)
 - upload image/attachment if any
+- if necessary, _assign_ the issue to friend, coworker, etc
 
 > in this example, we use issue message to _structure_ our issue: copy issue message and paste it in `Description`.
 
