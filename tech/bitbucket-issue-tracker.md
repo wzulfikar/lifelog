@@ -1,16 +1,17 @@
 # Bitbucket Issue Tracker
 
-Enable issue tracker (if you have not):
-
-![](http://i.giphy.com/26uf6uVbs1KcAcyNW.gif)
-
-Create an issue:
+### Creating Issue
 
 ![](http://i.giphy.com/26uf0JmpD9i6ETICk.gif)
 
+_If you haven't enable issue tracker yet, do this:_
+
+![](http://i.giphy.com/26uf6uVbs1KcAcyNW.gif)
+
+
 ---
 
-Example of what I put as message in Bitbucket issue tracker:
+Example of issue message:
 
 ```
 **Please provide this info when creating issue:**
