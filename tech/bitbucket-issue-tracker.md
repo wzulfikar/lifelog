@@ -1,11 +1,16 @@
 # Bitbucket Issue Tracker
 
-Enable it:
+Enable issue tracker:
 
-<iframe src="https://drive.google.com/file/d/0B4r-9IK4uRAzQl8yOERidWJVckE/preview" width="640" height="480"></iframe>
+![](http://i.giphy.com/26uf6uVbs1KcAcyNW.gif)
 
+Create an issue:
 
-Example of what I put in Bitbucket issue tracker:
+![](http://i.giphy.com/26uf0JmpD9i6ETICk.gif)
+
+---
+
+Example of what I put as message in Bitbucket issue tracker:
 
 ```
 **Please provide this info when creating issue:**
