@@ -3,7 +3,7 @@
 ### Creating Issue
 - go to your repo page
 - click `Issues`
-> you won't see the `Issues` link if you haven't enable the issue tracker.
+> you won't see the `Issues` link if you haven't enable issue tracker.
 - click `Create issue` (upper right)
 - upload image/attachment if any
 
