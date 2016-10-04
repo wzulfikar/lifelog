@@ -1,6 +1,6 @@
 # Bitbucket Issue Tracker
 
-Enable issue tracker:
+Enable issue tracker (if you have not):
 
 ![](http://i.giphy.com/26uf6uVbs1KcAcyNW.gif)
 
