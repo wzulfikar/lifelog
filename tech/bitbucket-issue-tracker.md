@@ -3,6 +3,7 @@
 ### Creating Issue
 - go to your repo page
 - click `Issues`
+> you won't see the `Issues` link if you haven't enable the issue tracker.
 - click `Create issue` (upper right)
 - upload image/attachment if any
 
@@ -10,7 +11,9 @@
 
 ![](http://i.giphy.com/26uf0JmpD9i6ETICk.gif)
 
-_If you haven't enable issue tracker yet, do this:_
+---
+
+_**If you haven't enable issue tracker yet, do this:**_
 
 ![](http://i.giphy.com/26uf6uVbs1KcAcyNW.gif)
 
