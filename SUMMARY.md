@@ -145,6 +145,7 @@
     * [Information  Retrieval Technology](learning_process/information_retrieval_technology.md)
     * [Quotes from "3 Things Successful People Do"](learning_process/quotes-from-3-things-successful-people-do.md)
     * [Scrum with Trello](learning_process/scrum-with-trello.md)
+    * [My Dad Has Changed How I See Cheap, Expensive & Affordability](learning_process/my-dad-has-changed-how-i-see-cheap-expensive--affordability.md)
 * [Draft](draft/README.md)
     * [Interpersonal Communication](draft/interpersonal_communication.md)
     * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
