@@ -28,6 +28,7 @@
     * [Awesome Tools](tech/awesome-tools.md)
     * [From Cyberduck to Filezilla, and back to Cyberduck again.](tech/from-cyberduck-to-filezilla-and-back-to-cyberduck-again.md)
     * [Bitbucket Issue Tracker](tech/bitbucket-issue-tracker.md)
+    * [My OWC SSD Dead](tech/my-owc-ssd-dead.md)
 * [Programming](programming/README.md)
     * [JavaScript \(JS\)](programming/js/README.md)
         * [JavaScript Lingo](programming/js/javascript_lingo.md)
