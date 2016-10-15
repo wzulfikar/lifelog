@@ -2,7 +2,7 @@
 
 the command to set heroku config is `heroku config:set`. to setup multiple config, separate with whitespace, eg. `heroku config:set KEY_ONE=VALUE_ONE KEY_TWO=VALUE_TWO`. however, this format is hard to read & change when the there are many config vars. to separate thus config vars into lines, we use `\`.
 
-the `\` tells terminal to break the line. notice that there's a whitespace before `\`. last entry for config var has no trailing `\`
+the `\` (backslash) tells terminal to break the line. notice that there's a whitespace before `\`. last entry for config var has no trailing `\`
 
 ```
 heroku config:set \
