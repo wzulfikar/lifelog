@@ -4,8 +4,37 @@ the command to set heroku config is `heroku config:set`. to setup multiple confi
 
 the `\` tells terminal to break the line. notice that there's a whitespace before `\`. last entry for config var has no trailing `\`
 
-```heroku config:set \KEY_ONE=VALUE_ONE \KEY_TWO=VALUE_TWO \KEY_THREE=VALUE_THREE \LAST_KEY=LAST_VALUE```
+```
+heroku config:set \
+KEY_ONE=VALUE_ONE \
+KEY_TWO=VALUE_TWO \
+KEY_THREE=VALUE_THREE \
+LAST_KEY=LAST_VALUE
+```
+try copy and paste above code in your terminal. remember that you can only execute heroku command `heroku config:set` inside directory of heroku project.
 
 another example is when you want to set config for laravel app:
 
-```heroku config:set \APP_ENV=local \APP_DEBUG=true \APP_KEY=DmRe0WkSOdiHpaNaUMD1jv4Wynpi1yPL \BASE_URL=http://mywebsite.com \DB_HOST=localhost \DB_DATABASE=imaluum \DB_USERNAME=root \DB_PASSWORD=toor \CACHE_DRIVER=redis \SESSION_DRIVER=redis \QUEUE_DRIVER=sync \MAIL_DRIVER=smtp \MAIL_HOST=smtp.mailgun.org \MAIL_PORT=587 \MAIL_USERNAME= \MAIL_PASSWORD= \MAILGUN_DOMAIN= \MAILGUN_SECRET= \ROLLBAR_TOKEN_SERVER=a67af30e00b641d2995213e7e38d5ee9 \ROLLBAR_TOKEN_CLIENT=86ca8f9996f349ab9c52e0391ea2f27f \LOG=errorlog \LOG_SETTING=daily```
+```
+heroku config:set \
+APP_ENV=local \
+APP_DEBUG=true \
+APP_KEY=DmRe0WkSOdiHpaNaUMD1jv4Wynpi1yPL \
+BASE_URL=http://mywebsite.com \
+DB_HOST=localhost \
+DB_DATABASE=imaluum \
+DB_USERNAME=root \
+DB_PASSWORD=toor \
+CACHE_DRIVER=redis \
+SESSION_DRIVER=redis \
+QUEUE_DRIVER=sync \MAIL_DRIVER=smtp \MAIL_HOST=smtp.mailgun.org \
+MAIL_PORT=587 \
+MAIL_USERNAME= \
+MAIL_PASSWORD= \
+MAILGUN_DOMAIN= \
+MAILGUN_SECRET= \
+ROLLBAR_TOKEN_SERVER=a67af30e00b641d2995213e7e38d5ee9 \
+ROLLBAR_TOKEN_CLIENT=86ca8f9996f349ab9c52e0391ea2f27f \
+LOG=errorlog \
+LOG_SETTING=daily
+```
