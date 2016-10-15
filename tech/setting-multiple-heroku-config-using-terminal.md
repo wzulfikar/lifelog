@@ -11,7 +11,11 @@ KEY_TWO=VALUE_TWO \
 KEY_THREE=VALUE_THREE \
 LAST_KEY=LAST_VALUE
 ```
-try copy and paste above code in your terminal. remember that you can only execute heroku command `heroku config:set` inside directory of heroku app. to check available heroku apps in your machine, use `heroku apps`.
+try copy and paste above code in your terminal. remember that you can only execute heroku command `heroku config:set` inside directory of heroku app. 
+
+![heroku config:set](/assets/Screen Shot 2016-10-15 at 2.41.30 PM.jpg)
+
+> to check available heroku apps in your machine, use `heroku apps`.
 
 another example is when you want to set config for laravel app:
 
