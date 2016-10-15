@@ -31,7 +31,8 @@ DB_USERNAME=root \
 DB_PASSWORD=toor \
 CACHE_DRIVER=redis \
 SESSION_DRIVER=redis \
-QUEUE_DRIVER=sync \MAIL_DRIVER=smtp \
+QUEUE_DRIVER=sync \
+MAIL_DRIVER=smtp \
 MAIL_HOST=smtp.mailgun.org \
 MAIL_PORT=587 \
 MAIL_USERNAME= \
