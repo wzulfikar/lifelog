@@ -24,6 +24,7 @@ heroku config:set \
 APP_ENV=local \
 APP_DEBUG=true \
 APP_KEY=DmRe0WkSOdiHpaNaUMD1jv4Wynpi1yPL \
+APP_CIPHER=AES-256-CBC \
 BASE_URL=http://mywebsite.com \
 DB_HOST=localhost \
 DB_DATABASE=imaluum \
