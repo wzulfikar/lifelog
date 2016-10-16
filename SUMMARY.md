@@ -102,6 +102,7 @@
         * [Detecting OS Using Built-in Function](programming/detecting_os_using_built-in_function.md)
         * [Go Struct](programming/go_struct.md)
         * [Fibonacci Using Function Closure](programming/fibonacci_using_function_closure.md)
+        * [Go Interface, Struct and Method](programming/go-interface-struct-and-method.md)
     * [Building New Feature : What I used to do.](programming/buildingnew_feature_what_i_used_to_do_md.md)
     * [Working with Datatables](programming/working_with_datatables.md)
     * [Random Stuff Related to Programming](programming/random_stuff_related_to_programming.md)
