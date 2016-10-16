@@ -24,6 +24,8 @@ type Car struct {
     color string
 }
 
+// what's the diff between `func (c Car)` & `func (c *Car)`?// `func (c Car)` will pass Car by value
+// while `func (c *Car)` will pass it by reference.// try change receiver of start method below from// `c *Car` to `c Car`.
 func (c *Car) start() { 
     c.isStarted = true 
     fmt.Println("engine is started")
