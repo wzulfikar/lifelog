@@ -3,7 +3,7 @@
 ```go
 package main
 
-import ( "fmt")
+import "fmt"
 
 func main() { ford := Car{} ford.color = "black" ford.start() ford.move(40) ford.stop()}
 
