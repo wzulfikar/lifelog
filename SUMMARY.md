@@ -154,6 +154,7 @@
     * [Scrum with Trello](learning_process/scrum-with-trello.md)
     * [My Dad Has Changed How I See Cheap, Expensive & Affordability](learning_process/my-dad-has-changed-how-i-see-cheap-expensive--affordability.md)
     * [Y4iW 2016](learning_process/y4iw-2016.md)
+    * [IMKK 2016](learning_process/imkk-2016.md)
 * [Draft](draft/README.md)
     * [Interpersonal Communication](draft/interpersonal_communication.md)
     * [OSX “Hosts” Preference Pane](tech/osx_hosts_preference_pane.md)
