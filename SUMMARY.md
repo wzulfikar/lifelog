@@ -55,6 +55,7 @@
         * [Handle AJAX Form Using Jquery](programming/js/handle_ajax_form_using_jquery.md)
         * [JS: Form Helper](programming/js/js_set_form_data.md)
         * [React](programming/js/react.md)
+        * [Datatables Editor](programming/js/datatables-editor.md)
     * [PHP](programming/php/README.md)
         * [Let's code to interface. But why?](programming/php/why-code-to-interface-php.md)
         * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
