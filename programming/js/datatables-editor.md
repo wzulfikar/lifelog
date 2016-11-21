@@ -1,4 +1,4 @@
-# Datatables Editor
+# Datatables Editor: Features
 
 # DT Editor
 
