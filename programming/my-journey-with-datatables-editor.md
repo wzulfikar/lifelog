@@ -35,7 +35,5 @@ $(document).ready(function() {
 });
   ```
 
-
-$.ajaxSetup({ headers: { 'X-CSRF-TOKEN' : '{{ csrf_token() }}' } });var editor; // use a global for the submit and return data rendering in the examples
-
-$(document).ready(function() { 
+### Common Errors:
+- undefined row id: https://datatables.net/manual/tech-notes/14
