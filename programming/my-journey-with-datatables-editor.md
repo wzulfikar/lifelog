@@ -7,7 +7,8 @@
 // csrf token if u're using laravel
 $.ajaxSetup({ headers: { 'X-CSRF-TOKEN' : '{{ csrf_token() }}' } });
 var editor; // use a global for the submit and return data rendering in the examples
-editor = new $.fn.dataTable.Editor( {
+$(document).ready(function() {
+  editor = new $.fn.dataTable.Editor( {
     ajax: "/editor/freights",
     table: "#manage-freights",
     fields: [ 
@@ -16,8 +17,8 @@ editor = new $.fn.dataTable.Editor( {
             name: "name",
         }, 
     ] 
-});
-$('#manage-users').DataTable( {
+  });
+  $('#manage-users').DataTable( {
     dom: "Bfrtip",
     ajax: "/dt/users",
     columns: [
@@ -30,6 +31,7 @@ $('#manage-users').DataTable( {
         { extend: "edit", editor: editor },
         { extend: "remove", editor: editor }
     ]
+  });
 });
   ```
 
