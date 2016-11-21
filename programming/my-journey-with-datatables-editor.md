@@ -4,11 +4,25 @@
 - common snippet:
 
   ```js
-$('#manage-freights').DataTable( {
+// csrf token if u're using laravel
+$.ajaxSetup({ headers: { 'X-CSRF-TOKEN' : '{{ csrf_token() }}' } });
+var editor; // use a global for the submit and return data rendering in the examples
+editor = new $.fn.dataTable.Editor( {
+    ajax: "/editor/freights",
+    table: "#manage-freights",
+    fields: [ 
+        {
+            label: "Nama",
+            name: "name",
+        }, 
+    ] 
+});
+$('#manage-users').DataTable( {
     dom: "Bfrtip",
-    ajax: "/dt/freights",
+    ajax: "/dt/users",
     columns: [
         { data: "name" },
+        { data: "email" },
     ],
     select: true,
     buttons: [
@@ -18,3 +32,8 @@ $('#manage-freights').DataTable( {
     ]
 });
   ```
+
+
+$.ajaxSetup({ headers: { 'X-CSRF-TOKEN' : '{{ csrf_token() }}' } });var editor; // use a global for the submit and return data rendering in the examples
+
+$(document).ready(function() { 
