@@ -37,3 +37,4 @@ $(document).ready(function() {
 
 ### Common Errors:
 - undefined row id: https://datatables.net/manual/tech-notes/14
+- undefined style: check your thead
