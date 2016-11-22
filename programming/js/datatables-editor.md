@@ -22,6 +22,7 @@
 - Time Inputs: http://localhost:8888/examples/dates/time.html
 - Date picker: http://localhost:8888/examples/dates/dates.html
 - Inline Editing with Submit Button: http://localhost:8888/examples/inline-editing/submitButton.html
+- Custom Display Controller: https://editor.datatables.net/examples/plug-ins/displayController.html
 
 ### Good, but not preferred
 1. bubble editing (multiple fields): http://localhost:8888/examples/bubble-editing/grouped.html
