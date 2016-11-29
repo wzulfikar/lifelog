@@ -36,3 +36,6 @@
 ### Useful
 1. styling options: http://localhost:8888/examples/styling/fieldDisplay.html
 - field plugin: http://localhost:8888/examples/plug-ins/fieldPlugin.html
+
+### Common Error
+- uncaught-typeerror-cannot-read-property-i18n-of-null: probably because u'r using trial version of DTE and the trial period is over
