@@ -69,6 +69,7 @@ Legends:
   - +login feature
   - +built-in validation
   - +nice UI
+  - +built-in column types adjustment
 - forest lumber: http://www.forestadmin.com/lumber
 
 ### Python
