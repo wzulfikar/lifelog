@@ -24,7 +24,7 @@ Here are some possible selling point:
 
 Legends:
   - `+` nice
-  - `-` not nice
+  - `-` less nice
   - `*` information
 
 # And here it is..
