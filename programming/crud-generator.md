@@ -30,7 +30,7 @@ Here are some possible selling point:
 - l5scaffold: https://github.com/laralib/l5scaffold
 - laravelgenerator: http://labs.infyom.com/laravelgenerator/
 - laravel-5-boilerplate: https://github.com/rappasoft/laravel-5-boilerplate
-- laracogs: 
+- laracogs: https://laracogs.com
 
 ### JS
 - strapi: http://strapi.io
