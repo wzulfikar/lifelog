@@ -14,8 +14,11 @@ the objective of this post is to write about library/framework with preferred CR
 # And here it is..
 
 ### PHP
-- scaffold-interface,
+- scaffold-interface
 - crudkit
+- l5scaffold: https://github.com/laralib/l5scaffold
+- laravelgenerator: http://labs.infyom.com/laravelgenerator/
+
+### JS
 - strapi
 - allcountjs
-
