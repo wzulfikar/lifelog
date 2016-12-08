@@ -31,6 +31,8 @@ Here are some possible selling point:
 - laravelgenerator: http://labs.infyom.com/laravelgenerator/
 - laravel-5-boilerplate: https://github.com/rappasoft/laravel-5-boilerplate
 - laracogs: https://laracogs.com
+- CRUD Admin Generator: http://crud-admin-generator.com
+- Laravel Panel: http://laravelpanel.com
 
 ### JS
 - strapi: http://strapi.io
