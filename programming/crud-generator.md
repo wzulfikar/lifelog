@@ -5,7 +5,7 @@ the objective of this post is to write about library/framework with preferred CR
 1. generate CRUD from database
 - support MySQL (at least)
 - ability to connect to multiple db
-- generate CRUD as well as API
+- REST API
 - has admin dashboard
 - user management
 - access control
@@ -36,5 +36,5 @@ Here are some possible selling point:
 - strapi: http://strapi.io
 - allcountjs: https://allcountjs.com
 - express-admin: https://github.com/simov/express-admin
-- 
+- forest lumber:
 
