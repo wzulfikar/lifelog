@@ -11,6 +11,7 @@ the objective of this post is to write about library/framework with preferred CR
 - access control
 - customizable
 - validation
+- JWT
 
 # And here it is..
 
