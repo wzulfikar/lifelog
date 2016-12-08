@@ -10,12 +10,13 @@ the objective of this post is to write about library/framework with preferred CR
 - user management
 - access control
 - customizable
+- validation
 
 # And here it is..
 
 ### PHP
 - scaffold-interface: http://amranidev.github.io/blog/site/scaffold-interface
-- crudkit
+- crudkit: 
 - l5scaffold: https://github.com/laralib/l5scaffold
 - laravelgenerator: http://labs.infyom.com/laravelgenerator/
 - laravel-5-boilerplate: https://github.com/rappasoft/laravel-5-boilerplate
