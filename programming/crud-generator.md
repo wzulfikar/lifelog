@@ -61,6 +61,8 @@ Legends:
 - allcountjs: https://allcountjs.com
 - express-admin: https://github.com/simov/express-admin
   - +easy to install
+  - *generate CRUD for all tables by default
+  - *auth features
 - forest lumber: http://www.forestadmin.com/lumber
 
 ### Python
