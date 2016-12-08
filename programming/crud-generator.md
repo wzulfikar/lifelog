@@ -41,6 +41,7 @@ Here are some possible selling point:
 - Laravel Panel: http://laravelpanel.com
   - +built-in support for column types
   - +file manager
+  - +support for WYSIWYG editor out of the box
   - -requires laravel (not standalone)
 
 ### JS
