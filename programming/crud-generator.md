@@ -70,7 +70,7 @@ Legends:
   - +built-in validation
   - +nice UI
   - +built-in column types adjustment
-  - +good documentation: http://simov.github.io/express-admin/
+  - +helpful documentation: http://simov.github.io/express-admin/
 - forest lumber: http://www.forestadmin.com/lumber
 
 ### Python
