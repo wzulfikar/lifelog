@@ -37,6 +37,7 @@ Here are some possible selling point:
   - -no auth feature
   - -no support for column types
  
+
 - Laravel Panel: http://laravelpanel.com
   - +built-in support for column types
   - +file manager
