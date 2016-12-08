@@ -25,7 +25,7 @@ Here are some possible selling point:
 # And here it is..
 
 ### PHP
-- scaffold-interface: http://amranidev.github.io/blog/site/scaffold-interface
+1. scaffold-interface: http://amranidev.github.io/blog/site/scaffold-interface
 - crudkit: http://crudkit.com
 - l5scaffold: https://github.com/laralib/l5scaffold
 - laravelgenerator: http://labs.infyom.com/laravelgenerator/
@@ -36,7 +36,6 @@ Here are some possible selling point:
   - +standalone package, no framework needed
   - -no auth feature
   - -no support for column types
- 
 
 - Laravel Panel: http://laravelpanel.com
   - +built-in support for column types
@@ -45,7 +44,7 @@ Here are some possible selling point:
   - -requires laravel (not standalone)
 
 ### JS
-- strapi: http://strapi.io
+1. strapi: http://strapi.io
 - allcountjs: https://allcountjs.com
 - express-admin: https://github.com/simov/express-admin
 - forest lumber: http://www.forestadmin.com/lumber
