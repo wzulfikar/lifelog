@@ -19,6 +19,8 @@ Here are some possible selling point:
 - community support
 - UI/UX
 - learning curve
+- ease of use
+- customizability
 
 # And here it is..
 
