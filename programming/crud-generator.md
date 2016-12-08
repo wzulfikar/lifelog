@@ -27,6 +27,7 @@ Here are some possible selling point:
 ### PHP
 1. scaffold-interface: http://amranidev.github.io/blog/site/scaffold-interface
 - crudkit: http://crudkit.com
+  - 
 - l5scaffold: https://github.com/laralib/l5scaffold
 - laravelgenerator: http://labs.infyom.com/laravelgenerator/
 - laravel-5-boilerplate: https://github.com/rappasoft/laravel-5-boilerplate
@@ -48,4 +49,8 @@ Here are some possible selling point:
 - allcountjs: https://allcountjs.com
 - express-admin: https://github.com/simov/express-admin
 - forest lumber: http://www.forestadmin.com/lumber
+
+### Python
+1. Sandman: https://github.com/jeffknupp/sandman
+
 
