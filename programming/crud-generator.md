@@ -55,6 +55,7 @@ Legends:
   - +modular
   - +built-in themes
   - *uses codeigniter
+- LaraAdmin: http://laraadmin.com
 
 ### JS
 1. strapi: http://strapi.io
