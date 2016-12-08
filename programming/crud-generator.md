@@ -22,6 +22,11 @@ Here are some possible selling point:
 - ease of use
 - customizability
 
+Legends:
+  - `+` nice
+  - `-` not nice
+  - `*` information
+
 # And here it is..
 
 ### PHP
