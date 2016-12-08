@@ -61,6 +61,7 @@ Legends:
   - +easy to install
   - +nice UI
   - +auth feature
+  - *only generate CRUD for defined tables
 - allcountjs: https://allcountjs.com
 - express-admin: https://github.com/simov/express-admin
   - +easy to install
