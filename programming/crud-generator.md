@@ -13,6 +13,13 @@ the objective of this post is to write about library/framework with preferred CR
 - validation
 - JWT
 
+Here are some possible selling point:
+
+1. good documentation
+- community support
+- UI/UX
+- learning curve
+
 # And here it is..
 
 ### PHP
