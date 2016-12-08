@@ -43,6 +43,10 @@ Here are some possible selling point:
   - +file manager
   - +support for WYSIWYG editor out of the box
   - -requires laravel (not standalone)
+- GroceryCrud: http://www.grocerycrud.com
+  - +easy to start
+  - +easy to use
+  - *uses codeigniter
 
 ### JS
 1. strapi: http://strapi.io
