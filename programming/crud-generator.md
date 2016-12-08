@@ -58,6 +58,9 @@ Legends:
 
 ### JS
 1. strapi: http://strapi.io
+  - +easy to install
+  - +nice UI
+  - +auth feature
 - allcountjs: https://allcountjs.com
 - express-admin: https://github.com/simov/express-admin
   - +easy to install
