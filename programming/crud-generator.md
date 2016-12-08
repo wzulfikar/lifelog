@@ -62,7 +62,7 @@ Legends:
 - express-admin: https://github.com/simov/express-admin
   - +easy to install
   - *generate CRUD for all tables by default
-  - *auth features
+  - +login feature
 - forest lumber: http://www.forestadmin.com/lumber
 
 ### Python
