@@ -52,6 +52,8 @@ Legends:
 - GroceryCrud: http://www.grocerycrud.com
   - +easy to start
   - +easy to use
+  - +modular
+  - +built-in themes
   - *uses codeigniter
 
 ### JS
