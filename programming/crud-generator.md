@@ -43,7 +43,6 @@ Legends:
   - *generate CRUD for all tables by default
   - -no auth feature
   - -no support for column types
-
 - Laravel Panel: http://laravelpanel.com
   - +built-in support for column types
   - +file manager
@@ -61,6 +60,7 @@ Legends:
 1. strapi: http://strapi.io
 - allcountjs: https://allcountjs.com
 - express-admin: https://github.com/simov/express-admin
+  - +easy to install
 - forest lumber: http://www.forestadmin.com/lumber
 
 ### Python
