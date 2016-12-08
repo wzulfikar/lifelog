@@ -33,8 +33,9 @@ Here are some possible selling point:
 - laravel-5-boilerplate: https://github.com/rappasoft/laravel-5-boilerplate
 - laracogs: https://laracogs.com
 - CRUD Admin Generator: http://crud-admin-generator.com
-  - +very easy to install
+  - +very easy to install & start
   - +standalone package, no framework needed
+  - *generate CRUD for all tables by default
   - -no auth feature
   - -no support for column types
 
