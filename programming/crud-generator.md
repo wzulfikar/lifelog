@@ -64,6 +64,7 @@ Legends:
   - *generate CRUD for all tables by default
   - +login feature
   - +built-in validation
+  - +nice UI
 - forest lumber: http://www.forestadmin.com/lumber
 
 ### Python
