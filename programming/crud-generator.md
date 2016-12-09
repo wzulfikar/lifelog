@@ -37,6 +37,8 @@ Legends:
 - laravelgenerator: http://labs.infyom.com/laravelgenerator/
 - laravel-5-boilerplate: https://github.com/rappasoft/laravel-5-boilerplate
 - laracogs: https://laracogs.com
+  - +helpful documentation
+  - +many helpful features
 - CRUD Admin Generator: http://crud-admin-generator.com
   - +very easy to install & start
   - +standalone package, no framework needed
