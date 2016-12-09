@@ -39,6 +39,7 @@ Legends:
 - laracogs: https://laracogs.com
   - +helpful documentation
   - +many helpful features
+  - *is a package
 - CRUD Admin Generator: http://crud-admin-generator.com
   - +very easy to install & start
   - +standalone package, no framework needed
