@@ -36,7 +36,8 @@ Legends:
 - l5scaffold: https://github.com/laralib/l5scaffold
 - laravelgenerator: http://labs.infyom.com/laravelgenerator/
   - +good & helpful documentation
-  - +can be installed as boilperlate/package
+  - +can be installed via boilperlate/package
+  - +includes generator for CRUD admin panel
 - laravel-5-boilerplate: https://github.com/rappasoft/laravel-5-boilerplate
 - laracogs: https://laracogs.com
   - +helpful documentation
