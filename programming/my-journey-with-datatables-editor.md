@@ -1,13 +1,13 @@
 # My Journey with Datatables Editor
 
-- using laravel: `DatatablesController`, `EditorController`, `routes/web/editor.php`, `routes/web/datatable.php`
-- common snippet:
+* using laravel: `DatatablesController`, `EditorController`, `routes/web/editor.php`, `routes/web/datatable.php`
+* common snippet:
 
   ```js
-// csrf token if u're using laravel
-$.ajaxSetup({ headers: { 'X-CSRF-TOKEN' : '{{ csrf_token() }}' } });
-var editor; // use a global for the submit and return data rendering in the examples
-$(document).ready(function() {
+  // csrf token if u're using laravel
+  $.ajaxSetup({ headers: { 'X-CSRF-TOKEN' : 'CSRF_TOKEN_HERE' } });
+  var editor; // use a global for the submit and return data rendering in the examples
+  $(document).ready(function() {
   editor = new $.fn.dataTable.Editor( {
     ajax: "/editor/freights",
     table: "#manage-freights",
@@ -32,9 +32,13 @@ $(document).ready(function() {
         { extend: "remove", editor: editor }
     ]
   });
-});
+  });
   ```
 
 ### Common Errors:
-- undefined row id: https://datatables.net/manual/tech-notes/14
-- undefined style: check your thead
+
+* undefined row id: [https://datatables.net/manual/tech-notes/14](https://datatables.net/manual/tech-notes/14)
+* undefined style: check your thead
+
+
+
