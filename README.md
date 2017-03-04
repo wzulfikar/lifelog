@@ -4,5 +4,3 @@
 
 Sometimes, I want to share things. Workplace, learning process, life as developer, personal experiences, etc. I also write stuffs in gist: [https://gist.github.com/wzulfikar](https://gist.github.com/wzulfikar)
 
-gh integration
-
