@@ -35,11 +35,9 @@ By the way, in case you're into PHP, someone made SDK here: [https://irazasyed.g
 
 Happy coding 😁 !
 
-
-
 ## Updates
 
-Sun, 5 Mar 2017 at 23:18:36 MYT
+> Sun, 5 Mar 2017 at 23:18:36 MYT
 
-Another awesome bot framework for PHP! Using this framework, you can create bot of multiple platform \(messenger, telegram, etc\). Check this out: http://botman.io
+Another awesome bot framework for PHP! Using this framework, you can create bot of multiple platform \(messenger, telegram, etc\). Check this out: [http://botman.io](http://botman.io)
 
