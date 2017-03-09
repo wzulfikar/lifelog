@@ -10,8 +10,8 @@ _You can find list of available command here: _[_https://core.telegram.org/bots\
 
 Talk to [BotFather](https://telegram.me/botfather) using your Telegram account, send him a message “`/newbot`” and then he'll guide you from there. To display things you can do with [BotFather](https://telegram.me/botfather), send him “`/help`”.
 
-![BotFather](../assets/botfather.png\)
-![BotFather Help]\(../assets/botfather-help.png)
+![BotFather](../assets/botfather.png)
+![BotFather Help](../assets/botfather-help.png)
 
 Once the new bot is created, you can test it by visiting this url:
 
