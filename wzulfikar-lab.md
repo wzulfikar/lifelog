@@ -15,5 +15,7 @@ Maybe, something like, a script to do [OCR](https://en.wikipedia.org/wiki/Optica
 Anyway, since you've read this far, you may want to check the repo. Here you go 😊
 
 <div style="text-align:center;">
-<a href="https://github.com/wzulfikar/lab" class="btn" style="background: rgb(86, 170, 118);color:white;">Visit Lab</a>
+	<a href="https://github.com/wzulfikar/lab" class="btn" style="background: rgb(86, 170, 118);color:white;">Visit Lab</a>
+	<div class="github-card" data-github="wzulfikar/lab" data-width="400" data-height="" data-theme="default"></div>
+	<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 </div>
