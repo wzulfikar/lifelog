@@ -29,6 +29,7 @@
   * [Bitbucket Issue Tracker](tech/bitbucket-issue-tracker.md)
   * [My OWC SSD Dead](tech/my-owc-ssd-dead.md)
   * [Setting Multiple Heroku Config Using Terminal](tech/setting-multiple-heroku-config-using-terminal.md)
+  * [Misbehaved SourceTree](misbehaved-sourcetree.md)
   * Docker
     * [Volumes](tech/volumes.md)
 * [Programming](programming/README.md)
@@ -163,5 +164,4 @@
   * [Using Cent to Represent Currency](programming/using_cent_to_represent_currency.md)
   * [That Taxi Driver](personal/that-taxi-driver.md)
   * [From Source Tree to GitHub Desktop](programming/from_source_tree_to_github_desktop.md)
-* [Misbehaved SourceTree](misbehaved-sourcetree.md)
 
