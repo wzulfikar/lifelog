@@ -30,6 +30,7 @@
   * [My OWC SSD Dead](tech/my-owc-ssd-dead.md)
   * [Setting Multiple Heroku Config Using Terminal](tech/setting-multiple-heroku-config-using-terminal.md)
   * [Misbehaved SourceTree](tech/misbehaved-sourcetree.md)
+  * [Laracon 2017](tech/laracon-2017.md)
   * Docker
     * [Volumes](tech/volumes.md)
 * [Programming](programming/README.md)
@@ -164,5 +165,4 @@
   * [Using Cent to Represent Currency](programming/using_cent_to_represent_currency.md)
   * [That Taxi Driver](personal/that-taxi-driver.md)
   * [From Source Tree to GitHub Desktop](programming/from_source_tree_to_github_desktop.md)
-* [Laracon 2017](laracon-2017.md)
 
