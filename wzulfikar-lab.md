@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wzulfikar Lab
+title: Wzulfikar | Lab
 permalink: /lab/
 ---
 
