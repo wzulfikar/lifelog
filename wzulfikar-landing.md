@@ -8,8 +8,6 @@ permalink: /
 
 Things I'd like to share. Workplace, learning process, life as developer, personal experiences, stuffs. [Start Reading](https://wzulfikar.gitbooks.io/lifelog/content/)
 
-📧 [me@wzulfikar.com](mailto: me@wzulfikar.com?Subject=Hello%20from lifelog!)
-
 <style type="text/css">
 @import url('https://fonts.googleapis.com/css?family=Niconne');
 h1 {
