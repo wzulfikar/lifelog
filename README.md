@@ -11,5 +11,7 @@ h1 {
 }
 </style>
 
-<h1 style="color: black;">Recent activity</h1>
-<iframe src="https://wzulfikar.github.io/vue-github-commits/embed.html?repo=wzulfikar/lifelog" scrolling="no" height="400" width="400" style="border: none;overflow-y: hidden;"></iframe>
+<div style="text-align: center;">
+	<h1 style="color: black;">Recent activity</h1>
+	<iframe src="https://wzulfikar.github.io/vue-github-commits/embed.html?repo=wzulfikar/lifelog" scrolling="no" height="400" width="400" style="border: none;overflow-y: hidden;"></iframe>
+</div>
