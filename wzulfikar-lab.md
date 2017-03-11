@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Wzulfikar Lab
 permalink: /lab/
 ---
 
@@ -17,6 +17,7 @@ Anyway, since you've read this far, you may want to check the repo. Here you go 
 @import url('https://fonts.googleapis.com/css?family=Niconne');
 h1 {
 	font-family: 'Niconne', cursive;
+	color: black;
 }
 </style>
 <div style="text-align:center;">
