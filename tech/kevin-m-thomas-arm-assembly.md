@@ -1,6 +1,12 @@
 # Kevin M. Thomas - ARM Assembly
-> Mon, 20 Mar 2017 at 13:11:52 MYT – Part 1 to 7
+> Mon, 20 Mar 2017 at 13:11:52 MYT
 https://www.linkedin.com/in/kevinmthomastr/recent-activity/posts/
+
+This note contains points that I took when reading 40-series posts about ARM assembyl by Kevin M. Thomas.
+
+Throughout the series, Kevil will use Raspberry Pi 3 which contains the Broadcom BCM2837 SoC with a 4x ARM Cortex-A53, 1.2GHz CPU and 1 GB LPDDR2 RAM. The OS used is Raspbian Jessie, Linux-based operating system. Read more about Raspberry PI here: [https://www.raspberrypi.org](https://www.raspberrypi.org)
+
+---
 
 - Keep in mind, 8 bits is equal to a byte and 2 nibbles are equal to a byte.
 
