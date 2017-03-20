@@ -10,7 +10,6 @@
 > by Chris Dixon and Learn, medium.com
 Feb 21, 2016
 
-—
 - historically, about every 10 to 15 years — major new cycles begin that completely reshape the computing landscape.
 - Each product era can be divided into two phases: 1) the gestation phase, when the new platform is first introduced but is expensive, incomplete, and/or difficult to use, 2) the growth phase, when a new product comes along that solves those problems, kicking off a period of exponential growth.
 - “The business plans of the next 10,000 startups are easy to forecast: Take X and add AI. This is a big deal, and now it’s here.” — Kevin Kelly
