@@ -7,9 +7,9 @@
 - layer, layer style, filter
 - shortcut is your friend
 
-![](../images/CMYK-toner.jpg)
+![](../assets/CMYK-toner.jpg)
 
-![](../images/rgb_vs_cmyk.jpg)
+![](../assets/rgb_vs_cmyk.jpg)
 
 ### Common Tools
 - crop
@@ -22,7 +22,7 @@
 - pen
 - color picker
 
-![](../images/ppi-2016.png)
+![](../assets/ppi-2016.png)
 
 ### freepik
 - http://www.freepik.com/free-vector/abstract-shapes-electro-party-poster_847754.htm
