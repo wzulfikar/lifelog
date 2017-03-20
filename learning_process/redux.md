@@ -1,6 +1,6 @@
 # Redux
 
-![react-redux-tooling](../images/react-redux-tooling.png)
+![react-redux-tooling](../assets/react-redux-tooling.png)
 
 Basic steps:
 - Project files
