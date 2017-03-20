@@ -14,7 +14,7 @@
 - Processes flows neatly from one to another, like a waterfall
 
 - However, there are some fundamental flaws:
-![waterfall-model](../images/waterfall-model.png)
+![waterfall-model](../assets/waterfall-model.png)
 - Some other obstacles waterfall model has to deal with:
     - Unclear requirement
     - Unrealistic expectations (deadline, estimates, scope)
@@ -94,7 +94,7 @@ Sample of initial product backlog:
 - Increment of potentially shippable product functionality
 
 ### Skeleton
-![scrum skeleton](../images/scrum-skeleton.png)
+![scrum skeleton](../assets/scrum-skeleton.png)
 
 
 ## Working Increment
