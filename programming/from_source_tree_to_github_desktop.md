@@ -18,11 +18,11 @@ Sites:
 - https://www.sourcetreeapp.com
 
 images:
-- ![GitHub Desktop](../images/github-desktop-about.png)
-- ![Atlassian SourceTree](../images/sourcetree-about.png)
-- ![GitHub Desktop Tutorial](../images/github-desktop-tutorial.png)
-- ![GitHub Desktop Sidebar](../images/github-desktop-sidebar.png)
-- ![SourceTree Sidebar](../images/sourcetree-sidebar.png)
+- ![GitHub Desktop](../assets/github-desktop-about.png)
+- ![Atlassian SourceTree](../assets/sourcetree-about.png)
+- ![GitHub Desktop Tutorial](../assets/github-desktop-tutorial.png)
+- ![GitHub Desktop Sidebar](../assets/github-desktop-sidebar.png)
+- ![SourceTree Sidebar](../assets/sourcetree-sidebar.png)
 
 
 
