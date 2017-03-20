@@ -4,7 +4,7 @@ List of things I used often in SublimeText.
 
 * wrapping text selection in tag: `ctrl + shift + w`
 
-  ![](/gifs/wrapping-selection-in-tag-using-sublime.gif)
+  ![](/assets/gifs/wrapping-selection-in-tag-using-sublime.gif)
 
 * paste without messing up the indents: `shift + cmd + v`
 
