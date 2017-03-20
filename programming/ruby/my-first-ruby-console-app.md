@@ -44,7 +44,7 @@ end
 
 ## Screenshot
 
-![](/images/city_code_console.png)
+![](/assets/city_code_console.png)
 
 ## Still want more?
 
