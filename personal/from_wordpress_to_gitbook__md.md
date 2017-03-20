@@ -42,4 +42,4 @@ or here (alias):
 ####5. Custom Domain
 working draft
 ####6. Desktop App
-![GitBook Editor](../images/gitbook-editor.png)
+![GitBook Editor](../assets/gitbook-editor.png)
