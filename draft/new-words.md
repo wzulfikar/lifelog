@@ -1,0 +1,1 @@
+- **communal**: shared by all members of a community; for common use: a communal bathroom and kitchen. 
