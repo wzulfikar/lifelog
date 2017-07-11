@@ -18,19 +18,19 @@ Worst-case time complexity, the longest it could possibly take with any valid in
 
 When you discuss Big-O notation, that is generally referring to the worst case scenario.
 
-For example, if we have to search two lists for common entries, we will calculate as if both entries would be at the very end of each list, just to be safe that we don't underestimate how long it could take.
+For example, if we have to search two lists for common entries, we will calculate as if both entries would be at the very end of each list, just to be safe that we don't underestimate how long it could take. Sample of Big O Notations:
 
-O(1) - determining if a number is odd or even. O(1) is a static amount of time, the same no matter how much information is there or how many users there are.
+`O(1)` - determining if a number is odd or even. O(1) is a static amount of time, the same no matter how much information is there or how many users there are.
 
-O(log N) - finding a word in the dictionary (using binary search). Binary search is an example of a type of 'divide and conquor' algorithm.
+`O(log N)` - finding a word in the dictionary (using binary search). Binary search is an example of a type of 'divide and conquor' algorithm.
 
-O(N) - reading a book
+`O(N)` - reading a book
 
-O(N log N) - sorting a deck of playing cards (using merge sort)
+`O(N log N)` - sorting a deck of playing cards (using merge sort)
 
-O(N^2) - checking if you have everything on your shopping list in your cart
+`O(N^2)` - checking if you have everything on your shopping list in your cart
 
-O(infinity) - tossing a coin until it lands on heads
+`O(infinity)` - tossing a coin until it lands on heads
 
 >As a rule of thumb, anything with N^2 or any other exponent is NOT a good algorithm for a site with multiple users.
 
