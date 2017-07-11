@@ -2,12 +2,11 @@
 
 *From http://www.freecodecamp.com/videos/big-o-notation-a-few-examples*
 
-Time complexity is a way of discussing how long specific algorithms take. This is useful in streamlining software so it works as fast as possible.
+Time complexity is a way of discussing how long specific algorithms<sup>[1](#1)</sup> take. This is useful in streamlining software so it works as fast as possible.
 
 When you're writing code, you should be aware of how long it's going to take to execute. Nobody wants to create a product that users find frustrating due to slow use.
 
 Time complexity is talked about in relation to an algorithm, a collection of one or more functions.
-
 
 >Big O Notation specifically helps you identify when an algorithm wouldn't 'scale' well, or work well with varying amounts of users, information, or other inputs.
 
@@ -52,3 +51,5 @@ coursera.org/course/algs4partI
 Q: All algorithms can be broken down to complete in a static amount of time if you do it effectively.
 
 A: Not all algorithms can be simplified to that extent, but you should always try to find the simplest way to solve your problem.
+
+Algorithm:
