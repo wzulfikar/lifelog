@@ -22,19 +22,19 @@ For example, if we have to search two lists for common entries, we will calculat
 
 Level of complexity in Big O Notations:
 
-`O(1)` - determining if a number is odd or even. `O(1)` is a static amount of time – the same no matter how much information is there or how many users there are.
+1. `O(1)` - determining if a number is odd or even. `O(1)` is a static amount of time – the same no matter how much information is there or how many users there are.
 
-`O(log N)` - finding a word in the dictionary (using binary search). Binary search is an example of a type of 'divide and conquer' algorithm.
+- `O(log N)` - finding a word in the dictionary (using binary search). Binary search is an example of a type of 'divide and conquer' algorithm.
 
-`O(N)` - directly and linearly connect with entry _n_. Very straight forward, ie. reading a book.
+- `O(N)` - directly and linearly connect with entry _n_. Very straight forward, ie. reading a book.
 
-`O(N log N)` - sorting a deck of playing cards (using merge sort)
+- `O(N log N)` - sorting a deck of playing cards (using merge sort)
 
-`O(N^2)` - checking if you have everything on your shopping list in your cart
+- `O(N^2)` - checking if you have everything on your shopping list in your cart
 
-`O(infinity)` - tossing a coin until it lands on heads
+- `O(infinity)` - tossing a coin until it lands on heads
 
->As a rule of thumb, anything with N^2 or any other exponent is NOT a good algorithm for a site with multiple users.
+    → _As a rule of thumb, anything with N^2 or any other exponent is NOT a good algorithm for a site with multiple users._
 
 If your algorithm slows down exponentially with the input, you're going to want to look for a more efficient way to solve that problem.
 
