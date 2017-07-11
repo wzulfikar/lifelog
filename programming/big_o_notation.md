@@ -18,7 +18,9 @@ Worst-case time complexity, the longest it could possibly take with any valid in
 
 When you discuss Big-O notation, that is generally referring to the worst case scenario.
 
-For example, if we have to search two lists for common entries, we will calculate as if both entries would be at the very end of each list, just to be safe that we don't underestimate how long it could take. Sample of Big O Notations:
+For example, if we have to search two lists for common entries, we will calculate as if both entries would be at the very end of each list, just to be safe that we don't underestimate how long it could take. 
+
+Level of complexity in Big O Notations:
 
 `O(1)` - determining if a number is odd or even. `O(1)` is a static amount of time – the same no matter how much information is there or how many users there are.
 
