@@ -52,4 +52,4 @@ Q: All algorithms can be broken down to complete in a static amount of time if y
 
 A: Not all algorithms can be simplified to that extent, but you should always try to find the simplest way to solve your problem.
 
-<a id="1">1</a>: Footnote content goes here
+<a id="1">1</a>: Algorithm could be one function or a set of functions that solve a problem.
