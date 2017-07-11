@@ -11,13 +11,11 @@ Time complexity is talked about in relation to an algorithm, a collection of one
 
 >Big O Notation specifically helps you identify when an algorithm wouldn't 'scale' well, or work well with varying amounts of users, information, or other inputs.
 
---
-
->no matter how big and fast your computer is, if the algorithm is ***exponentially inefficient***, it's realistically unusable.
-
 Time complexity is classified by the nature of the function T(n). O represents the function, and (n) represents the number of elements to be acted on.
 
 Worst-case time complexity, the longest it could possibly take with any valid input, is the most common way to express time complexity.
+
+>no matter how big and fast your computer is, if the algorithm is ***exponentially inefficient***, it's realistically unusable.
 
 When you discuss Big-O notation, that is generally referring to the worst case scenario.
 
