@@ -24,7 +24,7 @@ For example, if we have to search two lists for common entries, we will calculat
 
 `O(log N)` - finding a word in the dictionary (using binary search). Binary search is an example of a type of 'divide and conquer' algorithm.
 
-`O(N)` - reading a book
+`O(N)` - directly and linearly connect with entry _n_. Very straight forward, ie. reading a book.
 
 `O(N log N)` - sorting a deck of playing cards (using merge sort)
 
