@@ -22,7 +22,7 @@ For example, if we have to search two lists for common entries, we will calculat
 
 `O(1)` - determining if a number is odd or even. O(1) is a static amount of time, the same no matter how much information is there or how many users there are.
 
-`O(log N)` - finding a word in the dictionary (using binary search). Binary search is an example of a type of 'divide and conquor' algorithm.
+`O(log N)` - finding a word in the dictionary (using binary search). Binary search is an example of a type of 'divide and conquer' algorithm.
 
 `O(N)` - reading a book
 
