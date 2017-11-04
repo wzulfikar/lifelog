@@ -88,3 +88,5 @@
 - Note that GraphQL is actually *transport-layer* agnostic: it is potentially possible to implement a GraphQL server based on TCP, WebSockets, etc.
 - Each field in the query corresponds to a resolver function. The GraphQL calls all required resolvers when a query comes in to fetch the specified data, packed it up once all resolvers finished its jobs, and sent it to the client
 - GraphQL vs REST == declarative vs imperative
+
+test
