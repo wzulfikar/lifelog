@@ -39,7 +39,7 @@ Representative association of banks in malaysia
 - hype x maturity
 
 ---
-**Prof Dat's Dr Norbik** 
+**Prof Dato' Dr Norbik** 
 Professor at IIUM
 
 - concern in implementing blockchain: skill gaps
