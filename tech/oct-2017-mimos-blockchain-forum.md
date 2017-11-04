@@ -36,7 +36,7 @@ Senior Manager Securities Commission Malaysia
 **Suteshnathan Sunmuganathan** 
 Representative association of banks in malaysia
 
-- hype x maturity
+- blockchain: hype x maturity
 
 ---
 **Prof Dato' Dr Norbik** 
