@@ -34,6 +34,7 @@
   * Docker
     * [Volumes](tech/volumes.md)
   * [Notes from How to GraphQL Tutorials](tech/notes-from-how-to-graphql-tutorials.md)
+  * [Oct 2017 - Mimos Blockchain Forum](tech/oct-2017-mimos-blockchain-forum.md)
 * [Programming](programming/README.md)
   * [JavaScript \(JS\)](programming/js/README.md)
     * [JavaScript Lingo](programming/js/javascript_lingo.md)
