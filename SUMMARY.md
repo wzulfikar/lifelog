@@ -33,6 +33,7 @@
   * [Laracon 2017](tech/laracon-2017.md)
   * Docker
     * [Volumes](tech/volumes.md)
+  * [Notes from How to GraphQL Tutorials](tech/notes-from-how-to-graphql-tutorials.md)
 * [Programming](programming/README.md)
   * [JavaScript \(JS\)](programming/js/README.md)
     * [JavaScript Lingo](programming/js/javascript_lingo.md)
