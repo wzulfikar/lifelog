@@ -60,6 +60,7 @@
     * [React](programming/js/react.md)
     * [Datatables Editor Features](programming/js/datatables-editor.md)
     * [Using Nunjucks HTML Template Engine with Gulp](programming/js/using-nunjucks-html-template-engine-with-gulp.md)
+    * [TypeScript Hands-on](programming/js/typescript-hands-on.md)
   * [PHP](programming/php/README.md)
     * [Let's code to interface. But why?](programming/php/why-code-to-interface-php.md)
     * [Hi payload, do you have this?](draft/hi_payload_do_you_have_this_md.md)
